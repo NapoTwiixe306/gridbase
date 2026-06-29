@@ -1,0 +1,62 @@
+[
+    {
+        "fullName" : "Porsche Penske Motorsport",
+        "shortName" : "Porsche Penske",
+        "country" : "US",
+        "city" : "Mooresville",
+        "primaryColor" : "",
+        "secondaryColor" : "",
+        "foundedYear" : 2022,
+        "officialWebsite" : "https://www.porsche.com"
+    },
+    {
+        "fullName" : "Cadillac Wayne Taylor Racing",
+        "shortName" : "Cadillac WTR",
+        "country" : "US",
+        "city" : "Brownsburg",
+        "primaryColor" : "",
+        "secondaryColor" : "",
+        "foundedYear" : 2004,
+        "officialWebsite" : "https://www.waynetaylorracing.com"
+    },
+     {
+        "fullName" : "Acura Meyer Shank Racing",
+        "shortName" : "Acura MSR",
+        "country" : "US",
+        "city" : "Pataskala",
+        "primaryColor" : "",
+        "secondaryColor" : "",
+        "foundedYear" : 1989,
+        "officialWebsite" : "https://www.meyershankracing.com"
+    },
+     {
+        "fullName" : "BMW M Team WRT",
+        "shortName" : "Team WRT",
+        "country" : "BE",
+        "city" : "Stavelot",
+        "primaryColor" : "",
+        "secondaryColor" : "",
+        "foundedYear" : 2009,
+        "officialWebsite" : "https://www.w-racingteam.com/"
+    },
+     {
+        "fullName" : "Whelen Engineering Action Express Racing",
+        "shortName" : "Action Express",
+        "country" : "US",
+        "city" : "Denver",
+        "primaryColor" : "",
+        "secondaryColor" : "",
+        "foundedYear" : 2010,
+        "officialWebsite" : "https://www.axracing.com"
+    },
+     {
+        "fullName" : "Aston Martin THOR Team",
+        "shortName" : "THOR Team",
+        "country" : "US",
+        "city" : "West Palm Beach",
+        "primaryColor" : "",
+        "secondaryColor" : "",
+        "foundedYear" : 2024,
+        "officialWebsite" : "https://www.heartofracingteam.com"
+    }
+]

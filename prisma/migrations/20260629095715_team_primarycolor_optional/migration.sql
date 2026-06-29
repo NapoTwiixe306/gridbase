@@ -1,0 +1,1 @@
+ALTER TABLE `Team` MODIFY `primaryColor` VARCHAR(191) NULL;

@@ -1,0 +1,126 @@
+[
+  {
+    "team": "porsche-penske-motorsport",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "6",
+    "chassis": "Porsche 963",
+    "manufacturer": "Porsche",
+    "drivers": [
+      { "driver": "laurens-vanthoor", "isPrimary": true },
+      { "driver": "kevin-estre" },
+      { "driver": "matt-campbell", "role": "ENDURANCE_ONLY" }
+    ]
+  },
+  {
+    "team": "porsche-penske-motorsport",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "7",
+    "chassis": "Porsche 963",
+    "manufacturer": "Porsche",
+    "drivers": [
+      { "driver": "felipe-nasr", "isPrimary": true },
+      { "driver": "julien-andlauer" },
+      { "driver": "laurin-heinrich", "role": "ENDURANCE_ONLY" }
+    ]
+  },
+  {
+    "team": "cadillac-wayne-taylor-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "10",
+    "chassis": "Cadillac V-Series.R",
+    "manufacturer": "Cadillac",
+    "drivers": [
+      { "driver": "ricky-taylor", "isPrimary": true },
+      { "driver": "filipe-albuquerque" },
+      { "driver": "will-stevens", "role": "ENDURANCE_ONLY" }
+    ]
+  },
+  {
+    "team": "acura-meyer-shank-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "60",
+    "chassis": "Acura ARX-06",
+    "manufacturer": "Acura",
+    "drivers": [
+      { "driver": "colin-braun", "isPrimary": true },
+      { "driver": "tom-blomqvist" },
+      { "driver": "scott-dixon", "role": "ENDURANCE_ONLY" }
+    ]
+  },
+  {
+    "team": "acura-meyer-shank-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "93",
+    "chassis": "Acura ARX-06",
+    "manufacturer": "Acura",
+    "drivers": [
+      { "driver": "renger-van-der-zande", "isPrimary": true },
+      { "driver": "nick-yelloly" },
+      { "driver": "alex-palou", "role": "ENDURANCE_ONLY" }
+    ]
+  },
+  {
+    "team": "bmw-m-team-wrt",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "24",
+    "chassis": "BMW M Hybrid V8",
+    "manufacturer": "BMW",
+    "drivers": [
+      { "driver": "sheldon-van-der-linde", "isPrimary": true },
+      { "driver": "dries-vanthoor" }
+    ]
+  },
+  {
+    "team": "bmw-m-team-wrt",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "25",
+    "chassis": "BMW M Hybrid V8",
+    "manufacturer": "BMW",
+    "drivers": [
+      { "driver": "philipp-eng", "isPrimary": true },
+      { "driver": "marco-wittmann" }
+    ]
+  },
+  {
+    "team": "whelen-engineering-action-express-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "31",
+    "chassis": "Cadillac V-Series.R",
+    "manufacturer": "Cadillac",
+    "drivers": [
+      { "driver": "jack-aitken", "isPrimary": true },
+      { "driver": "earl-bamber" },
+      { "driver": "frederik-vesti", "role": "ENDURANCE_ONLY" }
+    ]
+  },
+  {
+    "team": "aston-martin-thor-team",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTP",
+    "carNumber": "23",
+    "chassis": "Aston Martin Valkyrie",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      { "driver": "ross-gunn", "isPrimary": true },
+      { "driver": "roman-de-angelis" },
+      { "driver": "alex-riberas", "role": "ENDURANCE_ONLY" }
+    ]
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "team": "red-bull-racing",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "1",
+    "drivers": [
+      {
+        "driver": "max-verstappen",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "williams",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "2",
+    "drivers": [
+      {
+        "driver": "logan-sargeant",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rb-visa-cash-app-rb",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "3",
+    "drivers": [
+      {
+        "driver": "daniel-ricciardo",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mclaren",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "4",
+    "drivers": [
+      {
+        "driver": "lando-norris",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "alpine",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "10",
+    "drivers": [
+      {
+        "driver": "pierre-gasly",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "red-bull-racing",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "11",
+    "drivers": [
+      {
+        "driver": "sergio-perez",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "aston-martin",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "14",
+    "drivers": [
+      {
+        "driver": "fernando-alonso",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "scuderia-ferrari",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "16",
+    "drivers": [
+      {
+        "driver": "charles-leclerc",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "aston-martin",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "18",
+    "drivers": [
+      {
+        "driver": "lance-stroll",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "haas",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "20",
+    "drivers": [
+      {
+        "driver": "kevin-magnussen",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rb-visa-cash-app-rb",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "22",
+    "drivers": [
+      {
+        "driver": "yuki-tsunoda",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "williams",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "23",
+    "drivers": [
+      {
+        "driver": "alexander-albon",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "kick-sauber",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "24",
+    "drivers": [
+      {
+        "driver": "guanyu-zhou",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "haas",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "27",
+    "drivers": [
+      {
+        "driver": "nico-hulkenberg",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rb-visa-cash-app-rb",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "30",
+    "drivers": [
+      {
+        "driver": "liam-lawson",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "alpine",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "31",
+    "drivers": [
+      {
+        "driver": "esteban-ocon",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "williams",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "43",
+    "drivers": [
+      {
+        "driver": "franco-colapinto",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-petronas",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "44",
+    "drivers": [
+      {
+        "driver": "lewis-hamilton",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "scuderia-ferrari",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "55",
+    "drivers": [
+      {
+        "driver": "carlos-sainz",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "alpine",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "61",
+    "drivers": [
+      {
+        "driver": "jack-doohan",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-petronas",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "63",
+    "drivers": [
+      {
+        "driver": "george-russell",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "kick-sauber",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "77",
+    "drivers": [
+      {
+        "driver": "valtteri-bottas",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mclaren",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "81",
+    "drivers": [
+      {
+        "driver": "oscar-piastri",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "haas",
+    "series": "f1",
+    "season": 2024,
+    "category": "F1",
+    "carNumber": "87",
+    "drivers": [
+      {
+        "driver": "oliver-bearman",
+        "isPrimary": true
+      }
+    ]
+  }
+]

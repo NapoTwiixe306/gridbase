@@ -1,0 +1,19 @@
+[
+  { "series": "wec", "year": 2025, "status": "FINISHED" },
+  { "series": "wec", "year": 2026, "status": "ONGOING" },
+  { "series": "f1", "year": 2024, "status": "FINISHED" },
+  { "series": "f1", "year": 2025, "status": "FINISHED" },
+  { "series": "f1", "year": 2026, "status": "ONGOING" },
+  { "series": "f2", "year": 2024, "status": "FINISHED" },
+  { "series": "f2", "year": 2025, "status": "FINISHED" },
+  { "series": "f2", "year": 2026, "status": "ONGOING" },
+  { "series": "f3", "year": 2024, "status": "FINISHED" },
+  { "series": "f3", "year": 2025, "status": "FINISHED" },
+  { "series": "f3", "year": 2026, "status": "ONGOING" },
+  { "series": "gtwc-europe", "year": 2025, "status": "FINISHED" },
+  { "series": "gtwc-europe", "year": 2026, "status": "ONGOING" },
+  { "series": "dtm", "year": 2025, "status": "FINISHED" },
+  { "series": "dtm", "year": 2026, "status": "ONGOING" },
+  { "series": "imsa", "year": 2025, "status": "FINISHED" },
+  { "series": "imsa", "year": 2026, "status": "ONGOING" }
+]

@@ -1,0 +1,303 @@
+// GridBase — motorsport data schema
+// Database: MySQL 8.0
+// All string IDs are cuid().
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+enum DriverStatus {
+  ACTIVE
+  RETIRED
+  DECEASED
+  WITHOUT_SEAT
+}
+
+enum TeamStatus {
+  ACTIVE
+  INACTIVE
+  MERGED
+  ACQUIRED
+}
+
+enum ManufacturerType {
+  ENGINE_SUPPLIER
+  CHASSIS_CONSTRUCTOR
+  BOTH
+}
+
+enum SeriesCategory {
+  SINGLE_SEATER
+  ENDURANCE
+  GT
+  TOURING
+  RALLY
+  OTHER
+}
+
+enum DataSource {
+  JOLPICA
+  OPENF1
+  COMMUNITY
+  MANUAL
+}
+
+enum SeasonStatus {
+  UPCOMING
+  ONGOING
+  FINISHED
+  CANCELLED
+}
+
+enum EntryStatus {
+  CONFIRMED
+  RUMOUR
+  CANCELLED
+  WITHDRAWN
+}
+
+enum DriverRole {
+  TITULAR
+  REPLACEMENT
+  ENDURANCE_ONLY
+  GUEST
+}
+
+enum WECClassification {
+  PLATINUM
+  GOLD
+  SILVER
+  BRONZE
+}
+
+enum TransferStatus {
+  RUMOUR
+  CONFIRMED
+  OFFICIAL
+  CANCELLED
+}
+
+enum TransferType {
+  TRANSFER
+  RETIREMENT
+  COMEBACK
+  REPLACEMENT
+  LOAN
+}
+
+enum PhotoLicense {
+  CC0
+  CC_BY
+  CC_BY_SA
+}
+
+model Driver {
+  id                 String        @id @default(cuid())
+  firstName          String
+  lastName           String
+  nationality        String // ISO 3166-1 alpha-2
+  dateOfBirth        DateTime?
+  cityOfBirth        String?
+  countryOfBirth     String? // ISO 3166-1 alpha-2
+  racingNumber       Int?
+  nickname           String?
+  shortBio           String?       @db.Text
+  officialWebsite    String?
+  instagram          String?
+  twitter            String?
+  status             DriverStatus  @default(ACTIVE)
+  slug               String        @unique
+  photoUrl           String? // Wikimedia Commons URLs ONLY
+  photoLicense       PhotoLicense?
+  photographerCredit String? // Required if CC_BY_SA
+  photoSourceUrl     String? // Wikimedia source page URL
+  createdAt          DateTime      @default(now())
+  updatedAt          DateTime      @updatedAt
+
+  entryDrivers  EntryDriver[]
+  transfersFrom Transfer[]    @relation("TransferDriver")
+
+  @@index([slug])
+  @@index([lastName])
+  @@index([nationality])
+}
+
+model Team {
+  id              String     @id @default(cuid())
+  fullName        String
+  shortName       String
+  country         String // ISO 3166-1 alpha-2
+  city            String?
+  primaryColor    String? // Hex color e.g. "#DC0000" (optional — may be unknown)
+  secondaryColor  String? // Hex color
+  foundedYear     Int?
+  dissolvedYear   Int?
+  officialWebsite String?
+  instagram       String?
+  twitter         String?
+  status          TeamStatus @default(ACTIVE)
+  nameHistory     Json? // Array of { name: string, year: number }
+  slug            String     @unique
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+
+  entries       Entry[]
+  transfersFrom Transfer[] @relation("TransferTeamFrom")
+  transfersTo   Transfer[] @relation("TransferTeamTo")
+
+  @@index([slug])
+}
+
+model Manufacturer {
+  id        String           @id @default(cuid())
+  name      String           @unique
+  type      ManufacturerType
+  country   String // ISO 3166-1 alpha-2
+  website   String?
+  isActive  Boolean          @default(true)
+  createdAt DateTime         @default(now())
+  updatedAt DateTime         @updatedAt
+
+  entries Entry[]
+
+  @@index([name])
+}
+
+model Series {
+  id           String         @id @default(cuid())
+  fullName     String
+  shortName    String
+  slug         String         @unique
+  organiser    String?
+  category     SeriesCategory
+  website      String?
+  country      String?
+  isActive     Boolean        @default(true)
+  dataSource   DataSource     @default(COMMUNITY)
+  dataCoverage String? // "complete" | "partial" | "minimal"
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+
+  seasons       Season[]
+  categories    Category[]
+  entries       Entry[]
+  transfersFrom Transfer[] @relation("TransferSeriesFrom")
+  transfersTo   Transfer[] @relation("TransferSeriesTo")
+
+  @@index([slug])
+}
+
+model Season {
+  id            String       @id @default(cuid())
+  seriesId      String
+  year          Int
+  plannedRounds Int?
+  actualRounds  Int?
+  status        SeasonStatus @default(UPCOMING)
+  regulationUrl String?      @db.Text
+  createdAt     DateTime     @default(now())
+  updatedAt     DateTime     @updatedAt
+
+  series  Series  @relation(fields: [seriesId], references: [id])
+  entries Entry[]
+
+  @@unique([seriesId, year])
+  @@index([seriesId])
+}
+
+model Category {
+  id           String   @id @default(cuid())
+  seriesId     String
+  fullName     String // e.g. "Hypercar", "LMGT3", "GTD Pro"
+  abbreviation String // e.g. "HYP", "LMGT3"
+  description  String?  @db.Text
+  hierarchy    Int // 1 = top class
+  displayColor String? // Hex
+  isActive     Boolean  @default(true)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  series  Series  @relation(fields: [seriesId], references: [id])
+  entries Entry[]
+
+  @@unique([seriesId, abbreviation])
+  @@index([seriesId])
+}
+
+model EntryDriver {
+  id                String             @id @default(cuid())
+  entryId           String
+  driverId          String
+  role              DriverRole         @default(TITULAR)
+  isPrimary         Boolean            @default(false)
+  wecClassification WECClassification?
+
+  entry  Entry  @relation(fields: [entryId], references: [id], onDelete: Cascade)
+  driver Driver @relation(fields: [driverId], references: [id])
+
+  @@unique([entryId, driverId])
+  @@index([driverId])
+  @@index([entryId])
+}
+
+model Entry {
+  id             String       @id @default(cuid())
+  teamId         String
+  seasonId       String
+  seriesId       String
+  categoryId     String?
+  carNumber      String
+  chassis        String?
+  manufacturerId String?
+  status         EntryStatus  @default(CONFIRMED)
+  announcedAt    DateTime?
+  sourceUrl      String?      @db.Text
+  createdAt      DateTime     @default(now())
+  updatedAt      DateTime     @updatedAt
+
+  team         Team          @relation(fields: [teamId], references: [id])
+  season       Season        @relation(fields: [seasonId], references: [id])
+  series       Series        @relation(fields: [seriesId], references: [id])
+  category     Category?     @relation(fields: [categoryId], references: [id])
+  manufacturer Manufacturer? @relation(fields: [manufacturerId], references: [id])
+  drivers      EntryDriver[]
+
+  @@unique([seasonId, carNumber])
+  @@index([teamId])
+  @@index([seasonId])
+  @@index([seriesId])
+  @@index([categoryId])
+  @@index([manufacturerId])
+}
+
+model Transfer {
+  id           String         @id @default(cuid())
+  driverId     String
+  fromTeamId   String?
+  toTeamId     String?
+  fromSeriesId String?
+  toSeriesId   String?
+  season       String? // e.g. "2026"
+  announcedAt  DateTime?
+  effectiveAt  DateTime?
+  status       TransferStatus @default(RUMOUR)
+  type         TransferType   @default(TRANSFER)
+  sourceUrl    String?        @db.Text
+  notes        String?        @db.Text
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+
+  driver     Driver  @relation("TransferDriver", fields: [driverId], references: [id])
+  fromTeam   Team?   @relation("TransferTeamFrom", fields: [fromTeamId], references: [id])
+  toTeam     Team?   @relation("TransferTeamTo", fields: [toTeamId], references: [id])
+  fromSeries Series? @relation("TransferSeriesFrom", fields: [fromSeriesId], references: [id])
+  toSeries   Series? @relation("TransferSeriesTo", fields: [toSeriesId], references: [id])
+
+  @@index([driverId])
+  @@index([status])
+}

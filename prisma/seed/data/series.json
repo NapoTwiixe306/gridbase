@@ -1,0 +1,79 @@
+[
+  {
+    "slug": "wec",
+    "fullName": "FIA World Endurance Championship",
+    "shortName": "WEC",
+    "organiser": "FIA / ACO",
+    "category": "ENDURANCE",
+    "website": "https://www.fiawec.com",
+    "country": "FR",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "complete"
+  },
+  {
+    "slug": "f1",
+    "fullName": "FIA Formula One World Championship",
+    "shortName": "F1",
+    "organiser": "FIA / Formula One Group",
+    "category": "SINGLE_SEATER",
+    "website": "https://www.formula1.com",
+    "country": "GB",
+    "dataSource": "JOLPICA",
+    "dataCoverage": "complete"
+  },
+  {
+    "slug": "f2",
+    "fullName": "FIA Formula 2 Championship",
+    "shortName": "F2",
+    "organiser": "FIA",
+    "category": "SINGLE_SEATER",
+    "website": "https://www.fiaformula2.com",
+    "country": "GB",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "minimal"
+  },
+  {
+    "slug": "f3",
+    "fullName": "FIA Formula 3 Championship",
+    "shortName": "F3",
+    "organiser": "FIA",
+    "category": "SINGLE_SEATER",
+    "website": "https://www.fiaformula3.com",
+    "country": "GB",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "minimal"
+  },
+  {
+    "slug": "gtwc-europe",
+    "fullName": "GT World Challenge Europe",
+    "shortName": "GTWC Europe",
+    "organiser": "SRO Motorsports Group",
+    "category": "GT",
+    "website": "https://www.gt-world-challenge-europe.com",
+    "country": "GB",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "dtm",
+    "fullName": "Deutsche Tourenwagen Masters",
+    "shortName": "DTM",
+    "organiser": "ADAC",
+    "category": "GT",
+    "website": "https://www.dtm.com",
+    "country": "DE",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "imsa",
+    "fullName": "IMSA SportsCar Championship",
+    "shortName": "IMSA",
+    "organiser": "IMSA",
+    "category": "ENDURANCE",
+    "website": "https://www.imsa.com",
+    "country": "US",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  }
+]

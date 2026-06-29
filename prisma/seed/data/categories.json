@@ -1,0 +1,15 @@
+[
+  { "series": "wec", "fullName": "Hypercar", "abbreviation": "HYP", "hierarchy": 1 },
+  { "series": "wec", "fullName": "LMGT3", "abbreviation": "LMGT3", "hierarchy": 2 },
+  { "series": "imsa", "fullName": "Grand Touring Prototype", "abbreviation": "GTP", "hierarchy": 1 },
+  { "series": "imsa", "fullName": "Le Mans Prototype 2", "abbreviation": "LMP2", "hierarchy": 2 },
+  { "series": "imsa", "fullName": "GT Daytona Pro", "abbreviation": "GTDPRO", "hierarchy": 3 },
+  { "series": "imsa", "fullName": "GT Daytona", "abbreviation": "GTD", "hierarchy": 4 },
+  { "series": "gtwc-europe", "fullName": "Pro", "abbreviation": "PRO", "hierarchy": 1 },
+  { "series": "gtwc-europe", "fullName": "Pro-Am", "abbreviation": "PROAM", "hierarchy": 2 },
+  { "series": "gtwc-europe", "fullName": "Am", "abbreviation": "AM", "hierarchy": 3 },
+  { "series": "f1", "fullName": "Formula One", "abbreviation": "F1", "hierarchy": 1 },
+  { "series": "f2", "fullName": "Formula 2", "abbreviation": "F2", "hierarchy": 1 },
+  { "series": "f3", "fullName": "Formula 3", "abbreviation": "F3", "hierarchy": 1 },
+  { "series": "dtm", "fullName": "DTM", "abbreviation": "DTM", "hierarchy": 1 }
+]

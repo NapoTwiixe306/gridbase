@@ -1,0 +1,410 @@
+[
+  {
+    "team": "aston-martin-thor-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "007",
+    "chassis": "Aston Martin Valkyrie AMR-LMH",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "tom-gamble",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "harry-tincknell",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "ross-gunn",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "aston-martin-thor-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "009",
+    "chassis": "Aston Martin Valkyrie AMR-LMH",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "alex-riberas",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "marco-sorensen",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "roman-de-angelis",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "toyota-gazoo-racing",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "7",
+    "chassis": "Toyota GR010 Hybrid",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "mike-conway",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "kamui-kobayashi",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "nyck-de-vries",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "toyota-gazoo-racing",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "8",
+    "chassis": "Toyota GR010 Hybrid",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "sebastien-buemi",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "brendon-hartley",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "ryo-hirakawa",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "cadillac-hertz-team-jota",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "12",
+    "chassis": "Cadillac V-Series.R",
+    "manufacturer": "Cadillac",
+    "drivers": [
+      {
+        "driver": "norman-nato",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "will-stevens",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "louis-deletraz",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "cadillac-hertz-team-jota",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "38",
+    "chassis": "Cadillac V-Series.R",
+    "manufacturer": "Cadillac",
+    "drivers": [
+      {
+        "driver": "earl-bamber",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "sebastien-bourdais",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "jack-aitken",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "bmw-m-team-wrt",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "15",
+    "chassis": "BMW M Hybrid V8",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "kevin-magnussen",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "raffaele-marciello",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "dries-vanthoor",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "bmw-m-team-wrt",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "20",
+    "chassis": "BMW M Hybrid V8",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "robin-frijns",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "rene-rast",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "sheldon-van-der-linde",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "genesis-magma-racing",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "17",
+    "chassis": "Genesis GMR-001",
+    "manufacturer": "Genesis",
+    "drivers": [
+      {
+        "driver": "pipo-derani",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "mathys-jaubert",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "andre-lotterer",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "genesis-magma-racing",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "19",
+    "chassis": "Genesis GMR-001",
+    "manufacturer": "Genesis",
+    "drivers": [
+      {
+        "driver": "paul-loup-chatin",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "mathieu-jaminet",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "daniel-juncadella",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "alpine-endurance-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "35",
+    "chassis": "Alpine A424",
+    "manufacturer": "Alpine",
+    "drivers": [
+      {
+        "driver": "antonio-felix-da-costa",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "ferdinand-habsburg",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "charles-milesi",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "alpine-endurance-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "36",
+    "chassis": "Alpine A424",
+    "manufacturer": "Alpine",
+    "drivers": [
+      {
+        "driver": "jules-gounon",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "frederic-makowiecki",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "victor-martins",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "ferrari-af-corse",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "50",
+    "chassis": "Ferrari 499P",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "antonio-fuoco",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "miguel-molina",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "nicklas-nielsen",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "ferrari-af-corse",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "51",
+    "chassis": "Ferrari 499P",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "james-calado",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "antonio-giovinazzi",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "alessandro-pier-guidi",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "83",
+    "chassis": "Ferrari 499P",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "phil-hanson",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "robert-kubica",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "yifei-ye",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "peugeot-totalenergies",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "93",
+    "chassis": "Peugeot 9X8",
+    "manufacturer": "Peugeot",
+    "drivers": [
+      {
+        "driver": "nick-cassidy",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "paul-di-resta",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "stoffel-vandoorne",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  },
+  {
+    "team": "peugeot-totalenergies",
+    "series": "wec",
+    "season": 2026,
+    "category": "HYP",
+    "carNumber": "94",
+    "chassis": "Peugeot 9X8",
+    "manufacturer": "Peugeot",
+    "drivers": [
+      {
+        "driver": "loic-duval",
+        "isPrimary": true,
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "malthe-jakobsen",
+        "wecClassification": "PLATINUM"
+      },
+      {
+        "driver": "theo-pourchaire",
+        "wecClassification": "PLATINUM"
+      }
+    ]
+  }
+]

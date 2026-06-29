@@ -1,0 +1,230 @@
+[
+  {
+    "team": "triarsi-competizione",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "033",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "riccardo-agostini",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-calado"
+      }
+    ]
+  },
+  {
+    "team": "paul-miller-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "001",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "connor-de-phillippi",
+        "isPrimary": true
+      },
+      {
+        "driver": "neil-verhagen"
+      }
+    ]
+  },
+  {
+    "team": "corvette-racing-by-pratt-miller-motorsports",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "003",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "antonio-garcia",
+        "isPrimary": true
+      },
+      {
+        "driver": "alexander-sims"
+      },
+      {
+        "driver": "nicky-catsburg"
+      },
+      {
+        "driver": "tommy-milner"
+      }
+    ]
+  },
+  {
+    "team": "pfaff-motorsports",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "009",
+    "chassis": "Lamborghini Huracan GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "andrea-caldarelli",
+        "isPrimary": true
+      },
+      {
+        "driver": "sandy-mitchell"
+      }
+    ]
+  },
+  {
+    "team": "vasser-sullivan-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "014",
+    "chassis": "Lexus RC F GT3",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "ben-barnicoat",
+        "isPrimary": true
+      },
+      {
+        "driver": "jack-hawksworth"
+      }
+    ]
+  },
+  {
+    "team": "winward-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "048",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jason-hart",
+        "isPrimary": true
+      },
+      {
+        "driver": "scott-noble"
+      },
+      {
+        "driver": "luca-stolz"
+      }
+    ]
+  },
+  {
+    "team": "rll-team-mclaren",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "059",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "max-esterson",
+        "isPrimary": true
+      },
+      {
+        "driver": "nikita-johnson"
+      }
+    ]
+  },
+  {
+    "team": "risi-competizione",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "062",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "davide-rigon",
+        "isPrimary": true
+      },
+      {
+        "driver": "daniel-serra"
+      }
+    ]
+  },
+  {
+    "team": "ford-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "064",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "ben-barker",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-olsen"
+      }
+    ]
+  },
+  {
+    "team": "ford-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "065",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "christopher-mies",
+        "isPrimary": true
+      },
+      {
+        "driver": "frederic-vervisch"
+      }
+    ]
+  },
+  {
+    "team": "ao-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "077",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "harry-king",
+        "isPrimary": true
+      },
+      {
+        "driver": "nick-tandy"
+      }
+    ]
+  },
+  {
+    "team": "manthey-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTDPRO",
+    "carNumber": "911",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "klaus-bachler",
+        "isPrimary": true
+      },
+      {
+        "driver": "ricardo-feller"
+      },
+      {
+        "driver": "thomas-preining"
+      }
+    ]
+  }
+]

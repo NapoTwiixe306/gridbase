@@ -1,0 +1,98 @@
+[
+  {
+    "fullName": "Alpine",
+    "shortName": "Alpine",
+    "country": "FR",
+    "primaryColor": "#0093CC",
+    "secondaryColor": "#FF87BC",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Aston Martin",
+    "shortName": "Aston Martin",
+    "country": "GB",
+    "primaryColor": "#229971",
+    "secondaryColor": "#000000",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Audi",
+    "shortName": "Audi",
+    "country": "DE",
+    "primaryColor": "#BB0A30",
+    "secondaryColor": "#000000",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Cadillac F1 Team",
+    "shortName": "Cadillac",
+    "country": "US",
+    "primaryColor": "#1A1A1A",
+    "secondaryColor": "#C9A24B",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Haas",
+    "shortName": "Haas",
+    "country": "US",
+    "primaryColor": "#B6BABD",
+    "secondaryColor": "#ED1C24",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Kick Sauber",
+    "shortName": "Sauber",
+    "country": "CH",
+    "primaryColor": "#52E252",
+    "secondaryColor": "#000000",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "McLaren",
+    "shortName": "McLaren",
+    "country": "GB",
+    "primaryColor": "#FF8000",
+    "secondaryColor": "#000000",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Petronas",
+    "shortName": "Mercedes",
+    "country": "DE",
+    "primaryColor": "#27F4D2",
+    "secondaryColor": "#000000",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "RB (Visa Cash App RB)",
+    "shortName": "RB",
+    "country": "IT",
+    "primaryColor": "#6692FF",
+    "secondaryColor": "#1634CB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Red Bull Racing",
+    "shortName": "Red Bull",
+    "country": "AT",
+    "primaryColor": "#3671C6",
+    "secondaryColor": "#FF1801",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Scuderia Ferrari",
+    "shortName": "Ferrari",
+    "country": "IT",
+    "primaryColor": "#E8002D",
+    "secondaryColor": "#FFF200",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Williams",
+    "shortName": "Williams",
+    "country": "GB",
+    "primaryColor": "#64C4FF",
+    "secondaryColor": "#00A0DE",
+    "status": "ACTIVE"
+  }
+]

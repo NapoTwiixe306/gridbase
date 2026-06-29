@@ -1,0 +1,317 @@
+[
+  {
+    "team": "triarsi-competizione",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "023",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "kenton-koch",
+        "isPrimary": true
+      },
+      {
+        "driver": "robert-megennis"
+      },
+      {
+        "driver": "onofrio-triarsi"
+      }
+    ]
+  },
+  {
+    "team": "vasser-sullivan-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "12",
+    "chassis": "Lexus RC F GT3",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "benjamin-pedersen",
+        "isPrimary": true
+      },
+      {
+        "driver": "aaron-telitz"
+      },
+      {
+        "driver": "frankie-montecalvo"
+      }
+    ]
+  },
+  {
+    "team": "13-autosport",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "13",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "matt-bell",
+        "isPrimary": true
+      },
+      {
+        "driver": "orey-fidani"
+      },
+      {
+        "driver": "lars-kern"
+      }
+    ]
+  },
+  {
+    "team": "myers-riley-motorsports",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "16",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "felipe-fraga",
+        "isPrimary": true
+      },
+      {
+        "driver": "sheena-monk"
+      },
+      {
+        "driver": "jenson-altzman"
+      }
+    ]
+  },
+  {
+    "team": "van-der-steur-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "19",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "rory-van-der-steur",
+        "isPrimary": true
+      },
+      {
+        "driver": "valentin-hasse-clot"
+      },
+      {
+        "driver": "sebastien-baud"
+      }
+    ]
+  },
+  {
+    "team": "af-corse-usa",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "21",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "antonio-fuoco",
+        "isPrimary": true
+      },
+      {
+        "driver": "simon-mann"
+      },
+      {
+        "driver": "lilou-wadoux"
+      }
+    ]
+  },
+  {
+    "team": "heart-of-racing-team",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "27",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "eduardo-barrichello",
+        "isPrimary": true
+      },
+      {
+        "driver": "tom-gamble"
+      },
+      {
+        "driver": "zacharie-robichon"
+      }
+    ]
+  },
+  {
+    "team": "rs1",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "28",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "jan-heylen",
+        "isPrimary": true
+      },
+      {
+        "driver": "dillon-machavern"
+      },
+      {
+        "driver": "sven-muller"
+      }
+    ]
+  },
+  {
+    "team": "conquest-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "34",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "albert-costa",
+        "isPrimary": true
+      },
+      {
+        "driver": "lorenzo-patrese"
+      },
+      {
+        "driver": "manny-franco"
+      }
+    ]
+  },
+  {
+    "team": "dxdt-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "36",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "mason-filippi",
+        "isPrimary": true
+      },
+      {
+        "driver": "charlie-eastwood"
+      },
+      {
+        "driver": "salih-yoluc"
+      }
+    ]
+  },
+  {
+    "team": "magnus-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "44",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "john-potter",
+        "isPrimary": true
+      },
+      {
+        "driver": "spencer-pumpelly"
+      },
+      {
+        "driver": "madison-snow"
+      }
+    ]
+  },
+  {
+    "team": "wayne-taylor-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "45",
+    "chassis": "Lamborghini Huracan GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "danny-formal",
+        "isPrimary": true
+      },
+      {
+        "driver": "trent-hindman"
+      },
+      {
+        "driver": "graham-doyle"
+      }
+    ]
+  },
+  {
+    "team": "winward-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "57",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "philip-ellis",
+        "isPrimary": true
+      },
+      {
+        "driver": "russell-ward"
+      },
+      {
+        "driver": "indy-dontje"
+      }
+    ]
+  },
+  {
+    "team": "gradient-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "66",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "jake-walker",
+        "isPrimary": true
+      },
+      {
+        "driver": "corey-lewis"
+      },
+      {
+        "driver": "till-bechtolsheimer"
+      }
+    ]
+  },
+  {
+    "team": "inception-racing",
+    "series": "imsa",
+    "season": 2026,
+    "category": "GTD",
+    "carNumber": "70",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "brendan-iribe",
+        "isPrimary": true
+      },
+      {
+        "driver": "frederik-schandorff"
+      },
+      {
+        "driver": "ollie-millroy"
+      }
+    ]
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "fullName": "Toyota Gazoo Racing",
+    "shortName": "Toyota",
+    "country": "JP",
+    "status": "ACTIVE",
+    "primaryColor": "#EB0A1E",
+    "secondaryColor": "#000000"
+  },
+  {
+    "fullName": "Cadillac Hertz Team Jota",
+    "shortName": "Cadillac Jota",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Genesis Magma Racing",
+    "shortName": "Genesis",
+    "country": "KR",
+    "status": "ACTIVE",
+    "primaryColor": "#1F2A44",
+    "secondaryColor": "#B59A6B"
+  },
+  {
+    "fullName": "Alpine Endurance Team",
+    "shortName": "Alpine",
+    "country": "FR",
+    "status": "ACTIVE",
+    "primaryColor": "#0055A4",
+    "secondaryColor": "#ED1C24"
+  },
+  {
+    "fullName": "Ferrari AF Corse",
+    "shortName": "AF Corse",
+    "country": "IT",
+    "status": "ACTIVE",
+    "primaryColor": "#DC0000",
+    "secondaryColor": "#FFF200"
+  },
+  {
+    "fullName": "AF Corse",
+    "shortName": "AF Corse",
+    "country": "IT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Peugeot TotalEnergies",
+    "shortName": "Peugeot",
+    "country": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Garage 59",
+    "shortName": "Garage 59",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Vista AF Corse",
+    "shortName": "Vista AF Corse",
+    "country": "IT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Heart of Racing Team",
+    "shortName": "Heart of Racing",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team WRT",
+    "shortName": "Team WRT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "TF Sport",
+    "shortName": "TF Sport",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Racing Team Turkey by TF",
+    "shortName": "RT Turkey",
+    "country": "TR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Iron Lynx",
+    "shortName": "Iron Lynx",
+    "country": "IT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Proton Competition",
+    "shortName": "Proton",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Akkodis ASP Team",
+    "shortName": "Akkodis ASP",
+    "country": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Manthey DK Engineering",
+    "shortName": "Manthey DK",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "The Bend Manthey",
+    "shortName": "Manthey",
+    "country": "DE",
+    "status": "ACTIVE"
+  }
+]

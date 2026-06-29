@@ -1,0 +1,20 @@
+[
+  { "name": "Mercedes-AMG", "type": "BOTH", "country": "DE" },
+  { "name": "Ferrari", "type": "BOTH", "country": "IT" },
+  { "name": "Porsche", "type": "BOTH", "country": "DE" },
+  { "name": "Toyota", "type": "BOTH", "country": "JP" },
+  { "name": "BMW", "type": "BOTH", "country": "DE" },
+  { "name": "Audi", "type": "BOTH", "country": "DE" },
+  { "name": "Lamborghini", "type": "CHASSIS_CONSTRUCTOR", "country": "IT" },
+  { "name": "McLaren", "type": "CHASSIS_CONSTRUCTOR", "country": "GB" },
+  { "name": "Red Bull (Honda)", "type": "BOTH", "country": "AT" },
+  { "name": "Alpine", "type": "BOTH", "country": "FR" },
+  { "name": "Genesis", "type": "BOTH", "country": "KR" },
+  { "name": "Cadillac", "type": "BOTH", "country": "US" },
+  { "name": "Acura", "type": "BOTH", "country": "JP" },
+  { "name": "Aston Martin", "type": "BOTH", "country": "GB" },
+  { "name": "Peugeot", "type": "BOTH", "country": "FR" },
+  { "name": "Chevrolet", "type": "CHASSIS_CONSTRUCTOR", "country": "US" },
+  { "name": "Ford", "type": "CHASSIS_CONSTRUCTOR", "country": "US" },
+  { "name": "Lexus", "type": "CHASSIS_CONSTRUCTOR", "country": "JP" }
+]

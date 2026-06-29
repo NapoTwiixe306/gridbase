@@ -1,0 +1,380 @@
+[
+  {
+    "team": "garage-59",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "10",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "antares-au",
+        "isPrimary": true
+      },
+      {
+        "driver": "tom-fleming"
+      },
+      {
+        "driver": "marvin-kirchhofer"
+      }
+    ]
+  },
+  {
+    "team": "garage-59",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "58",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "finn-gehrsitz",
+        "isPrimary": true
+      },
+      {
+        "driver": "benjamin-goethe"
+      },
+      {
+        "driver": "alexander-west"
+      }
+    ]
+  },
+  {
+    "team": "vista-af-corse",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "21",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "francois-heriau",
+        "isPrimary": true
+      },
+      {
+        "driver": "simon-mann"
+      },
+      {
+        "driver": "alessio-rovera"
+      }
+    ]
+  },
+  {
+    "team": "vista-af-corse",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "54",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "francesco-castellacci",
+        "isPrimary": true
+      },
+      {
+        "driver": "thomas-flohr"
+      },
+      {
+        "driver": "davide-rigon"
+      }
+    ]
+  },
+  {
+    "team": "heart-of-racing-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "23",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "jonny-adam",
+        "isPrimary": true
+      },
+      {
+        "driver": "gray-newell"
+      },
+      {
+        "driver": "kobe-pauwels"
+      }
+    ]
+  },
+  {
+    "team": "heart-of-racing-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "27",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "mattia-drudi",
+        "isPrimary": true
+      },
+      {
+        "driver": "ian-james"
+      },
+      {
+        "driver": "zacharie-robichon"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "32",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "augusto-farfus",
+        "isPrimary": true
+      },
+      {
+        "driver": "sean-gelael"
+      },
+      {
+        "driver": "darren-leung"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "69",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "dan-harper",
+        "isPrimary": true
+      },
+      {
+        "driver": "anthony-mcintosh"
+      },
+      {
+        "driver": "parker-thompson"
+      }
+    ]
+  },
+  {
+    "team": "tf-sport",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "33",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "nicky-catsburg",
+        "isPrimary": true
+      },
+      {
+        "driver": "jonny-edgar"
+      },
+      {
+        "driver": "blake-mcdonald"
+      }
+    ]
+  },
+  {
+    "team": "racing-team-turkey-by-tf",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "34",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "peter-dempsey",
+        "isPrimary": true
+      },
+      {
+        "driver": "charlie-eastwood"
+      },
+      {
+        "driver": "salih-yoluc"
+      }
+    ]
+  },
+  {
+    "team": "iron-lynx",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "61",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "rui-andrade",
+        "isPrimary": true
+      },
+      {
+        "driver": "martin-berry"
+      },
+      {
+        "driver": "maxime-martin"
+      }
+    ]
+  },
+  {
+    "team": "iron-lynx",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "79",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "matteo-cressoni",
+        "isPrimary": true
+      },
+      {
+        "driver": "lin-hodenius"
+      },
+      {
+        "driver": "johannes-zelger"
+      }
+    ]
+  },
+  {
+    "team": "proton-competition",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "77",
+    "chassis": "Ford Mustang GT3",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "eric-powell",
+        "isPrimary": true
+      },
+      {
+        "driver": "sebastian-priaulx"
+      },
+      {
+        "driver": "ben-tuck"
+      }
+    ]
+  },
+  {
+    "team": "proton-competition",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "88",
+    "chassis": "Ford Mustang GT3",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "stefano-gattuso",
+        "isPrimary": true
+      },
+      {
+        "driver": "giammarco-levorato"
+      },
+      {
+        "driver": "logan-sargeant"
+      }
+    ]
+  },
+  {
+    "team": "akkodis-asp-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "78",
+    "chassis": "Lexus RC F GT3",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "hadrien-david",
+        "isPrimary": true
+      },
+      {
+        "driver": "tom-van-rompuy"
+      },
+      {
+        "driver": "esteban-masson"
+      }
+    ]
+  },
+  {
+    "team": "akkodis-asp-team",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "87",
+    "chassis": "Lexus RC F GT3",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "jose-maria-lopez",
+        "isPrimary": true
+      },
+      {
+        "driver": "clemens-schmid"
+      },
+      {
+        "driver": "razvan-umbrarescu"
+      }
+    ]
+  },
+  {
+    "team": "manthey-dk-engineering",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "91",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "timur-boguslavskiy",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-cottingham"
+      },
+      {
+        "driver": "ayhancan-guven"
+      }
+    ]
+  },
+  {
+    "team": "the-bend-manthey",
+    "series": "wec",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "92",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "richard-lietz",
+        "isPrimary": true
+      },
+      {
+        "driver": "riccardo-pera"
+      },
+      {
+        "driver": "yasser-shahin"
+      }
+    ]
+  }
+]
