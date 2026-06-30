@@ -1,0 +1,762 @@
+[
+  {
+    "team": "johor-motorsports-racing-jmr",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "2",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "earl-bamber",
+        "isPrimary": true
+      },
+      {
+        "driver": "nicky-catsburg"
+      },
+      {
+        "driver": "alexander-sims"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-tigani-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "6",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "philip-ellis",
+        "isPrimary": true
+      },
+      {
+        "driver": "jayden-ojeda"
+      },
+      {
+        "driver": "fabian-schiller"
+      }
+    ]
+  },
+  {
+    "team": "arise-racing-gt",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "26",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "jaxon-evans",
+        "isPrimary": true
+      },
+      {
+        "driver": "davide-rigon"
+      },
+      {
+        "driver": "daniel-serra"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "32",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "jordan-pepper",
+        "isPrimary": true
+      },
+      {
+        "driver": "kelvin-van-der-linde"
+      },
+      {
+        "driver": "charles-weerts"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "46",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "augusto-farfus",
+        "isPrimary": true
+      },
+      {
+        "driver": "raffaele-marciello"
+      },
+      {
+        "driver": "valentino-rossi"
+      }
+    ]
+  },
+  {
+    "team": "jamec-racing-team-mpc",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "55",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "will-brown",
+        "isPrimary": true
+      },
+      {
+        "driver": "christopher-haase"
+      },
+      {
+        "driver": "brad-schumacher"
+      }
+    ]
+  },
+  {
+    "team": "ebm",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "61",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "klaus-bachler",
+        "isPrimary": true
+      },
+      {
+        "driver": "ricardo-feller"
+      },
+      {
+        "driver": "laurin-heinrich"
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "64",
+    "chassis": "Ford Mustang GT3",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "broc-feeney",
+        "isPrimary": true
+      },
+      {
+        "driver": "christopher-mies"
+      },
+      {
+        "driver": "dennis-olsen"
+      }
+    ]
+  },
+  {
+    "team": "75-express",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "75",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jules-gounon",
+        "isPrimary": true
+      },
+      {
+        "driver": "kenny-habul"
+      },
+      {
+        "driver": "luca-stolz"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-craft-bamboo-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "77",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "ralf-aron",
+        "isPrimary": true
+      },
+      {
+        "driver": "lucas-auer"
+      },
+      {
+        "driver": "maximilian-gotz"
+      }
+    ]
+  },
+  {
+    "team": "optimum-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "95",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "ben-barnicoat",
+        "isPrimary": true
+      },
+      {
+        "driver": "marvin-kirchhofer"
+      },
+      {
+        "driver": "garnet-patterson"
+      }
+    ]
+  },
+  {
+    "team": "grove-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "100",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "kai-allen",
+        "isPrimary": true
+      },
+      {
+        "driver": "will-davison"
+      },
+      {
+        "driver": "brenton-grove"
+      }
+    ]
+  },
+  {
+    "team": "scott-taylor-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "222",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "chaz-mostert",
+        "isPrimary": true
+      },
+      {
+        "driver": "thomas-randle"
+      },
+      {
+        "driver": "cameron-waters"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-gmr",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "888",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "maro-engel",
+        "isPrimary": true
+      },
+      {
+        "driver": "mikael-grenier"
+      },
+      {
+        "driver": "maxime-martin"
+      }
+    ]
+  },
+  {
+    "team": "absolute-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "P",
+    "carNumber": "911",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "bastian-buus",
+        "isPrimary": true
+      },
+      {
+        "driver": "matt-campbell"
+      },
+      {
+        "driver": "alessio-picariello"
+      }
+    ]
+  },
+  {
+    "team": "volante-rosso-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "15",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "marcos-flack",
+        "isPrimary": true
+      },
+      {
+        "driver": "rylan-gray"
+      },
+      {
+        "driver": "bayley-hall"
+      },
+      {
+        "driver": "jean-baptiste-simmenauer"
+      }
+    ]
+  },
+  {
+    "team": "hallmarc-racing-team-mpc",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "9",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "marc-cini",
+        "isPrimary": true
+      },
+      {
+        "driver": "dean-fiore"
+      },
+      {
+        "driver": "lee-holdsworth"
+      }
+    ]
+  },
+  {
+    "team": "herberth-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "21",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "ralf-bohn",
+        "isPrimary": true
+      },
+      {
+        "driver": "alfred-renauer"
+      },
+      {
+        "driver": "robert-renauer"
+      }
+    ]
+  },
+  {
+    "team": "heart-of-racing-team-sps",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "27",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "eduardo-barrichello",
+        "isPrimary": true
+      },
+      {
+        "driver": "roman-de-angelis"
+      },
+      {
+        "driver": "ian-james"
+      }
+    ]
+  },
+  {
+    "team": "supabarn-supermarkets-tigani-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "47",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "zach-bates",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-koundouris"
+      },
+      {
+        "driver": "theo-koundouris"
+      },
+      {
+        "driver": "david-russell"
+      }
+    ]
+  },
+  {
+    "team": "tsunami-rt",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "79",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "fabio-babini",
+        "isPrimary": true
+      },
+      {
+        "driver": "alex-fontana"
+      },
+      {
+        "driver": "johannes-zelger"
+      }
+    ]
+  },
+  {
+    "team": "high-class-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "86",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "dorian-boccolacci",
+        "isPrimary": true
+      },
+      {
+        "driver": "anders-fjordbach"
+      },
+      {
+        "driver": "kerong-li"
+      }
+    ]
+  },
+  {
+    "team": "team-krc",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "89",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "max-hesse",
+        "isPrimary": true
+      },
+      {
+        "driver": "maxime-oosten"
+      },
+      {
+        "driver": "cunfan-ruan"
+      }
+    ]
+  },
+  {
+    "team": "wall-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "93",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "tony-d-alberto",
+        "isPrimary": true
+      },
+      {
+        "driver": "marco-mapelli"
+      },
+      {
+        "driver": "adrian-deitz"
+      },
+      {
+        "driver": "grant-denyer"
+      }
+    ]
+  },
+  {
+    "team": "quinn-racing-team-mpc",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "101",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "kent-quinn",
+        "isPrimary": true
+      },
+      {
+        "driver": "klark-quinn"
+      },
+      {
+        "driver": "ryder-quinn"
+      },
+      {
+        "driver": "tony-quinn"
+      }
+    ]
+  },
+  {
+    "team": "ziggo-sport-tempesta-by-argt",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "B",
+    "carNumber": "193",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "chris-froggatt",
+        "isPrimary": true
+      },
+      {
+        "driver": "jonathan-hui"
+      },
+      {
+        "driver": "lorenzo-patrese"
+      },
+      {
+        "driver": "ryan-wood"
+      }
+    ]
+  },
+  {
+    "team": "volante-rosso-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "14",
+    "chassis": "Aston Martin Vantage AMR GT3",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "bryce-fullwood",
+        "isPrimary": true
+      },
+      {
+        "driver": "damien-hamilton"
+      },
+      {
+        "driver": "andres-pato"
+      },
+      {
+        "driver": "maxime-robin"
+      }
+    ]
+  },
+  {
+    "team": "geyer-valmont-racing-tigani-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "44",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "scott-andrews",
+        "isPrimary": true
+      },
+      {
+        "driver": "brendon-leitch"
+      },
+      {
+        "driver": "sergio-pires"
+      },
+      {
+        "driver": "marcel-zalloua"
+      }
+    ]
+  },
+  {
+    "team": "ram-motorsport-gwr-australia",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "45",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "brett-hobson",
+        "isPrimary": true
+      },
+      {
+        "driver": "dylan-o-keeffe"
+      },
+      {
+        "driver": "garth-walden"
+      }
+    ]
+  },
+  {
+    "team": "johor-motorsports-racing-jmr",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "99",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "ben-green",
+        "isPrimary": true
+      },
+      {
+        "driver": "prince-abu-bakar-ibrahim"
+      },
+      {
+        "driver": "prince-jefri-ibrahim"
+      },
+      {
+        "driver": "jordan-love"
+      }
+    ]
+  },
+  {
+    "team": "team-brm",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "268",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "steve-brooks",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-golding"
+      },
+      {
+        "driver": "alex-peroni"
+      },
+      {
+        "driver": "mark-rosser"
+      }
+    ]
+  },
+  {
+    "team": "team-nz",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "GT4",
+    "carNumber": "7",
+    "chassis": "Aston Martin Vantage AMR GT4",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "graeme-dowsett",
+        "isPrimary": true
+      },
+      {
+        "driver": "romain-leroux"
+      },
+      {
+        "driver": "chris-van-der-drift"
+      }
+    ]
+  },
+  {
+    "team": "method-motorsport",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "GT4",
+    "carNumber": "42",
+    "chassis": "McLaren Artura GT4",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "steven-aghakhani",
+        "isPrimary": true
+      },
+      {
+        "driver": "adrian-kunzle"
+      },
+      {
+        "driver": "kevin-madsen"
+      }
+    ]
+  },
+  {
+    "team": "ktm-vantage-racing-by-gwr",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "INV",
+    "carNumber": "50",
+    "chassis": "KTM X-Bow GT2",
+    "drivers": [
+      {
+        "driver": "david-crampton",
+        "isPrimary": true
+      },
+      {
+        "driver": "trent-harrison"
+      },
+      {
+        "driver": "glen-wood"
+      }
+    ]
+  },
+  {
+    "team": "111-racing",
+    "series": "bathurst-12h",
+    "season": 2026,
+    "category": "INV",
+    "carNumber": "111",
+    "chassis": "IRC GT",
+    "drivers": [
+      {
+        "driver": "darren-currie",
+        "isPrimary": true
+      },
+      {
+        "driver": "axle-donaldson"
+      },
+      {
+        "driver": "daniel-stutterd"
+      }
+    ]
+  }
+]

@@ -130,5 +130,25 @@
     "country": "FR",
     "dataSource": "COMMUNITY",
     "dataCoverage": "partial"
+  },
+  {
+    "slug": "spa-24h",
+    "fullName": "24 Hours of Spa",
+    "shortName": "Spa 24h",
+    "organiser": "SRO",
+    "category": "GT",
+    "country": "BE",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "bathurst-12h",
+    "fullName": "Bathurst 12 Hour",
+    "shortName": "Bathurst 12h",
+    "organiser": "SRO",
+    "category": "GT",
+    "country": "AU",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
   }
 ]

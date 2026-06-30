@@ -1,0 +1,1592 @@
+[
+  {
+    "team": "boutsen-vds",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "2",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "dorian-boccolacci",
+        "isPrimary": true
+      },
+      {
+        "driver": "alessio-picariello"
+      },
+      {
+        "driver": "morris-schuring"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-verstappen-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "3",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jules-gounon",
+        "isPrimary": true
+      },
+      {
+        "driver": "daniel-juncadella"
+      },
+      {
+        "driver": "chris-lulham"
+      }
+    ]
+  },
+  {
+    "team": "comtoyou-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "7",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "mattia-drudi",
+        "isPrimary": true
+      },
+      {
+        "driver": "marco-s-rensen"
+      },
+      {
+        "driver": "nicki-thiim"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-getspeed",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "17",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "maximilian-gotz",
+        "isPrimary": true
+      },
+      {
+        "driver": "maxime-martin"
+      },
+      {
+        "driver": "fabian-schiller"
+      }
+    ]
+  },
+  {
+    "team": "schumacher-clrt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "22",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "matt-campbell",
+        "isPrimary": true
+      },
+      {
+        "driver": "ayhancan-guven"
+      },
+      {
+        "driver": "frederic-makowiecki"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "32",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "jordan-pepper",
+        "isPrimary": true
+      },
+      {
+        "driver": "kelvin-van-der-linde"
+      },
+      {
+        "driver": "charles-weerts"
+      }
+    ]
+  },
+  {
+    "team": "natural-elements-by-walkenhorst-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "34",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "henrique-chaves",
+        "isPrimary": true
+      },
+      {
+        "driver": "jamie-day"
+      },
+      {
+        "driver": "christian-krognes"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "46",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "dan-harper",
+        "isPrimary": true
+      },
+      {
+        "driver": "max-hesse"
+      },
+      {
+        "driver": "valentino-rossi"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-mann-filter",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "48",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "lucas-auer",
+        "isPrimary": true
+      },
+      {
+        "driver": "maro-engel"
+      },
+      {
+        "driver": "luca-stolz"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "50",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "sean-gelael",
+        "isPrimary": true
+      },
+      {
+        "driver": "arthur-leclerc"
+      },
+      {
+        "driver": "lilou-wadoux"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "51",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "tommaso-mosca",
+        "isPrimary": true
+      },
+      {
+        "driver": "nicklas-nielsen"
+      },
+      {
+        "driver": "alessio-rovera"
+      }
+    ]
+  },
+  {
+    "team": "garage-59",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "59",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "marvin-kirchhofer",
+        "isPrimary": true
+      },
+      {
+        "driver": "joseph-loake"
+      },
+      {
+        "driver": "dean-macdonald"
+      }
+    ]
+  },
+  {
+    "team": "tgi-team-by-grt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "63",
+    "chassis": "Lamborghini Temerario GT3",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "mirko-bortolotti",
+        "isPrimary": true
+      },
+      {
+        "driver": "maximilian-paul"
+      },
+      {
+        "driver": "franck-perera"
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "64",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "thomas-drouet",
+        "isPrimary": true
+      },
+      {
+        "driver": "arjun-maini"
+      },
+      {
+        "driver": "fabio-scherer"
+      }
+    ]
+  },
+  {
+    "team": "lionspeed-gp",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "80",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "bastian-buus",
+        "isPrimary": true
+      },
+      {
+        "driver": "ricardo-feller"
+      },
+      {
+        "driver": "thomas-preining"
+      }
+    ]
+  },
+  {
+    "team": "eastalent-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "84",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "christopher-haase",
+        "isPrimary": true
+      },
+      {
+        "driver": "simon-reicher"
+      },
+      {
+        "driver": "markus-winkelhock"
+      }
+    ]
+  },
+  {
+    "team": "rutronik-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "96",
+    "chassis": "Lamborghini Temerario GT3",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "luca-engstler",
+        "isPrimary": true
+      },
+      {
+        "driver": "marco-mapelli"
+      },
+      {
+        "driver": "patric-niederhauser"
+      }
+    ]
+  },
+  {
+    "team": "rowe-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "98",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "jake-dennis",
+        "isPrimary": true
+      },
+      {
+        "driver": "augusto-farfus"
+      },
+      {
+        "driver": "raffaele-marciello"
+      }
+    ]
+  },
+  {
+    "team": "optimum-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "4",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "harry-george",
+        "isPrimary": true
+      },
+      {
+        "driver": "ruben-del-sarte"
+      },
+      {
+        "driver": "adam-smalley"
+      },
+      {
+        "driver": "freddie-tomlinson"
+      }
+    ]
+  },
+  {
+    "team": "boutsen-vds",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "10",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alessandro-ghiretti",
+        "isPrimary": true
+      },
+      {
+        "driver": "robin-knutsson"
+      },
+      {
+        "driver": "gilles-magnus"
+      }
+    ]
+  },
+  {
+    "team": "steller-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "24",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "antoine-doquin",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-lind"
+      },
+      {
+        "driver": "mikkel-gaarde-pedersen"
+      },
+      {
+        "driver": "lenny-ried"
+      }
+    ]
+  },
+  {
+    "team": "garage-59",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "58",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "tom-fleming",
+        "isPrimary": true
+      },
+      {
+        "driver": "benjamin-goethe"
+      },
+      {
+        "driver": "louis-prette"
+      }
+    ]
+  },
+  {
+    "team": "selected-car-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "71",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "simon-birch",
+        "isPrimary": true
+      },
+      {
+        "driver": "malte-ebdrup"
+      },
+      {
+        "driver": "conrad-laursen"
+      },
+      {
+        "driver": "frederik-schandorff"
+      }
+    ]
+  },
+  {
+    "team": "tresor-attempto-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "99",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "alex-aka",
+        "isPrimary": true
+      },
+      {
+        "driver": "andrea-frassineti"
+      },
+      {
+        "driver": "dylan-pereira"
+      }
+    ]
+  },
+  {
+    "team": "csa-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "111",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "simon-gachet",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-kell"
+      },
+      {
+        "driver": "jim-pla"
+      },
+      {
+        "driver": "arthur-rougier"
+      }
+    ]
+  },
+  {
+    "team": "rowe-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "998",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "ugo-de-wilde",
+        "isPrimary": true
+      },
+      {
+        "driver": "jens-klingmann"
+      },
+      {
+        "driver": "tim-tramnitz"
+      }
+    ]
+  },
+  {
+    "team": "optimum-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "5",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "guilherme-oliveira",
+        "isPrimary": true
+      },
+      {
+        "driver": "salman-owega"
+      },
+      {
+        "driver": "mikey-porter"
+      },
+      {
+        "driver": "dante-rappange"
+      }
+    ]
+  },
+  {
+    "team": "getspeed-team-bartone-bros",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "6",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "anthony-bartone",
+        "isPrimary": true
+      },
+      {
+        "driver": "karol-basz"
+      },
+      {
+        "driver": "cesar-gazeau"
+      },
+      {
+        "driver": "aurelien-panis"
+      }
+    ]
+  },
+  {
+    "team": "pure-rxcing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "9",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "max-hofer",
+        "isPrimary": true
+      },
+      {
+        "driver": "alex-malykhin"
+      },
+      {
+        "driver": "alexey-nesov"
+      },
+      {
+        "driver": "enzo-trulli"
+      }
+    ]
+  },
+  {
+    "team": "team-motopark",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "20",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "rui-andrade",
+        "isPrimary": true
+      },
+      {
+        "driver": "christian-mansell"
+      },
+      {
+        "driver": "yannick-mettler"
+      },
+      {
+        "driver": "levente-revesz"
+      }
+    ]
+  },
+  {
+    "team": "comtoyou-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "21",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "sebastien-baud",
+        "isPrimary": true
+      },
+      {
+        "driver": "arthur-dorison"
+      },
+      {
+        "driver": "kobe-pauwels"
+      },
+      {
+        "driver": "oliver-soderstrom"
+      }
+    ]
+  },
+  {
+    "team": "team-rjn",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "23",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "wyatt-brichacek",
+        "isPrimary": true
+      },
+      {
+        "driver": "ben-dorr"
+      },
+      {
+        "driver": "horatio-fitz-simon"
+      },
+      {
+        "driver": "max-lynn"
+      }
+    ]
+  },
+  {
+    "team": "sainteloc-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "25",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "etienne-cheli",
+        "isPrimary": true
+      },
+      {
+        "driver": "ivan-klymenko"
+      },
+      {
+        "driver": "lucas-legeret"
+      },
+      {
+        "driver": "ezequiel-perez-companc"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "30",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "amaury-cordeel",
+        "isPrimary": true
+      },
+      {
+        "driver": "mathieu-detry"
+      },
+      {
+        "driver": "matisse-lismont"
+      },
+      {
+        "driver": "ignacio-montenegro"
+      }
+    ]
+  },
+  {
+    "team": "walkenhorst-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "35",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "ethan-ischer",
+        "isPrimary": true
+      },
+      {
+        "driver": "maxime-robin"
+      },
+      {
+        "driver": "gaspard-simon"
+      },
+      {
+        "driver": "mateo-villagomez"
+      }
+    ]
+  },
+  {
+    "team": "greystone-gt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "44",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "jayden-kelly",
+        "isPrimary": true
+      },
+      {
+        "driver": "zac-meakin"
+      },
+      {
+        "driver": "tommy-pintos"
+      },
+      {
+        "driver": "josh-rattican"
+      }
+    ]
+  },
+  {
+    "team": "rinaldi-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "45",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "alessandro-balzan",
+        "isPrimary": true
+      },
+      {
+        "driver": "rafael-duran"
+      },
+      {
+        "driver": "dylan-medler"
+      },
+      {
+        "driver": "david-perel"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "52",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "francesco-braschi",
+        "isPrimary": true
+      },
+      {
+        "driver": "jef-machiels"
+      },
+      {
+        "driver": "gilles-stadsbader"
+      },
+      {
+        "driver": "matias-zagazeta"
+      }
+    ]
+  },
+  {
+    "team": "dinamic-gt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "54",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "loris-cabirou",
+        "isPrimary": true
+      },
+      {
+        "driver": "tanart-sathienthirakul"
+      },
+      {
+        "driver": "francesco-simonazzi"
+      },
+      {
+        "driver": "angus-whiteside"
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "65",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "eduardo-coseteng",
+        "isPrimary": true
+      },
+      {
+        "driver": "max-reis"
+      },
+      {
+        "driver": "maxime-oosten"
+      },
+      {
+        "driver": "finn-wiebelhaus"
+      }
+    ]
+  },
+  {
+    "team": "tresor-attempto-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "66",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "mark-kastelic",
+        "isPrimary": true
+      },
+      {
+        "driver": "ariel-levi"
+      },
+      {
+        "driver": "rocco-mazzola"
+      },
+      {
+        "driver": "sebastian-gaard"
+      }
+    ]
+  },
+  {
+    "team": "csa-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "555",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "romain-andriolo",
+        "isPrimary": true
+      },
+      {
+        "driver": "lorens-lecertua"
+      },
+      {
+        "driver": "baptiste-moulin"
+      },
+      {
+        "driver": "sai-sanjay"
+      }
+    ]
+  },
+  {
+    "team": "paradine-competition",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "992",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "ian-aguilera",
+        "isPrimary": true
+      },
+      {
+        "driver": "christian-hahn"
+      },
+      {
+        "driver": "jop-rappange"
+      },
+      {
+        "driver": "josh-rowledge"
+      }
+    ]
+  },
+  {
+    "team": "comtoyou-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "11",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "felice-jelmini",
+        "isPrimary": true
+      },
+      {
+        "driver": "kyle-marcelli"
+      },
+      {
+        "driver": "aj-muss"
+      },
+      {
+        "driver": "marcelo-tomasoni"
+      }
+    ]
+  },
+  {
+    "team": "getspeed-team-dubai",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "12",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "mikael-grenier",
+        "isPrimary": true
+      },
+      {
+        "driver": "tom-kalender"
+      },
+      {
+        "driver": "gabriel-rindone"
+      },
+      {
+        "driver": "jarrod-waberski"
+      }
+    ]
+  },
+  {
+    "team": "2-seas-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "33",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jason-hart",
+        "isPrimary": true
+      },
+      {
+        "driver": "scott-noble"
+      },
+      {
+        "driver": "aaron-walker"
+      },
+      {
+        "driver": "lewis-williamson"
+      }
+    ]
+  },
+  {
+    "team": "oman-racing-by-century-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "42",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "ahmad-al-harthy",
+        "isPrimary": true
+      },
+      {
+        "driver": "pedro-ebrahim"
+      },
+      {
+        "driver": "javier-sagrera"
+      },
+      {
+        "driver": "calan-williams"
+      }
+    ]
+  },
+  {
+    "team": "ecurie-ecosse-blackthorn",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "56",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "jonny-adam",
+        "isPrimary": true
+      },
+      {
+        "driver": "lorcan-hanafin"
+      },
+      {
+        "driver": "romain-leroux"
+      },
+      {
+        "driver": "giacomo-petrobelli"
+      }
+    ]
+  },
+  {
+    "team": "jmw-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "60",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "tim-heinemann",
+        "isPrimary": true
+      },
+      {
+        "driver": "rolf-ineichen"
+      },
+      {
+        "driver": "thomas-kiefer"
+      },
+      {
+        "driver": "pierre-louis-chovet"
+      }
+    ]
+  },
+  {
+    "team": "kessel-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "74",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "dustin-blattner",
+        "isPrimary": true
+      },
+      {
+        "driver": "mathys-jaubert"
+      },
+      {
+        "driver": "dennis-marschall"
+      },
+      {
+        "driver": "ben-tuck"
+      }
+    ]
+  },
+  {
+    "team": "winward-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "87",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "marvin-dienst",
+        "isPrimary": true
+      },
+      {
+        "driver": "gabriele-piana"
+      },
+      {
+        "driver": "daan-arrow"
+      },
+      {
+        "driver": "rinat-salikhov"
+      }
+    ]
+  },
+  {
+    "team": "tresor-attempto-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "88",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "daniele-di-amato",
+        "isPrimary": true
+      },
+      {
+        "driver": "georgios-kolovos"
+      },
+      {
+        "driver": "carrie-schreiner"
+      },
+      {
+        "driver": "sergio-sette-camara"
+      }
+    ]
+  },
+  {
+    "team": "lionspeed-gp",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "89",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alex-fontana",
+        "isPrimary": true
+      },
+      {
+        "driver": "axcil-jefferies"
+      },
+      {
+        "driver": "patrick-kolb"
+      },
+      {
+        "driver": "bashar-mardini"
+      }
+    ]
+  },
+  {
+    "team": "herberth-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "91",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "ralf-bohn",
+        "isPrimary": true
+      },
+      {
+        "driver": "huub-van-eijndhoven"
+      },
+      {
+        "driver": "mathieu-jaminet"
+      },
+      {
+        "driver": "robert-renauer"
+      }
+    ]
+  },
+  {
+    "team": "ziggo-sport-tempesta-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "93",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "eddie-cheever-iii",
+        "isPrimary": true
+      },
+      {
+        "driver": "chris-froggatt"
+      },
+      {
+        "driver": "jonathan-hui"
+      },
+      {
+        "driver": "mex-jansen"
+      }
+    ]
+  },
+  {
+    "team": "rutronik-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "97",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "antares-au",
+        "isPrimary": true
+      },
+      {
+        "driver": "michelle-gatting"
+      },
+      {
+        "driver": "sven-muller"
+      },
+      {
+        "driver": "martin-rump"
+      }
+    ]
+  },
+  {
+    "team": "muhlner-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "123",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "armand-fumal",
+        "isPrimary": true
+      },
+      {
+        "driver": "bayley-hall"
+      },
+      {
+        "driver": "andres-latorre-canon"
+      },
+      {
+        "driver": "tobias-muller"
+      }
+    ]
+  },
+  {
+    "team": "2-seas-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "224",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "reece-barr",
+        "isPrimary": true
+      },
+      {
+        "driver": "charles-dawson"
+      },
+      {
+        "driver": "kiern-jewiss"
+      },
+      {
+        "driver": "garnet-patterson"
+      }
+    ]
+  },
+  {
+    "team": "paradine-competition",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "991",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "leyton-fourie",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-kellett"
+      },
+      {
+        "driver": "darren-leung"
+      },
+      {
+        "driver": "david-pittard"
+      }
+    ]
+  },
+  {
+    "team": "johor-motorsports-racing-jmr",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "0",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "ben-green",
+        "isPrimary": true
+      },
+      {
+        "driver": "jordan-love"
+      },
+      {
+        "driver": "prince-abu-bakar-ibrahim"
+      },
+      {
+        "driver": "prince-jefri-ibrahim"
+      }
+    ]
+  },
+  {
+    "team": "car-collection-motorsport",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "8",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "reinhold-krahn",
+        "isPrimary": true
+      },
+      {
+        "driver": "nicolo-rosi"
+      },
+      {
+        "driver": "niccolo-schiro"
+      },
+      {
+        "driver": "joel-sturm"
+      }
+    ]
+  },
+  {
+    "team": "haas-rt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "28",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "simon-balcaen",
+        "isPrimary": true
+      },
+      {
+        "driver": "mathieu-castelein"
+      },
+      {
+        "driver": "pierre-castelein"
+      },
+      {
+        "driver": "steven-palette"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "70",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "peter-dempsey",
+        "isPrimary": true
+      },
+      {
+        "driver": "miguel-molina"
+      },
+      {
+        "driver": "custodio-toledo"
+      },
+      {
+        "driver": "matthieu-vaxiviere"
+      }
+    ]
+  },
+  {
+    "team": "tsunami-rt",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "79",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "fabio-babini",
+        "isPrimary": true
+      },
+      {
+        "driver": "hiroshi-hamaguchi"
+      },
+      {
+        "driver": "nico-menzel"
+      },
+      {
+        "driver": "johannes-zelger"
+      }
+    ]
+  },
+  {
+    "team": "high-class-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "86",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "anders-fjordbach",
+        "isPrimary": true
+      },
+      {
+        "driver": "kerong-li"
+      },
+      {
+        "driver": "leo-ye-hongli"
+      },
+      {
+        "driver": "yuan-bo"
+      }
+    ]
+  },
+  {
+    "team": "grupo-prom-racing-team",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "177",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "colin-caresani",
+        "isPrimary": true
+      },
+      {
+        "driver": "adam-christodoulou"
+      },
+      {
+        "driver": "alfredo-hernandez"
+      },
+      {
+        "driver": "stephane-tribaudini"
+      }
+    ]
+  },
+  {
+    "team": "comtoyou-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "700",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "nicolas-baert",
+        "isPrimary": true
+      },
+      {
+        "driver": "sarah-bovy"
+      },
+      {
+        "driver": "xavier-knauf"
+      },
+      {
+        "driver": "gregory-servais"
+      }
+    ]
+  },
+  {
+    "team": "razoon-more-than-racing",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "914",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "kenzie-beecroft",
+        "isPrimary": true
+      },
+      {
+        "driver": "carl-bennett"
+      },
+      {
+        "driver": "bryce-fullwood"
+      },
+      {
+        "driver": "edward-mcdermott"
+      }
+    ]
+  },
+  {
+    "team": "getspeed-team-pcx",
+    "series": "spa-24h",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "999",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jordan-boisson",
+        "isPrimary": true
+      },
+      {
+        "driver": "patrick-charlaix"
+      },
+      {
+        "driver": "marvin-klein"
+      },
+      {
+        "driver": "benjamin-paque"
+      }
+    ]
+  }
+]

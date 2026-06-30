@@ -19,5 +19,16 @@
   { "series": "super-formula", "fullName": "Super Formula", "abbreviation": "SF", "hierarchy": 1 },
   { "series": "elms", "fullName": "Le Mans Prototype 2", "abbreviation": "LMP2", "hierarchy": 1 },
   { "series": "elms", "fullName": "Le Mans Prototype 3", "abbreviation": "LMP3", "hierarchy": 2 },
-  { "series": "elms", "fullName": "LMGT3", "abbreviation": "LMGT3", "hierarchy": 3 }
+  { "series": "elms", "fullName": "LMGT3", "abbreviation": "LMGT3", "hierarchy": 3 },
+  { "series": "spa-24h", "fullName": "Pro", "abbreviation": "PRO", "hierarchy": 1 },
+  { "series": "spa-24h", "fullName": "Gold Cup", "abbreviation": "GOLD", "hierarchy": 2 },
+  { "series": "spa-24h", "fullName": "Silver Cup", "abbreviation": "SILVER", "hierarchy": 3 },
+  { "series": "spa-24h", "fullName": "Bronze Cup", "abbreviation": "BRONZE", "hierarchy": 4 },
+  { "series": "spa-24h", "fullName": "Pro-Am", "abbreviation": "PROAM", "hierarchy": 5 },
+  { "series": "bathurst-12h", "fullName": "Pro", "abbreviation": "P", "hierarchy": 1 },
+  { "series": "bathurst-12h", "fullName": "Pro-Am", "abbreviation": "PA", "hierarchy": 2 },
+  { "series": "bathurst-12h", "fullName": "Silver", "abbreviation": "S", "hierarchy": 3 },
+  { "series": "bathurst-12h", "fullName": "Bronze", "abbreviation": "B", "hierarchy": 4 },
+  { "series": "bathurst-12h", "fullName": "GT4", "abbreviation": "GT4", "hierarchy": 5 },
+  { "series": "bathurst-12h", "fullName": "Invitational", "abbreviation": "INV", "hierarchy": 6 }
 ]

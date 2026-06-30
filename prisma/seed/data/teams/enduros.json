@@ -1,0 +1,446 @@
+[
+  {
+    "fullName": "Boutsen VDS",
+    "shortName": "Boutsen VDS",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Verstappen Racing",
+    "shortName": "Mercedes-AMG Team Verstappen Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Comtoyou Racing",
+    "shortName": "Comtoyou Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team GetSpeed",
+    "shortName": "Mercedes-AMG Team GetSpeed",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Schumacher CLRT",
+    "shortName": "Schumacher CLRT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team WRT",
+    "shortName": "Team WRT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "natural elements by Walkenhorst Motorsport",
+    "shortName": "natural elements by Walkenhorst Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Mann-Filter",
+    "shortName": "Mercedes-AMG Team Mann-Filter",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "AF Corse",
+    "shortName": "AF Corse",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Garage 59",
+    "shortName": "Garage 59",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "TGI Team by GRT",
+    "shortName": "TGI Team by GRT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "HRT Ford Racing",
+    "shortName": "HRT Ford Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Lionspeed GP",
+    "shortName": "Lionspeed GP",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Eastalent Racing",
+    "shortName": "Eastalent Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Rutronik Racing",
+    "shortName": "Rutronik Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "ROWE Racing",
+    "shortName": "ROWE Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Optimum Motorsport",
+    "shortName": "Optimum Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Steller Motorsport",
+    "shortName": "Steller Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Selected Car Racing",
+    "shortName": "Selected Car Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Tresor Attempto Racing",
+    "shortName": "Tresor Attempto Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "CSA Racing",
+    "shortName": "CSA Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "GetSpeed Team Bartone Bros",
+    "shortName": "GetSpeed Team Bartone Bros",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Pure Rxcing",
+    "shortName": "Pure Rxcing",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team Motopark",
+    "shortName": "Team Motopark",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team RJN",
+    "shortName": "Team RJN",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Saintéloc Racing",
+    "shortName": "Saintéloc Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Walkenhorst Motorsport",
+    "shortName": "Walkenhorst Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Greystone GT",
+    "shortName": "Greystone GT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Rinaldi Racing",
+    "shortName": "Rinaldi Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Dinamic GT",
+    "shortName": "Dinamic GT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Paradine Competition",
+    "shortName": "Paradine Competition",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "GetSpeed Team Dubai",
+    "shortName": "GetSpeed Team Dubai",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "2 Seas Motorsport",
+    "shortName": "2 Seas Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Oman Racing by Century Motorsport",
+    "shortName": "Oman Racing by Century Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Ecurie Ecosse Blackthorn",
+    "shortName": "Ecurie Ecosse Blackthorn",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "JMW Motorsport",
+    "shortName": "JMW Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Kessel Racing",
+    "shortName": "Kessel Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Winward Racing",
+    "shortName": "Winward Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Herberth Motorsport",
+    "shortName": "Herberth Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Ziggo Sport – Tempesta Racing",
+    "shortName": "Ziggo Sport – Tempesta Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mühlner Motorsport",
+    "shortName": "Mühlner Motorsport",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Johor Motorsports Racing JMR",
+    "shortName": "Johor Motorsports Racing JMR",
+    "country": "MY",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Car Collection Motorsport",
+    "shortName": "Car Collection Motorsport",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "HAAS RT",
+    "shortName": "HAAS RT",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Tsunami RT",
+    "shortName": "Tsunami RT",
+    "country": "UA",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "High Class Racing",
+    "shortName": "High Class Racing",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Grupo Prom Racing Team",
+    "shortName": "Grupo Prom Racing Team",
+    "country": "ES",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Razoon – more than racing",
+    "shortName": "Razoon – more than racing",
+    "country": "AT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "GetSpeed Team PCX",
+    "shortName": "GetSpeed Team PCX",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Tigani Motorsport",
+    "shortName": "Mercedes-AMG Team Tigani Motorsport",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Arise Racing GT",
+    "shortName": "Arise Racing GT",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Jamec Racing Team MPC",
+    "shortName": "Jamec Racing Team MPC",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "EBM",
+    "shortName": "EBM",
+    "country": "NZ",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "75 Express",
+    "shortName": "75 Express",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Craft-Bamboo Racing",
+    "shortName": "Mercedes-AMG Team Craft-Bamboo Racing",
+    "country": "HK",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Grove Racing",
+    "shortName": "Grove Racing",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Scott Taylor Motorsport",
+    "shortName": "Scott Taylor Motorsport",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team GMR",
+    "shortName": "Mercedes-AMG Team GMR",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Absolute Racing",
+    "shortName": "Absolute Racing",
+    "country": "CN",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Volante Rosso Motorsport",
+    "shortName": "Volante Rosso Motorsport",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Hallmarc Racing Team MPC",
+    "shortName": "Hallmarc Racing Team MPC",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Heart of Racing Team SPS",
+    "shortName": "Heart of Racing Team SPS",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Supabarn Supermarkets / Tigani Motorsport",
+    "shortName": "Supabarn Supermarkets / Tigani Motorsport",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team KRC",
+    "shortName": "Team KRC",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Wall Racing",
+    "shortName": "Wall Racing",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Quinn Racing Team MPC",
+    "shortName": "Quinn Racing Team MPC",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Ziggo Sport Tempesta by ARGT",
+    "shortName": "Ziggo Sport Tempesta by ARGT",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Geyer Valmont Racing / Tigani Motorsport",
+    "shortName": "Geyer Valmont Racing / Tigani Motorsport",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "RAM Motorsport / GWR Australia",
+    "shortName": "RAM Motorsport / GWR Australia",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team BRM",
+    "shortName": "Team BRM",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team NZ",
+    "shortName": "Team NZ",
+    "country": "NZ",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Method Motorsport",
+    "shortName": "Method Motorsport",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "KTM Vantage Racing by GWR",
+    "shortName": "KTM Vantage Racing by GWR",
+    "country": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "111 Racing",
+    "shortName": "111 Racing",
+    "country": "AU",
+    "status": "ACTIVE"
+  }
+]
