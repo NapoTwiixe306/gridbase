@@ -7,8 +7,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 ## [Unreleased]
 
 ### Planned
-- Data coverage for GTWC Europe (Pro / Pro-Am / Am), DTM, F2 and F3.
-- Optional CI (lint + type-check + build) on pull requests.
+- Driver palmarès beyond championship titles (major race wins).
+- Public hosted instance.
+
+## [0.1.1] - 2026-06-30
+
+Big data + features release: every category is now populated, plus circuits,
+calendars and palmarès.
+
+### Added
+- **GTWC Europe**, **F2**, **F3** and **DTM** 2026 grids — all 14 categories now
+  have entries.
+- **Circuits** entity (`/circuits`) — 180 real circuits worldwide.
+- **Calendars**: `Round` model linking each season to its circuits, with
+  `GET /series/:slug/calendar` and `GET /series/:slug/circuits`.
+- **Driver palmarès**: `DriverTitle` model + `GET /drivers/:id/titles`
+  (championship titles); embedded in the driver profile.
+- **Strict CI** (GitHub Actions): Prettier, ESLint (0 warnings), TypeScript,
+  a DB-free **data validator** (`npm run validate:data`) and a real MySQL
+  migrate + seed job.
+- `LICENSE`, `LICENSE-DATA`, `CHANGELOG.md`; full localhost endpoint reference
+  with a live example per route.
+
+### Data coverage (2026)
+| Series | Entries | | Series | Entries |
+| --- | --- | --- | --- | --- |
+| F1 | 67 | | IMSA (GTP/LMP2/GTD Pro/GTD) | 46 |
+| WEC (Hypercar/LMGT3) | 35 | | GTWC Europe (Pro/Gold/Silver/Bronze) | 56 |
+| F2 | 22 | | DTM | 21 |
+| F3 | 30 | | | |
+
+**Totals:** 426 drivers · 125 teams · 277 entries · 180 circuits · 84 rounds ·
+46 titles · 7 series · 14 categories.
 
 ## [0.1.0] - 2026-06-29
 
@@ -39,5 +69,6 @@ First public release.
 - GTWC Europe, DTM, F2 and F3 — series, seasons and categories exist, but
   entries are pending. Contributions welcome (see `CONTRIBUTING.md`).
 
-[Unreleased]: https://github.com/NapoTwiixe306/gridbase/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/NapoTwiixe306/gridbase/compare/v0.1.1...HEAD
+[0.1.1]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.1
 [0.1.0]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.0
