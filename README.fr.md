@@ -163,6 +163,8 @@ Toutes les routes sont en `GET` (l'API est en lecture seule pour l'instant). URL
 | `http://localhost:3000/api/v1/teams/:id/transfers` | Transferts de l'écurie — `?season=` |
 | `http://localhost:3000/api/v1/series` | Liste championnats |
 | `http://localhost:3000/api/v1/series/:slug` | Détail championnat (+ saison en cours) |
+| `http://localhost:3000/api/v1/series/:slug/calendar` | Calendrier du championnat — manches + circuit — `?season=` |
+| `http://localhost:3000/api/v1/series/:slug/circuits` | Circuits visités par un championnat — `?season=` |
 | `http://localhost:3000/api/v1/seasons` | Liste saisons — `?series=&year=` |
 | `http://localhost:3000/api/v1/seasons/:id` | Détail saison |
 | `http://localhost:3000/api/v1/categories` | Liste catégories — `?series=` |

@@ -14,6 +14,8 @@ export interface SeedContext {
   categories: Map<string, string>;
   /** manufacturer name -> id */
   manufacturers: Map<string, string>;
+  /** circuit slug -> id */
+  circuits: Map<string, string>;
   /** team slug -> id */
   teams: Map<string, string>;
   /** driver slug -> id */
@@ -27,6 +29,7 @@ export function createContext(prisma: PrismaClient): SeedContext {
     seasons: new Map(),
     categories: new Map(),
     manufacturers: new Map(),
+    circuits: new Map(),
     teams: new Map(),
     drivers: new Map(),
   };

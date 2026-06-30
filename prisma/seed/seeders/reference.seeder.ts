@@ -74,11 +74,12 @@ export async function seedCircuits(ctx: SeedContext): Promise<number> {
   const records = loadAndValidate(join(DATA_DIR, 'circuits.json'), circuitDataSchema);
   for (const r of records) {
     const slug = slugify(r.name);
-    await ctx.prisma.circuit.upsert({
+    const row = await ctx.prisma.circuit.upsert({
       where: { slug },
       update: { ...r, slug },
       create: { ...r, slug },
     });
+    ctx.circuits.set(slug, row.id);
   }
   return records.length;
 }

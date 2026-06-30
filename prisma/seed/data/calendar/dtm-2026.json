@@ -1,0 +1,50 @@
+[
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 1,
+    "circuit": "motorsport-arena-oschersleben"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 2,
+    "circuit": "lausitzring"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 3,
+    "circuit": "circuit-zandvoort"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 4,
+    "circuit": "norisring"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 5,
+    "circuit": "nurburgring"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 6,
+    "circuit": "sachsenring"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 7,
+    "circuit": "red-bull-ring"
+  },
+  {
+    "series": "dtm",
+    "season": 2026,
+    "round": 8,
+    "circuit": "hockenheimring"
+  }
+]

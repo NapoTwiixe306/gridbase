@@ -14,6 +14,7 @@ export async function statsRoutes(app: FastifyInstance): Promise<void> {
       circuits,
       entries,
       transfers,
+      rounds,
     ] = await Promise.all([
       app.prisma.driver.count(),
       app.prisma.team.count(),
@@ -24,6 +25,7 @@ export async function statsRoutes(app: FastifyInstance): Promise<void> {
       app.prisma.circuit.count(),
       app.prisma.entry.count(),
       app.prisma.transfer.count(),
+      app.prisma.round.count(),
     ]);
 
     return {
@@ -35,6 +37,7 @@ export async function statsRoutes(app: FastifyInstance): Promise<void> {
         seasons,
         categories,
         circuits,
+        rounds,
         entries,
         transfers,
       },

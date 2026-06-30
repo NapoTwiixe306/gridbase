@@ -173,5 +173,10 @@
   { "name": "Winton Motor Raceway", "country": "AU", "city": "Winton", "type": "PERMANENT" },
   { "name": "World Wide Technology Raceway", "country": "US", "city": "Madison", "type": "OVAL" },
   { "name": "Zhuhai International Circuit", "country": "CN", "city": "Zhuhai", "type": "PERMANENT" },
-  { "name": "Zwartkops Raceway", "country": "ZA", "city": "Pretoria", "type": "PERMANENT" }
+  { "name": "Zwartkops Raceway", "country": "ZA", "city": "Pretoria", "type": "PERMANENT" },
+  { "name": "Baku City Circuit", "country": "AZ", "city": "Baku", "type": "STREET", "lengthKm": 6.003, "turns": 20, "openedYear": 2016 },
+  { "name": "Detroit Street Circuit", "country": "US", "city": "Detroit", "type": "STREET", "openedYear": 2023 },
+  { "name": "Las Vegas Strip Circuit", "country": "US", "city": "Las Vegas", "type": "STREET", "lengthKm": 6.201, "turns": 17, "openedYear": 2023 },
+  { "name": "Madring", "country": "ES", "city": "Madrid", "type": "STREET", "openedYear": 2026 },
+  { "name": "Miami International Autodrome", "country": "US", "city": "Miami Gardens", "type": "STREET", "lengthKm": 5.412, "turns": 19, "openedYear": 2022 }
 ]

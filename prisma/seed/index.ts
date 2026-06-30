@@ -12,6 +12,7 @@ import { seedDrivers } from './seeders/drivers.seeder';
 import { seedEntries } from './seeders/entries.seeder';
 import { seedTransfers } from './seeders/transfers.seeder';
 import { seedTitles } from './seeders/titles.seeder';
+import { seedRounds } from './seeders/rounds.seeder';
 
 /**
  * Orchestrates the full seed in foreign-key-safe order. Each entity lives in its
@@ -24,6 +25,7 @@ export async function runSeed(prisma: PrismaClient): Promise<void> {
   // Reset transactional data so re-seeding is idempotent (FK-safe order).
   await prisma.transfer.deleteMany();
   await prisma.driverTitle.deleteMany();
+  await prisma.round.deleteMany();
   await prisma.entryDriver.deleteMany();
   await prisma.entry.deleteMany();
 
@@ -37,6 +39,7 @@ export async function runSeed(prisma: PrismaClient): Promise<void> {
   const { entries, entryDrivers } = await seedEntries(ctx);
   const transfers = await seedTransfers(ctx);
   const titles = await seedTitles(ctx);
+  const rounds = await seedRounds(ctx);
 
   await assertSeedDriversHaveEntries(ctx);
 
@@ -51,6 +54,7 @@ export async function runSeed(prisma: PrismaClient): Promise<void> {
   console.log(`  - ${entries} entries (${entryDrivers} driver assignments)`);
   console.log(`  - ${transfers} transfers`);
   console.log(`  - ${titles} driver titles`);
+  console.log(`  - ${rounds} calendar rounds`);
 
   await printDriverSummary(prisma);
 }

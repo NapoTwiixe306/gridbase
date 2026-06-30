@@ -129,6 +129,17 @@ export const entryDataSchema = z.object({
 });
 export type EntryData = z.infer<typeof entryDataSchema>;
 
+export const roundDataSchema = z.object({
+  series: z.string().min(1),
+  season: z.number().int().min(1900).max(2100),
+  round: z.number().int().positive(),
+  circuit: z.string().min(1), // circuit slug
+  name: z.string().optional(),
+  startDate: z.string().optional(),
+  endDate: z.string().optional(),
+});
+export type RoundData = z.infer<typeof roundDataSchema>;
+
 export const titleDataSchema = z.object({
   driver: z.string().min(1), // driver slug
   year: z.number().int().min(1900).max(2100),

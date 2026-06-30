@@ -20,6 +20,7 @@ import {
   entryDataSchema,
   manufacturerDataSchema,
   seasonDataSchema,
+  roundDataSchema,
   seriesDataSchema,
   teamDataSchema,
   titleDataSchema,
@@ -41,7 +42,8 @@ let series,
   drivers,
   entries,
   transfers,
-  titles;
+  titles,
+  rounds;
 try {
   series = loadAndValidate(join(DATA_DIR, 'series.json'), seriesDataSchema);
   seasons = loadAndValidate(join(DATA_DIR, 'seasons.json'), seasonDataSchema);
@@ -53,6 +55,7 @@ try {
   entries = loadAndValidate(join(DATA_DIR, 'entries'), entryDataSchema);
   transfers = loadAndValidate(join(DATA_DIR, 'transfers'), transferDataSchema);
   titles = loadAndValidate(join(DATA_DIR, 'titles'), titleDataSchema);
+  rounds = loadAndValidate(join(DATA_DIR, 'calendar'), roundDataSchema);
 } catch (error) {
   fail((error as Error).message);
 }
@@ -123,6 +126,18 @@ titles.forEach((t, i) => {
     err(`title #${i} (${t.year} ${t.series}): unknown driver "${t.driver}"`);
 });
 
+const roundKeys = new Set<string>();
+rounds.forEach((r) => {
+  const at = `round ${r.series} ${r.season} #${r.round}`;
+  if (!seriesSlugs.has(r.series)) err(`${at}: unknown series "${r.series}"`);
+  if (!seasonKeys.has(`${r.series}:${r.season}`))
+    err(`${at}: unknown season ${r.series}:${r.season}`);
+  if (!circuitSlugs.has(r.circuit)) err(`${at}: unknown circuit "${r.circuit}"`);
+  const key = `${r.series}:${r.season}:${r.round}`;
+  if (roundKeys.has(key)) err(`duplicate ${at}`);
+  roundKeys.add(key);
+});
+
 transfers.forEach((t, i) => {
   if (!driverSlugs.has(t.driver)) err(`transfer #${i}: unknown driver "${t.driver}"`);
   if (t.fromTeam && !teamSlugs.has(t.fromTeam))
@@ -145,5 +160,5 @@ console.log(
   `   ${series.length} series · ${seasons.length} seasons · ${categories.length} categories · ${manufacturerNames.size} manufacturers · ${circuitSlugs.size} circuits`,
 );
 console.log(
-  `   ${teamSlugs.size} teams · ${driverSlugs.size} drivers · ${entries.length} entries · ${transfers.length} transfers · ${titles.length} titles`,
+  `   ${teamSlugs.size} teams · ${driverSlugs.size} drivers · ${entries.length} entries · ${transfers.length} transfers · ${titles.length} titles · ${rounds.length} rounds`,
 );

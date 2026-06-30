@@ -1,0 +1,68 @@
+[
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 1,
+    "circuit": "daytona-international-speedway"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 2,
+    "circuit": "sebring-international-raceway"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 3,
+    "circuit": "long-beach-street-circuit"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 4,
+    "circuit": "weathertech-raceway-laguna-seca"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 5,
+    "circuit": "detroit-street-circuit"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 6,
+    "circuit": "watkins-glen-international"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 7,
+    "circuit": "canadian-tire-motorsport-park"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 8,
+    "circuit": "road-america"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 9,
+    "circuit": "virginia-international-raceway"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 10,
+    "circuit": "indianapolis-motor-speedway"
+  },
+  {
+    "series": "imsa",
+    "season": 2026,
+    "round": 11,
+    "circuit": "michelin-raceway-road-atlanta"
+  }
+]

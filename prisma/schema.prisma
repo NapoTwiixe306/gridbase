@@ -213,6 +213,7 @@ model Season {
 
   series  Series  @relation(fields: [seriesId], references: [id])
   entries Entry[]
+  rounds  Round[]
 
   @@unique([seriesId, year])
   @@index([seriesId])
@@ -324,9 +325,30 @@ model Circuit {
   createdAt  DateTime    @default(now())
   updatedAt  DateTime    @updatedAt
 
+  rounds Round[]
+
   @@index([slug])
   @@index([country])
   @@index([name])
+}
+
+model Round {
+  id          String    @id @default(cuid())
+  seasonId    String
+  circuitId   String
+  roundNumber Int
+  name        String?
+  startDate   DateTime?
+  endDate     DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  season  Season  @relation(fields: [seasonId], references: [id])
+  circuit Circuit @relation(fields: [circuitId], references: [id])
+
+  @@unique([seasonId, roundNumber])
+  @@index([seasonId])
+  @@index([circuitId])
 }
 
 model DriverTitle {

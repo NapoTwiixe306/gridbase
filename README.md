@@ -163,6 +163,8 @@ All endpoints are `GET` (the API is read-only for now). Base URL: `http://localh
 | `http://localhost:3000/api/v1/teams/:id/transfers` | Team transfers — `?season=` |
 | `http://localhost:3000/api/v1/series` | List series |
 | `http://localhost:3000/api/v1/series/:slug` | Series detail (+ current season) |
+| `http://localhost:3000/api/v1/series/:slug/calendar` | Series calendar — rounds with their circuit — `?season=` |
+| `http://localhost:3000/api/v1/series/:slug/circuits` | Distinct circuits a series races at — `?season=` |
 | `http://localhost:3000/api/v1/seasons` | List seasons — `?series=&year=` |
 | `http://localhost:3000/api/v1/seasons/:id` | Season detail |
 | `http://localhost:3000/api/v1/categories` | List categories — `?series=` |

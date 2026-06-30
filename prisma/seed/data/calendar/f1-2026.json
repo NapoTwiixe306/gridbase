@@ -1,0 +1,146 @@
+[
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 1,
+    "circuit": "albert-park-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 2,
+    "circuit": "shanghai-international-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 3,
+    "circuit": "suzuka-international-racing-course"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 4,
+    "circuit": "bahrain-international-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 5,
+    "circuit": "jeddah-corniche-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 6,
+    "circuit": "miami-international-autodrome"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 7,
+    "circuit": "circuit-gilles-villeneuve"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 8,
+    "circuit": "circuit-de-monaco"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 9,
+    "circuit": "circuit-de-barcelona-catalunya"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 10,
+    "circuit": "red-bull-ring"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 11,
+    "circuit": "silverstone-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 12,
+    "circuit": "circuit-de-spa-francorchamps"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 13,
+    "circuit": "hungaroring"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 14,
+    "circuit": "circuit-zandvoort"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 15,
+    "circuit": "autodromo-nazionale-monza"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 16,
+    "circuit": "madring"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 17,
+    "circuit": "baku-city-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 18,
+    "circuit": "marina-bay-street-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 19,
+    "circuit": "circuit-of-the-americas"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 20,
+    "circuit": "autodromo-hermanos-rodriguez"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 21,
+    "circuit": "autodromo-jose-carlos-pace"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 22,
+    "circuit": "las-vegas-strip-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 23,
+    "circuit": "losail-international-circuit"
+  },
+  {
+    "series": "f1",
+    "season": 2026,
+    "round": 24,
+    "circuit": "yas-marina-circuit"
+  }
+]

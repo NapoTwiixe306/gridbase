@@ -1,0 +1,62 @@
+[
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 1,
+    "circuit": "circuit-paul-ricard"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 2,
+    "circuit": "brands-hatch"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 3,
+    "circuit": "misano-world-circuit-marco-simoncelli"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 4,
+    "circuit": "circuit-zandvoort"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 5,
+    "circuit": "circuit-de-spa-francorchamps"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 6,
+    "circuit": "circuit-de-nevers-magny-cours"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 7,
+    "circuit": "nurburgring"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 8,
+    "circuit": "circuit-ricardo-tormo"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 9,
+    "circuit": "hockenheimring"
+  },
+  {
+    "series": "gtwc-europe",
+    "season": 2026,
+    "round": 10,
+    "circuit": "autodromo-nazionale-monza"
+  }
+]

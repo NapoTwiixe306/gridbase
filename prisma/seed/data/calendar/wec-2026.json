@@ -1,0 +1,50 @@
+[
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 1,
+    "circuit": "losail-international-circuit"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 2,
+    "circuit": "autodromo-internazionale-enzo-e-dino-ferrari"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 3,
+    "circuit": "circuit-de-spa-francorchamps"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 4,
+    "circuit": "circuit-de-la-sarthe"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 5,
+    "circuit": "autodromo-jose-carlos-pace"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 6,
+    "circuit": "circuit-of-the-americas"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 7,
+    "circuit": "fuji-speedway"
+  },
+  {
+    "series": "wec",
+    "season": 2026,
+    "round": 8,
+    "circuit": "bahrain-international-circuit"
+  }
+]
