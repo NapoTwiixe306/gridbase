@@ -85,9 +85,13 @@ export const driverDataSchema = z
     instagram: z.string().optional(),
     twitter: z.string().optional(),
     status: z.enum(['ACTIVE', 'RETIRED', 'DECEASED', 'WITHOUT_SEAT']).default('ACTIVE'),
-    photoUrl: z.string().url().refine(isWikimediaUrl, {
-      message: 'photoUrl must be hosted on Wikimedia Commons',
-    }).optional(),
+    photoUrl: z
+      .string()
+      .url()
+      .refine(isWikimediaUrl, {
+        message: 'photoUrl must be hosted on Wikimedia Commons',
+      })
+      .optional(),
     photoLicense: z.enum(['CC0', 'CC_BY', 'CC_BY_SA']).optional(),
     photographerCredit: z.string().optional(),
     photoSourceUrl: z.string().url().optional(),

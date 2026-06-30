@@ -51,33 +51,145 @@ interface TeamMeta {
 
 // Keyed by Jolpica constructorId (stable across seasons).
 const TEAM_META: Record<string, TeamMeta> = {
-  red_bull: { fullName: 'Red Bull Racing', shortName: 'Red Bull', primaryColor: '#3671C6', secondaryColor: '#FF1801', country: 'AT' },
-  mercedes: { fullName: 'Mercedes-AMG Petronas', shortName: 'Mercedes', primaryColor: '#27F4D2', secondaryColor: '#000000', country: 'DE' },
-  ferrari: { fullName: 'Scuderia Ferrari', shortName: 'Ferrari', primaryColor: '#E8002D', secondaryColor: '#FFF200', country: 'IT' },
-  mclaren: { fullName: 'McLaren', shortName: 'McLaren', primaryColor: '#FF8000', secondaryColor: '#000000', country: 'GB' },
-  aston_martin: { fullName: 'Aston Martin', shortName: 'Aston Martin', primaryColor: '#229971', secondaryColor: '#000000', country: 'GB' },
-  alpine: { fullName: 'Alpine', shortName: 'Alpine', primaryColor: '#0093CC', secondaryColor: '#FF87BC', country: 'FR' },
-  williams: { fullName: 'Williams', shortName: 'Williams', primaryColor: '#64C4FF', secondaryColor: '#00A0DE', country: 'GB' },
-  haas: { fullName: 'Haas', shortName: 'Haas', primaryColor: '#B6BABD', secondaryColor: '#ED1C24', country: 'US' },
-  sauber: { fullName: 'Kick Sauber', shortName: 'Sauber', primaryColor: '#52E252', secondaryColor: '#000000', country: 'CH' },
-  rb: { fullName: 'RB (Visa Cash App RB)', shortName: 'RB', primaryColor: '#6692FF', secondaryColor: '#1634CB', country: 'IT' },
-  audi: { fullName: 'Audi', shortName: 'Audi', primaryColor: '#BB0A30', secondaryColor: '#000000', country: 'DE' },
-  cadillac: { fullName: 'Cadillac F1 Team', shortName: 'Cadillac', primaryColor: '#1A1A1A', secondaryColor: '#C9A24B', country: 'US' },
+  red_bull: {
+    fullName: 'Red Bull Racing',
+    shortName: 'Red Bull',
+    primaryColor: '#3671C6',
+    secondaryColor: '#FF1801',
+    country: 'AT',
+  },
+  mercedes: {
+    fullName: 'Mercedes-AMG Petronas',
+    shortName: 'Mercedes',
+    primaryColor: '#27F4D2',
+    secondaryColor: '#000000',
+    country: 'DE',
+  },
+  ferrari: {
+    fullName: 'Scuderia Ferrari',
+    shortName: 'Ferrari',
+    primaryColor: '#E8002D',
+    secondaryColor: '#FFF200',
+    country: 'IT',
+  },
+  mclaren: {
+    fullName: 'McLaren',
+    shortName: 'McLaren',
+    primaryColor: '#FF8000',
+    secondaryColor: '#000000',
+    country: 'GB',
+  },
+  aston_martin: {
+    fullName: 'Aston Martin',
+    shortName: 'Aston Martin',
+    primaryColor: '#229971',
+    secondaryColor: '#000000',
+    country: 'GB',
+  },
+  alpine: {
+    fullName: 'Alpine',
+    shortName: 'Alpine',
+    primaryColor: '#0093CC',
+    secondaryColor: '#FF87BC',
+    country: 'FR',
+  },
+  williams: {
+    fullName: 'Williams',
+    shortName: 'Williams',
+    primaryColor: '#64C4FF',
+    secondaryColor: '#00A0DE',
+    country: 'GB',
+  },
+  haas: {
+    fullName: 'Haas',
+    shortName: 'Haas',
+    primaryColor: '#B6BABD',
+    secondaryColor: '#ED1C24',
+    country: 'US',
+  },
+  sauber: {
+    fullName: 'Kick Sauber',
+    shortName: 'Sauber',
+    primaryColor: '#52E252',
+    secondaryColor: '#000000',
+    country: 'CH',
+  },
+  rb: {
+    fullName: 'RB (Visa Cash App RB)',
+    shortName: 'RB',
+    primaryColor: '#6692FF',
+    secondaryColor: '#1634CB',
+    country: 'IT',
+  },
+  audi: {
+    fullName: 'Audi',
+    shortName: 'Audi',
+    primaryColor: '#BB0A30',
+    secondaryColor: '#000000',
+    country: 'DE',
+  },
+  cadillac: {
+    fullName: 'Cadillac F1 Team',
+    shortName: 'Cadillac',
+    primaryColor: '#1A1A1A',
+    secondaryColor: '#C9A24B',
+    country: 'US',
+  },
 };
 
 const GENERIC_TEAM_COLOR = '#666666';
 
 // --- Nationality (demonym) -> ISO 3166-1 alpha-2 -----------------------------
 const NATIONALITY_ISO: Record<string, string> = {
-  American: 'US', Argentine: 'AR', Argentinian: 'AR', Australian: 'AU', Austrian: 'AT',
-  Belgian: 'BE', Brazilian: 'BR', British: 'GB', Bulgarian: 'BG', Canadian: 'CA',
-  Chinese: 'CN', Colombian: 'CO', Czech: 'CZ', Danish: 'DK', Dutch: 'NL', Emirati: 'AE',
-  Estonian: 'EE', Finnish: 'FI', French: 'FR', German: 'DE', Greek: 'GR', Hungarian: 'HU',
-  Indian: 'IN', Indonesian: 'ID', Irish: 'IE', Israeli: 'IL', Italian: 'IT', Japanese: 'JP',
-  Malaysian: 'MY', Mexican: 'MX', Monegasque: 'MC', 'New Zealander': 'NZ', Norwegian: 'NO',
-  Polish: 'PL', Portuguese: 'PT', Russian: 'RU', Saudi: 'SA', Singaporean: 'SG', Slovak: 'SK',
-  Slovenian: 'SI', 'South African': 'ZA', Spanish: 'ES', Swedish: 'SE', Swiss: 'CH',
-  Thai: 'TH', Turkish: 'TR', Ukrainian: 'UA', Uruguayan: 'UY', Venezuelan: 'VE',
+  American: 'US',
+  Argentine: 'AR',
+  Argentinian: 'AR',
+  Australian: 'AU',
+  Austrian: 'AT',
+  Belgian: 'BE',
+  Brazilian: 'BR',
+  British: 'GB',
+  Bulgarian: 'BG',
+  Canadian: 'CA',
+  Chinese: 'CN',
+  Colombian: 'CO',
+  Czech: 'CZ',
+  Danish: 'DK',
+  Dutch: 'NL',
+  Emirati: 'AE',
+  Estonian: 'EE',
+  Finnish: 'FI',
+  French: 'FR',
+  German: 'DE',
+  Greek: 'GR',
+  Hungarian: 'HU',
+  Indian: 'IN',
+  Indonesian: 'ID',
+  Irish: 'IE',
+  Israeli: 'IL',
+  Italian: 'IT',
+  Japanese: 'JP',
+  Malaysian: 'MY',
+  Mexican: 'MX',
+  Monegasque: 'MC',
+  'New Zealander': 'NZ',
+  Norwegian: 'NO',
+  Polish: 'PL',
+  Portuguese: 'PT',
+  Russian: 'RU',
+  Saudi: 'SA',
+  Singaporean: 'SG',
+  Slovak: 'SK',
+  Slovenian: 'SI',
+  'South African': 'ZA',
+  Spanish: 'ES',
+  Swedish: 'SE',
+  Swiss: 'CH',
+  Thai: 'TH',
+  Turkish: 'TR',
+  Ukrainian: 'UA',
+  Uruguayan: 'UY',
+  Venezuelan: 'VE',
 };
 
 function nationalityToISO(nationality: string): string {
@@ -164,7 +276,9 @@ async function fetchJson<T>(url: string): Promise<T> {
 }
 
 async function fetchDrivers(year: number): Promise<JolpicaDriver[]> {
-  const data = await fetchJson<ApiResponse>(`${JOLPICA_BASE}/${year}/drivers/?format=json&limit=100`);
+  const data = await fetchJson<ApiResponse>(
+    `${JOLPICA_BASE}/${year}/drivers/?format=json&limit=100`,
+  );
   return data.MRData.DriverTable?.Drivers ?? [];
 }
 

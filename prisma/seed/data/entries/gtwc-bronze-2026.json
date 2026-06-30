@@ -1,0 +1,368 @@
+[
+  {
+    "team": "2-seas-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "33",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jason-hart",
+        "isPrimary": true
+      },
+      {
+        "driver": "scott-noble"
+      },
+      {
+        "driver": "aaron-walker"
+      },
+      {
+        "driver": "lewis-williamson"
+      }
+    ]
+  },
+  {
+    "team": "oman-racing-by-century-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "42",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "ahmad-al-harthy",
+        "isPrimary": true
+      },
+      {
+        "driver": "javier-sagrera"
+      },
+      {
+        "driver": "calan-williams"
+      }
+    ]
+  },
+  {
+    "team": "getspeed-team-dubai",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "12",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "mikael-grenier",
+        "isPrimary": true
+      },
+      {
+        "driver": "tom-kalender"
+      },
+      {
+        "driver": "gabriel-rindone"
+      }
+    ]
+  },
+  {
+    "team": "ecurie-ecosse-blackthorn",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "56",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "jonny-adam",
+        "isPrimary": true
+      },
+      {
+        "driver": "giacomo-petrobelli"
+      },
+      {
+        "driver": "tom-wood"
+      },
+      {
+        "driver": "lorcan-hanafin"
+      }
+    ]
+  },
+  {
+    "team": "jmw-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "60",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "tim-heinemann",
+        "isPrimary": true
+      },
+      {
+        "driver": "rolf-ineichen"
+      },
+      {
+        "driver": "chandler-hull"
+      }
+    ]
+  },
+  {
+    "team": "getspeed-team-noble-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "67",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "philip-ellis",
+        "isPrimary": true
+      },
+      {
+        "driver": "jason-hart"
+      },
+      {
+        "driver": "scott-noble"
+      }
+    ]
+  },
+  {
+    "team": "kessel-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "74",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "dustin-blattner",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-marschall"
+      },
+      {
+        "driver": "lorenzo-patrese"
+      }
+    ]
+  },
+  {
+    "team": "75-express",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "75",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "dominik-baumann",
+        "isPrimary": true
+      },
+      {
+        "driver": "hadrien-david"
+      },
+      {
+        "driver": "kenny-habul"
+      }
+    ]
+  },
+  {
+    "team": "kessel-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "76",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "alessandro-cutrera",
+        "isPrimary": true
+      },
+      {
+        "driver": "marco-frezza"
+      },
+      {
+        "driver": "david-fumanelli"
+      }
+    ]
+  },
+  {
+    "team": "winward-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "87",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "marvin-dienst",
+        "isPrimary": true
+      },
+      {
+        "driver": "gabriele-piana"
+      },
+      {
+        "driver": "rinat-salikhov"
+      }
+    ]
+  },
+  {
+    "team": "tresor-attempto-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "88",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "daniele-di-amato",
+        "isPrimary": true
+      },
+      {
+        "driver": "carrie-schreiner"
+      },
+      {
+        "driver": "alberto-di-folco"
+      }
+    ]
+  },
+  {
+    "team": "lionspeed-gp",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "89",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alex-fontana",
+        "isPrimary": true
+      },
+      {
+        "driver": "patrick-kolb"
+      },
+      {
+        "driver": "bashar-mardini"
+      }
+    ]
+  },
+  {
+    "team": "herberth-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "91",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "ralf-bohn",
+        "isPrimary": true
+      },
+      {
+        "driver": "huub-van-eijndhoven"
+      },
+      {
+        "driver": "robert-renauer"
+      }
+    ]
+  },
+  {
+    "team": "ziggo-sport-tempesta-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "93",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "eddie-cheever-iii",
+        "isPrimary": true
+      },
+      {
+        "driver": "chris-froggatt"
+      },
+      {
+        "driver": "stefano-costantini"
+      },
+      {
+        "driver": "jonathan-hui"
+      }
+    ]
+  },
+  {
+    "team": "rutronik-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "97",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "antares-au",
+        "isPrimary": true
+      },
+      {
+        "driver": "riccardo-pera"
+      },
+      {
+        "driver": "loek-hartog"
+      }
+    ]
+  },
+  {
+    "team": "muhlner-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "123",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "armand-fumal",
+        "isPrimary": true
+      },
+      {
+        "driver": "bayley-hall"
+      },
+      {
+        "driver": "andres-latorre-canon"
+      }
+    ]
+  },
+  {
+    "team": "paradine-competition",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "BRONZE",
+    "carNumber": "991",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "james-kellett",
+        "isPrimary": true
+      },
+      {
+        "driver": "darren-leung"
+      },
+      {
+        "driver": "dries-vanthoor"
+      }
+    ]
+  }
+]

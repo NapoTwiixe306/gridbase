@@ -1,5 +1,9 @@
 # GridBase
 
+[![CI](https://github.com/NapoTwiixe306/gridbase/actions/workflows/ci.yml/badge.svg)](https://github.com/NapoTwiixe306/gridbase/actions/workflows/ci.yml)
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
+[![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-brightgreen.svg)](./LICENSE-DATA)
+
 **GridBase** is an open-source REST API for motorsport data — drivers, teams, manufacturers, series, seasons, entries and transfers across endurance, single-seater and GT championships.
 
 It is built for developers who want clean, structured, cross-series data: fantasy-league apps, statistics dashboards, Discord bots, journalists tracking the silly season, or anyone tired of scraping entry-list PDFs by hand.

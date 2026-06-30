@@ -1,0 +1,73 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# Cancel superseded runs on the same ref.
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  # Fast, no database: formatting, linting, types and DATA validation.
+  checks:
+    name: Lint · Types · Data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx prisma generate
+      - name: Prettier (check)
+        run: npm run format:check
+      - name: ESLint (zero warnings)
+        run: npm run lint
+      - name: TypeScript (no emit)
+        run: npm run typecheck
+      - name: Validate seed data
+        run: npm run validate:data
+
+  # Proves the data actually migrates and loads into a real MySQL.
+  seed:
+    name: Migrate · Seed (MySQL)
+    runs-on: ubuntu-latest
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: root
+          MYSQL_DATABASE: gridbase
+          MYSQL_USER: gridbase
+          MYSQL_PASSWORD: gridbase_dev
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h 127.0.0.1 -uroot -proot"
+          --health-interval=5s
+          --health-timeout=5s
+          --health-retries=20
+    env:
+      DATABASE_URL: 'mysql://gridbase:gridbase_dev@127.0.0.1:3306/gridbase'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx prisma generate
+      - name: Configure MySQL auth + privileges
+        run: >-
+          mysql -h 127.0.0.1 -P 3306 -uroot -proot -e
+          "ALTER USER 'gridbase'@'%' IDENTIFIED WITH mysql_native_password BY 'gridbase_dev';
+           GRANT ALL PRIVILEGES ON *.* TO 'gridbase'@'%' WITH GRANT OPTION;
+           FLUSH PRIVILEGES;"
+      - name: Apply migrations
+        run: npx prisma migrate deploy
+      - name: Seed database
+        run: npm run db:seed

@@ -15,8 +15,12 @@
     "db:studio": "prisma studio",
     "db:reset": "prisma migrate reset --force && npm run db:seed",
     "ingest:single-seaters": "ts-node scripts/ingest-single-seaters.ts",
-    "lint": "eslint src --ext .ts",
-    "format": "prettier --write src"
+    "validate:data": "ts-node scripts/validate-data.ts",
+    "lint": "eslint src --ext .ts --max-warnings=0",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write \"{src,scripts}/**/*.ts\" \"prisma/**/*.ts\"",
+    "format:check": "prettier --check \"{src,scripts}/**/*.ts\" \"prisma/**/*.ts\"",
+    "ci": "npm run format:check && npm run lint && npm run typecheck && npm run validate:data"
   },
   "prisma": {
     "seed": "ts-node prisma/seed.ts"

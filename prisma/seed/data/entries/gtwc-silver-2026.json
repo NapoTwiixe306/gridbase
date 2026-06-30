@@ -1,0 +1,299 @@
+[
+  {
+    "team": "boutsen-vds",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "10",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alessandro-ghiretti",
+        "isPrimary": true
+      },
+      {
+        "driver": "robin-knutsson"
+      },
+      {
+        "driver": "gilles-magnus"
+      }
+    ]
+  },
+  {
+    "team": "optimum-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "5",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "guilherme-oliveira",
+        "isPrimary": true
+      },
+      {
+        "driver": "mikey-porter"
+      },
+      {
+        "driver": "dante-rappange"
+      }
+    ]
+  },
+  {
+    "team": "getspeed-team-bartone-bros",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "6",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "anthony-bartone",
+        "isPrimary": true
+      },
+      {
+        "driver": "cesar-gazeau"
+      },
+      {
+        "driver": "aurelien-panis"
+      }
+    ]
+  },
+  {
+    "team": "team-motopark",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "20",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "rui-andrade",
+        "isPrimary": true
+      },
+      {
+        "driver": "christian-mansell"
+      },
+      {
+        "driver": "yannick-mettler"
+      }
+    ]
+  },
+  {
+    "team": "comtoyou-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "21",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "sebastien-baud",
+        "isPrimary": true
+      },
+      {
+        "driver": "kobe-pauwels"
+      },
+      {
+        "driver": "oliver-soderstrom"
+      }
+    ]
+  },
+  {
+    "team": "team-rjn",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "23",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "ben-dorr",
+        "isPrimary": true
+      },
+      {
+        "driver": "horatio-fitz-simon"
+      },
+      {
+        "driver": "max-lynn"
+      }
+    ]
+  },
+  {
+    "team": "sainteloc-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "25",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "etienne-cheli",
+        "isPrimary": true
+      },
+      {
+        "driver": "ivan-klymenko"
+      },
+      {
+        "driver": "ezequiel-perez-companc"
+      },
+      {
+        "driver": "lucas-legeret"
+      }
+    ]
+  },
+  {
+    "team": "haas-rt",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "28",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "simon-balcaen",
+        "isPrimary": true
+      },
+      {
+        "driver": "mathieu-castelein"
+      },
+      {
+        "driver": "pierre-castelein"
+      }
+    ]
+  },
+  {
+    "team": "team-wrt",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "30",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "amaury-cordeel",
+        "isPrimary": true
+      },
+      {
+        "driver": "matisse-lismont"
+      },
+      {
+        "driver": "ignacio-montenegro"
+      }
+    ]
+  },
+  {
+    "team": "greystone-gt",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "44",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "jayden-kelly",
+        "isPrimary": true
+      },
+      {
+        "driver": "tommy-pintos"
+      },
+      {
+        "driver": "josh-rattican"
+      }
+    ]
+  },
+  {
+    "team": "rinaldi-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "45",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "rafael-duran",
+        "isPrimary": true
+      },
+      {
+        "driver": "dylan-medler"
+      },
+      {
+        "driver": "david-perel"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "52",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "jef-machiels",
+        "isPrimary": true
+      },
+      {
+        "driver": "gilles-stadsbader"
+      },
+      {
+        "driver": "matias-zagazeta"
+      }
+    ]
+  },
+  {
+    "team": "dinamic-gt",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "54",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "tanart-sathienthirakul",
+        "isPrimary": true
+      },
+      {
+        "driver": "francesco-simonazzi"
+      },
+      {
+        "driver": "angus-whiteside"
+      }
+    ]
+  },
+  {
+    "team": "tresor-attempto-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "66",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "ariel-levi",
+        "isPrimary": true
+      },
+      {
+        "driver": "rocco-mazzola"
+      },
+      {
+        "driver": "sebastian-ogaard"
+      }
+    ]
+  }
+]

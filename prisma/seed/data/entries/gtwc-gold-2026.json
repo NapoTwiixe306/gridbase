@@ -1,0 +1,149 @@
+[
+  {
+    "team": "boutsen-vds",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "2",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "dorian-boccolacci",
+        "isPrimary": true
+      },
+      {
+        "driver": "alessio-picariello"
+      },
+      {
+        "driver": "morris-schuring"
+      }
+    ]
+  },
+  {
+    "team": "optimum-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "4",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "harry-george",
+        "isPrimary": true
+      },
+      {
+        "driver": "adam-smalley"
+      },
+      {
+        "driver": "freddie-tomlinson"
+      }
+    ]
+  },
+  {
+    "team": "steller-motorsport",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "24",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "antoine-doquin",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-lind"
+      },
+      {
+        "driver": "lorenzo-fluxa"
+      }
+    ]
+  },
+  {
+    "team": "garage-59",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "58",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "tom-fleming",
+        "isPrimary": true
+      },
+      {
+        "driver": "benjamin-goethe"
+      },
+      {
+        "driver": "louis-prette"
+      }
+    ]
+  },
+  {
+    "team": "selected-car-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "71",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "simon-birch",
+        "isPrimary": true
+      },
+      {
+        "driver": "malte-ebdrup"
+      },
+      {
+        "driver": "frederik-schandorff"
+      }
+    ]
+  },
+  {
+    "team": "csa-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "111",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "simon-gachet",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-kell"
+      },
+      {
+        "driver": "arthur-rougier"
+      }
+    ]
+  },
+  {
+    "team": "rowe-racing",
+    "series": "gtwc-europe",
+    "season": 2026,
+    "category": "GOLD",
+    "carNumber": "998",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "ugo-de-wilde",
+        "isPrimary": true
+      },
+      {
+        "driver": "jens-klingmann"
+      },
+      {
+        "driver": "tim-tramnitz"
+      }
+    ]
+  }
+]
