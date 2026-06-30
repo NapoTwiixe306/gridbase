@@ -1,50 +1,10 @@
 [
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 1,
-    "circuit": "losail-international-circuit"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 2,
-    "circuit": "autodromo-internazionale-enzo-e-dino-ferrari"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 3,
-    "circuit": "circuit-de-spa-francorchamps"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 4,
-    "circuit": "circuit-de-la-sarthe"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 5,
-    "circuit": "autodromo-jose-carlos-pace"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 6,
-    "circuit": "circuit-of-the-americas"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 7,
-    "circuit": "fuji-speedway"
-  },
-  {
-    "series": "wec",
-    "season": 2026,
-    "round": 8,
-    "circuit": "bahrain-international-circuit"
-  }
+  { "series": "wec", "season": 2026, "round": 1, "circuit": "autodromo-internazionale-enzo-e-dino-ferrari", "name": "6 Hours of Imola", "startDate": "2026-04-19", "endDate": "2026-04-19" },
+  { "series": "wec", "season": 2026, "round": 2, "circuit": "circuit-de-spa-francorchamps", "name": "6 Hours of Spa-Francorchamps", "startDate": "2026-05-09", "endDate": "2026-05-09" },
+  { "series": "wec", "season": 2026, "round": 3, "circuit": "circuit-de-la-sarthe", "name": "24 Hours of Le Mans", "startDate": "2026-06-13", "endDate": "2026-06-14" },
+  { "series": "wec", "season": 2026, "round": 4, "circuit": "autodromo-jose-carlos-pace", "name": "6 Hours of São Paulo", "startDate": "2026-07-12", "endDate": "2026-07-12" },
+  { "series": "wec", "season": 2026, "round": 5, "circuit": "circuit-of-the-americas", "name": "Lone Star Le Mans", "startDate": "2026-09-06", "endDate": "2026-09-06" },
+  { "series": "wec", "season": 2026, "round": 6, "circuit": "fuji-speedway", "name": "6 Hours of Fuji", "startDate": "2026-09-27", "endDate": "2026-09-27" },
+  { "series": "wec", "season": 2026, "round": 7, "circuit": "losail-international-circuit", "name": "Qatar 1812 km", "startDate": "2026-10-24", "endDate": "2026-10-24" },
+  { "series": "wec", "season": 2026, "round": 8, "circuit": "bahrain-international-circuit", "name": "8 Hours of Bahrain", "startDate": "2026-11-07", "endDate": "2026-11-07" }
 ]

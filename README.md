@@ -165,6 +165,7 @@ All endpoints are `GET` (the API is read-only for now). Base URL: `http://localh
 | `/api/v1/series/:slug` | `http://localhost:3000/api/v1/series/wec` | Series detail |
 | `/api/v1/series/:slug/calendar` | `http://localhost:3000/api/v1/series/f1/calendar?season=2026` | Series calendar (rounds + circuit) |
 | `/api/v1/series/:slug/circuits` | `http://localhost:3000/api/v1/series/imsa/circuits?season=2026` | Circuits a series races at |
+| `/api/v1/calendar/upcoming` | `http://localhost:3000/api/v1/calendar/upcoming?limit=10` | **Next races** across all series (dated) — `?series=&limit=` |
 | `/api/v1/seasons` | `http://localhost:3000/api/v1/seasons?series=f1` | List seasons — `?series=&year=` |
 | `/api/v1/seasons/:id` | `http://localhost:3000/api/v1/seasons/<cuid>` | Season detail |
 | `/api/v1/categories` | `http://localhost:3000/api/v1/categories?series=imsa` | List categories — `?series=` |
@@ -636,7 +637,9 @@ prisma/seed/data/teams/f1.json
 prisma/seed/data/entries/f1-2024.json · f1-2025.json · f1-2026.json
 ```
 
-It pulls drivers, teams and entries for 2024–2026 from the free **Jolpica** API (the Ergast successor) and uses **OpenF1** for accurate per-season car numbers. The output is deterministic (sorted) for clean git diffs, so you can re-run it to refresh the data and review the changes. You may also hand-edit the generated files afterwards. F2/F3 are not generated (no free entry-list API) — add them by hand. Details are documented at the top of `scripts/ingest-single-seaters.ts`.
+It pulls drivers, teams and entries for 2024–2026 from the free **Jolpica** API (the Ergast successor) and uses **OpenF1** for accurate per-season car numbers.
+
+The **F1 race calendar is auto-updated** too: `npm run ingest:f1-calendar` writes dated rounds from Jolpica, and a scheduled GitHub Action (`refresh-f1-calendar.yml`) refreshes them weekly and commits any changes — so F1 race dates stay current on their own. WEC and IMSA dates are hand-maintained (no free dated API). The output is deterministic (sorted) for clean git diffs, so you can re-run it to refresh the data and review the changes. You may also hand-edit the generated files afterwards. F2/F3 are not generated (no free entry-list API) — add them by hand. Details are documented at the top of `scripts/ingest-single-seaters.ts`.
 
 ---
 

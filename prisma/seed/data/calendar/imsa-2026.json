@@ -1,68 +1,13 @@
 [
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 1,
-    "circuit": "daytona-international-speedway"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 2,
-    "circuit": "sebring-international-raceway"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 3,
-    "circuit": "long-beach-street-circuit"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 4,
-    "circuit": "weathertech-raceway-laguna-seca"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 5,
-    "circuit": "detroit-street-circuit"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 6,
-    "circuit": "watkins-glen-international"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 7,
-    "circuit": "canadian-tire-motorsport-park"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 8,
-    "circuit": "road-america"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 9,
-    "circuit": "virginia-international-raceway"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 10,
-    "circuit": "indianapolis-motor-speedway"
-  },
-  {
-    "series": "imsa",
-    "season": 2026,
-    "round": 11,
-    "circuit": "michelin-raceway-road-atlanta"
-  }
+  { "series": "imsa", "season": 2026, "round": 1, "circuit": "daytona-international-speedway", "name": "Rolex 24 At Daytona", "startDate": "2026-01-24", "endDate": "2026-01-25" },
+  { "series": "imsa", "season": 2026, "round": 2, "circuit": "sebring-international-raceway", "name": "Mobil 1 Twelve Hours of Sebring", "startDate": "2026-03-21", "endDate": "2026-03-21" },
+  { "series": "imsa", "season": 2026, "round": 3, "circuit": "long-beach-street-circuit", "name": "Acura Grand Prix of Long Beach", "startDate": "2026-04-18", "endDate": "2026-04-18" },
+  { "series": "imsa", "season": 2026, "round": 4, "circuit": "weathertech-raceway-laguna-seca", "name": "Laguna Seca", "startDate": "2026-05-03", "endDate": "2026-05-03" },
+  { "series": "imsa", "season": 2026, "round": 5, "circuit": "detroit-street-circuit", "name": "Detroit Grand Prix", "startDate": "2026-05-30", "endDate": "2026-05-30" },
+  { "series": "imsa", "season": 2026, "round": 6, "circuit": "watkins-glen-international", "name": "Sahlen's Six Hours of The Glen", "startDate": "2026-06-28", "endDate": "2026-06-28" },
+  { "series": "imsa", "season": 2026, "round": 7, "circuit": "canadian-tire-motorsport-park", "name": "Chevrolet Grand Prix", "startDate": "2026-07-12", "endDate": "2026-07-12" },
+  { "series": "imsa", "season": 2026, "round": 8, "circuit": "road-america", "name": "Road America", "startDate": "2026-08-02", "endDate": "2026-08-02" },
+  { "series": "imsa", "season": 2026, "round": 9, "circuit": "virginia-international-raceway", "name": "Michelin GT Challenge", "startDate": "2026-08-23", "endDate": "2026-08-23" },
+  { "series": "imsa", "season": 2026, "round": 10, "circuit": "indianapolis-motor-speedway", "name": "Battle on the Bricks", "startDate": "2026-09-20", "endDate": "2026-09-20" },
+  { "series": "imsa", "season": 2026, "round": 11, "circuit": "michelin-raceway-road-atlanta", "name": "Petit Le Mans", "startDate": "2026-10-03", "endDate": "2026-10-03" }
 ]

@@ -1,0 +1,40 @@
+name: Refresh F1 calendar
+
+# Auto-updates prisma/seed/data/calendar/f1-*.json from the free Jolpica API and
+# commits any changes. Runs weekly (and on demand) so F1 race dates stay current
+# without manual work.
+on:
+  schedule:
+    - cron: '17 6 * * 1' # Mondays 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Refresh current + next F1 season
+        run: |
+          F1_YEAR=$(date +%Y) npm run ingest:f1-calendar
+          F1_YEAR=$(( $(date +%Y) + 1 )) npm run ingest:f1-calendar || true
+      - name: Validate data
+        run: npx prisma generate && npm run validate:data
+      - name: Commit changes if any
+        run: |
+          if [[ -n "$(git status --porcelain prisma/seed/data/calendar)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add prisma/seed/data/calendar
+            git commit -m "chore(data): refresh F1 calendar from Jolpica"
+            git push
+          else
+            echo "F1 calendar already up to date."
+          fi

@@ -165,6 +165,7 @@ Toutes les routes sont en `GET` (l'API est en lecture seule pour l'instant). URL
 | `/api/v1/series/:slug` | `http://localhost:3000/api/v1/series/wec` | Détail championnat |
 | `/api/v1/series/:slug/calendar` | `http://localhost:3000/api/v1/series/f1/calendar?season=2026` | Calendrier (manches + circuit) |
 | `/api/v1/series/:slug/circuits` | `http://localhost:3000/api/v1/series/imsa/circuits?season=2026` | Circuits d'un championnat |
+| `/api/v1/calendar/upcoming` | `http://localhost:3000/api/v1/calendar/upcoming?limit=10` | **Prochaines courses** toutes séries (datées) — `?series=&limit=` |
 | `/api/v1/seasons` | `http://localhost:3000/api/v1/seasons?series=f1` | Liste saisons — `?series=&year=` |
 | `/api/v1/seasons/:id` | `http://localhost:3000/api/v1/seasons/<cuid>` | Détail saison |
 | `/api/v1/categories` | `http://localhost:3000/api/v1/categories?series=imsa` | Liste catégories — `?series=` |

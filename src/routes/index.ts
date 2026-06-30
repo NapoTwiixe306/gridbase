@@ -10,6 +10,7 @@ import { transferRoutes } from './transfers';
 import { searchRoutes } from './search';
 import { categoryRoutes } from './categories';
 import { circuitRoutes } from './circuits';
+import { calendarRoutes } from './calendar';
 import { statsRoutes } from './stats';
 
 /** Registers every API route module under /api/{version}. */
@@ -25,6 +26,7 @@ export async function registerRoutes(app: FastifyInstance): Promise<void> {
       await api.register(seasonRoutes, { prefix: '/seasons' });
       await api.register(categoryRoutes, { prefix: '/categories' });
       await api.register(circuitRoutes, { prefix: '/circuits' });
+      await api.register(calendarRoutes, { prefix: '/calendar' });
       await api.register(statsRoutes, { prefix: '/stats' });
       await api.register(entryRoutes, { prefix: '/entries' });
       await api.register(transferRoutes, { prefix: '/transfers' });
