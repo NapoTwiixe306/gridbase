@@ -1,0 +1,392 @@
+[
+  {
+    "team": "campos-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "1",
+    "drivers": [
+      {
+        "driver": "theophile-nael",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "campos-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "2",
+    "drivers": [
+      {
+        "driver": "ugo-ugochukwu",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "campos-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "3",
+    "drivers": [
+      {
+        "driver": "patrick-heuzenroeder",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "trident",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "4",
+    "drivers": [
+      {
+        "driver": "noah-str-msted",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "trident",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "5",
+    "drivers": [
+      {
+        "driver": "freddie-slater",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "trident",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "6",
+    "drivers": [
+      {
+        "driver": "matteo-de-palo",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mp-motorsport",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "7",
+    "drivers": [
+      {
+        "driver": "mattia-colnaghi",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mp-motorsport",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "8",
+    "drivers": [
+      {
+        "driver": "tuukka-taponen",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mp-motorsport",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "9",
+    "drivers": [
+      {
+        "driver": "alessandro-giusti",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "art-grand-prix",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "10",
+    "drivers": [
+      {
+        "driver": "taito-kato",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "art-grand-prix",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "11",
+    "drivers": [
+      {
+        "driver": "maciej-g-adysz",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "art-grand-prix",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "12",
+    "drivers": [
+      {
+        "driver": "kanato-le",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "van-amersfoort-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "14",
+    "drivers": [
+      {
+        "driver": "hiyu-yamakoshi",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "van-amersfoort-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "15",
+    "drivers": [
+      {
+        "driver": "enzo-deligny",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "van-amersfoort-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "16",
+    "drivers": [
+      {
+        "driver": "bruno-del-pino",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rodin-motorsport",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "17",
+    "drivers": [
+      {
+        "driver": "pedro-clerot",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rodin-motorsport",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "18",
+    "drivers": [
+      {
+        "driver": "brando-badoer",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rodin-motorsport",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "19",
+    "drivers": [
+      {
+        "driver": "christian-ho",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "prema-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "20",
+    "drivers": [
+      {
+        "driver": "louis-sharp",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "prema-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "21",
+    "drivers": [
+      {
+        "driver": "james-wharton",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "prema-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "22",
+    "drivers": [
+      {
+        "driver": "jose-garfias",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hitech-grand-prix",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "23",
+    "drivers": [
+      {
+        "driver": "michael-shin",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hitech-grand-prix",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "24",
+    "drivers": [
+      {
+        "driver": "fionn-mclaughlin",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hitech-grand-prix",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "25",
+    "drivers": [
+      {
+        "driver": "jin-nakamura",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "aix-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "26",
+    "drivers": [
+      {
+        "driver": "brad-benavides",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "aix-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "27",
+    "drivers": [
+      {
+        "driver": "yevan-david",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "aix-racing",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "28",
+    "drivers": [
+      {
+        "driver": "fernando-barrichello",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dams-lucas-oil",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "29",
+    "drivers": [
+      {
+        "driver": "nicola-lacorte",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dams-lucas-oil",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "30",
+    "drivers": [
+      {
+        "driver": "nandhavud-bhirombhakdi",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dams-lucas-oil",
+    "series": "f3",
+    "season": 2026,
+    "category": "F3",
+    "carNumber": "31",
+    "drivers": [
+      {
+        "driver": "gerrard-xie",
+        "isPrimary": true
+      }
+    ]
+  }
+]

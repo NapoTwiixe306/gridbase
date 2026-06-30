@@ -1,0 +1,140 @@
+[
+  {
+    "fullName": "Invicta Racing",
+    "shortName": "Invicta",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Hitech Grand Prix",
+    "shortName": "Hitech",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Campos Racing",
+    "shortName": "Campos",
+    "country": "ES",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "DAMS Lucas Oil",
+    "shortName": "DAMS",
+    "country": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "MP Motorsport",
+    "shortName": "MP",
+    "country": "NL",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Prema Racing",
+    "shortName": "Prema",
+    "country": "IT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Rodin Motorsport",
+    "shortName": "Rodin",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "ART Grand Prix",
+    "shortName": "ART",
+    "country": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "AIX Racing",
+    "shortName": "AIX",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Van Amersfoort Racing",
+    "shortName": "VAR",
+    "country": "NL",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Trident",
+    "shortName": "Trident",
+    "country": "IT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Comtoyou Racing",
+    "shortName": "Comtoyou",
+    "country": "BE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Schubert Motorsport",
+    "shortName": "Schubert",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Emil Frey Racing",
+    "shortName": "Emil Frey",
+    "country": "CH",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "HRT Ford Racing",
+    "shortName": "HRT Ford",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Red Bull Team Abt",
+    "shortName": "RB Abt",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "TGI Team by GRT",
+    "shortName": "TGI by GRT",
+    "country": "AT",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Landgraf",
+    "shortName": "Landgraf",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Mann-Filter",
+    "shortName": "Mann-Filter",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mercedes-AMG Team Ravenol",
+    "shortName": "Ravenol",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Dörr Motorsport",
+    "shortName": "Dörr",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Land-Motorsport",
+    "shortName": "Land",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Manthey Racing",
+    "shortName": "Manthey",
+    "country": "DE",
+    "status": "ACTIVE"
+  }
+]

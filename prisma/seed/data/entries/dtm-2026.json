@@ -1,0 +1,317 @@
+[
+  {
+    "team": "comtoyou-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "7",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "nicki-thiim",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "comtoyou-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "8",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "nicolas-baert",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "schubert-motorsport",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "3",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "kelvin-van-der-linde",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "schubert-motorsport",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "11",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "marco-wittmann",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "emil-frey-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "14",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "matteo-cairoli",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "emil-frey-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "69",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "thierry-vermeulen",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "36",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "arjun-maini",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "64",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "finn-wiebelhaus",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "red-bull-team-abt",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "10",
+    "chassis": "Lamborghini Temerario GT3",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "marco-mapelli",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "red-bull-team-abt",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "130",
+    "chassis": "Lamborghini Temerario GT3",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "luca-engstler",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "tgi-team-by-grt",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "19",
+    "chassis": "Lamborghini Temerario GT3",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "maximilian-paul",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "tgi-team-by-grt",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "63",
+    "chassis": "Lamborghini Temerario GT3",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "mirko-bortolotti",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-landgraf",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "22",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "lucas-auer",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-landgraf",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "84",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "tom-kalender",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-mann-filter",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "48",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jules-gounon",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-ravenol",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "80",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "maro-engel",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dorr-motorsport",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "16",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "timo-glock",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dorr-motorsport",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "25",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "ben-dorr",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "land-motorsport",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "29",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "bastian-buus",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "manthey-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "90",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "ricardo-feller",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "manthey-racing",
+    "series": "dtm",
+    "season": 2026,
+    "category": "DTM",
+    "carNumber": "91",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "thomas-preining",
+        "isPrimary": true
+      }
+    ]
+  }
+]
