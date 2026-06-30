@@ -180,5 +180,25 @@
     "country": "US",
     "dataSource": "COMMUNITY",
     "dataCoverage": "partial"
+  },
+  {
+    "slug": "gtwc-asia",
+    "fullName": "GT World Challenge Asia",
+    "shortName": "GTWC Asia",
+    "organiser": "SRO",
+    "category": "GT",
+    "country": "HK",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "gt4-europe",
+    "fullName": "GT4 European Series",
+    "shortName": "GT4 Europe",
+    "organiser": "SRO",
+    "category": "GT",
+    "country": "GB",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
   }
 ]

@@ -27,5 +27,7 @@
   { "series": "bathurst-12h", "year": 2026, "status": "FINISHED" },
   { "series": "nurburgring-24h", "year": 2026, "status": "FINISHED" },
   { "series": "super-gt", "year": 2026, "status": "ONGOING" },
-  { "series": "gtwc-america", "year": 2026, "status": "ONGOING" }
+  { "series": "gtwc-america", "year": 2026, "status": "ONGOING" },
+  { "series": "gtwc-asia", "year": 2026, "status": "ONGOING" },
+  { "series": "gt4-europe", "year": 2026, "status": "ONGOING" }
 ]

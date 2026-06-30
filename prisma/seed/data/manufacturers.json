@@ -24,5 +24,7 @@
   { "name": "Citroën", "type": "BOTH", "country": "FR" },
   { "name": "Mahindra", "type": "BOTH", "country": "IN" },
   { "name": "Yamaha", "type": "ENGINE_SUPPLIER", "country": "JP" },
-  { "name": "Subaru", "type": "BOTH", "country": "JP" }
+  { "name": "Subaru", "type": "BOTH", "country": "JP" },
+  { "name": "Lotus", "type": "CHASSIS_CONSTRUCTOR", "country": "GB" },
+  { "name": "Ginetta", "type": "CHASSIS_CONSTRUCTOR", "country": "GB" }
 ]

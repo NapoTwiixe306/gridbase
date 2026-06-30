@@ -38,5 +38,12 @@
   { "series": "super-gt", "fullName": "GT300", "abbreviation": "GT300", "hierarchy": 2 },
   { "series": "gtwc-america", "fullName": "Pro", "abbreviation": "PRO", "hierarchy": 1 },
   { "series": "gtwc-america", "fullName": "Pro-Am", "abbreviation": "PROAM", "hierarchy": 2 },
-  { "series": "gtwc-america", "fullName": "Am", "abbreviation": "AM", "hierarchy": 3 }
+  { "series": "gtwc-america", "fullName": "Am", "abbreviation": "AM", "hierarchy": 3 },
+  { "series": "gtwc-asia", "fullName": "Pro-Am", "abbreviation": "PROAM", "hierarchy": 1 },
+  { "series": "gtwc-asia", "fullName": "Silver", "abbreviation": "SILVER", "hierarchy": 2 },
+  { "series": "gtwc-asia", "fullName": "Silver-Am", "abbreviation": "SILVERAM", "hierarchy": 3 },
+  { "series": "gtwc-asia", "fullName": "Am", "abbreviation": "AM", "hierarchy": 4 },
+  { "series": "gt4-europe", "fullName": "Silver", "abbreviation": "S", "hierarchy": 1 },
+  { "series": "gt4-europe", "fullName": "Pro-Am", "abbreviation": "PA", "hierarchy": 2 },
+  { "series": "gt4-europe", "fullName": "Am", "abbreviation": "AM", "hierarchy": 3 }
 ]

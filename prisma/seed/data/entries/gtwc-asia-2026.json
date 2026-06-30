@@ -1,0 +1,458 @@
+[
+  {
+    "team": "origine-motorsport",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "4",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alessio-picariello",
+        "isPrimary": true
+      },
+      {
+        "driver": "lu-wei"
+      },
+      {
+        "driver": "laurin-heinrich"
+      },
+      {
+        "driver": "liu-hangcheng"
+      },
+      {
+        "driver": "wang-zhongwei"
+      }
+    ]
+  },
+  {
+    "team": "plus-with-bmw-m-team-studie",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "5",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "seiji-ara",
+        "isPrimary": true
+      },
+      {
+        "driver": "tomohide-yamaguchi"
+      }
+    ]
+  },
+  {
+    "team": "climax-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "8",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "setiawan-santoso",
+        "isPrimary": true
+      },
+      {
+        "driver": "zhou-bihuang"
+      },
+      {
+        "driver": "li-lichao"
+      },
+      {
+        "driver": "elias-seppanen"
+      }
+    ]
+  },
+  {
+    "team": "gto-with-krc",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVERAM",
+    "carNumber": "10",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "brian-lee",
+        "isPrimary": true
+      },
+      {
+        "driver": "maxime-oosten"
+      }
+    ]
+  },
+  {
+    "team": "team-krc",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "89",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "ruan-cunfan",
+        "isPrimary": true
+      },
+      {
+        "driver": "neil-verhagen"
+      },
+      {
+        "driver": "jesse-krohn"
+      },
+      {
+        "driver": "max-hesse"
+      }
+    ]
+  },
+  {
+    "team": "33r-harmony-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVERAM",
+    "carNumber": "13",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "adderly-fong",
+        "isPrimary": true
+      },
+      {
+        "driver": "sun-jingzu"
+      }
+    ]
+  },
+  {
+    "team": "winhere-harmony-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "72",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "brendon-leitch",
+        "isPrimary": true
+      },
+      {
+        "driver": "song-jiajun"
+      },
+      {
+        "driver": "liu-kaishun"
+      },
+      {
+        "driver": "deng-yi"
+      }
+    ]
+  },
+  {
+    "team": "audi-sport-asia-team-phantom",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "15",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "jaxon-evans",
+        "isPrimary": true
+      },
+      {
+        "driver": "andrew-haryanto"
+      }
+    ]
+  },
+  {
+    "team": "faw-audi-sport-asia-team-phantom",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "16",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "franky-cheng-congfu",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-yu-kuai"
+      }
+    ]
+  },
+  {
+    "team": "porsche-centre-okazaki",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "18",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "hiroaki-nagai",
+        "isPrimary": true
+      },
+      {
+        "driver": "kazuto-kotaka"
+      },
+      {
+        "driver": "yuichi-nakayama"
+      },
+      {
+        "driver": "tsubasa-kondo"
+      },
+      {
+        "driver": "kiyoshi-uchiyama"
+      }
+    ]
+  },
+  {
+    "team": "hzo-fortis-racing-by-absolute-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "20",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "aaron-lim-say-joon",
+        "isPrimary": true
+      },
+      {
+        "driver": "haziq-zairel-oh"
+      }
+    ]
+  },
+  {
+    "team": "absolute-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "29",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "akash-nandy",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "absolute-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVERAM",
+    "carNumber": "32",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "tom-sargent",
+        "isPrimary": true
+      },
+      {
+        "driver": "kyle-washington"
+      }
+    ]
+  },
+  {
+    "team": "phantom-global-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "37",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "anthony-liu-xu",
+        "isPrimary": true
+      },
+      {
+        "driver": "dorian-boccolacci"
+      },
+      {
+        "driver": "loek-hartog"
+      }
+    ]
+  },
+  {
+    "team": "amac-motorsport",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "51",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "andrew-macpherson",
+        "isPrimary": true
+      },
+      {
+        "driver": "william-ben-porter"
+      }
+    ]
+  },
+  {
+    "team": "garage-75",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "50",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "sean-gelael",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "lm-corsa",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "60",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "ryo-ogawa",
+        "isPrimary": true
+      },
+      {
+        "driver": "shigekazu-wakisaka"
+      }
+    ]
+  },
+  {
+    "team": "garage-75",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "75",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "christian-colombo",
+        "isPrimary": true
+      },
+      {
+        "driver": "david-tjiptobiantoro"
+      }
+    ]
+  },
+  {
+    "team": "craft-bamboo-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVERAM",
+    "carNumber": "77",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "liang-jiatong",
+        "isPrimary": true
+      },
+      {
+        "driver": "dean-chen-yuhao"
+      },
+      {
+        "driver": "daisuke-yamawaki"
+      }
+    ]
+  },
+  {
+    "team": "absolute-corse",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "98",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "andy-tan",
+        "isPrimary": true
+      },
+      {
+        "driver": "thierry-vermeulen"
+      }
+    ]
+  },
+  {
+    "team": "team-5zigen",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "SILVER",
+    "carNumber": "500",
+    "chassis": "Nissan GT-R Nismo GT3",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "takayuki-aoki",
+        "isPrimary": true
+      },
+      {
+        "driver": "atsushi-miyake"
+      },
+      {
+        "driver": "kimiya-sato"
+      }
+    ]
+  },
+  {
+    "team": "absolute-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "911",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alessandro-ghiretti",
+        "isPrimary": true
+      },
+      {
+        "driver": "huang-ruohan"
+      }
+    ]
+  },
+  {
+    "team": "absolute-racing",
+    "series": "gtwc-asia",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "918",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "vutthikorn-inthraphuvasak",
+        "isPrimary": true
+      },
+      {
+        "driver": "bastian-buus"
+      },
+      {
+        "driver": "klaus-bachler"
+      }
+    ]
+  }
+]

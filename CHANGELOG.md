@@ -10,6 +10,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Driver palmarès beyond championship titles (major race wins).
 - Public hosted instance.
 
+## [0.1.3] - 2026-06-30
+
+**« La totale »** — a large data expansion across single-seaters, endurance
+and GT, taking GridBase to **19 series** and **over 1000 unique drivers**.
+
+### Added
+- **New championships (2026 grids):**
+  - **Formula E**, **Super Formula**, **European Le Mans Series (ELMS)** —
+    LMP2 / LMP3 / LMGT3.
+  - **Super GT** (GT500 / GT300), **GT World Challenge America** (Pro/Pro-Am/Am),
+    **GT World Challenge Asia** (Pro-Am/Silver/Silver-Am/Am) and
+    **GT4 European Series** (Silver/Pro-Am/Am).
+- **One-off endurance classics** modelled as their own series:
+  **24 Hours of Spa**, **Bathurst 12 Hour** and **24 Hours of Nürburgring**
+  (SP9 / GT3) — full entry lists.
+- `nationality` is now **optional**, so amateur and club-level drivers can be
+  added from official entry lists without inventing data.
+- New manufacturers (`Subaru`, `Lotus`, `Ginetta`) and additional ISO 3166
+  nationalities to cover the broader field.
+
+### Totals
+19 series · 31 seasons · 47 categories · 28 manufacturers · 180 circuits ·
+82 dated rounds · 342 teams · 1077 drivers · 707 entries · 46 titles.
+
 ## [0.1.2] - 2026-06-30
 
 ### Added
@@ -86,7 +110,8 @@ First public release.
 - GTWC Europe, DTM, F2 and F3 — series, seasons and categories exist, but
   entries are pending. Contributions welcome (see `CONTRIBUTING.md`).
 
-[Unreleased]: https://github.com/NapoTwiixe306/gridbase/compare/v0.1.2...HEAD
+[Unreleased]: https://github.com/NapoTwiixe306/gridbase/compare/v0.1.3...HEAD
+[0.1.3]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.3
 [0.1.2]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.2
 [0.1.1]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.1
 [0.1.0]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.0

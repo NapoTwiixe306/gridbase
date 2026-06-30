@@ -1,0 +1,881 @@
+[
+  {
+    "team": "team-speedcar",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "1",
+    "chassis": "Audi R8 LMS GT4 Evo",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "robert-consani",
+        "isPrimary": true
+      },
+      {
+        "driver": "benjamin-lariche"
+      }
+    ]
+  },
+  {
+    "team": "team-speedcar",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "3",
+    "chassis": "Audi R8 LMS GT4 Evo",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "viny-beltramelli",
+        "isPrimary": true
+      },
+      {
+        "driver": "sacha-bottemanne"
+      }
+    ]
+  },
+  {
+    "team": "team-speedcar",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "8",
+    "chassis": "Audi R8 LMS GT4 Evo",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "gregory-guilvert",
+        "isPrimary": true
+      },
+      {
+        "driver": "paul-petit"
+      }
+    ]
+  },
+  {
+    "team": "team-speedcar",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "44",
+    "chassis": "Audi R8 LMS GT4 Evo",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "julien-ripert",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "jw-raceservice",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "2",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "leon-van-verseveld",
+        "isPrimary": true
+      },
+      {
+        "driver": "bas-visser"
+      }
+    ]
+  },
+  {
+    "team": "speedy-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "4",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "lachlan-evennett",
+        "isPrimary": true
+      },
+      {
+        "driver": "mees-houben"
+      }
+    ]
+  },
+  {
+    "team": "speedy-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "6",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "tomas-guedes",
+        "isPrimary": true
+      },
+      {
+        "driver": "pedro-perino"
+      }
+    ]
+  },
+  {
+    "team": "mirage-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "5",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "ruben-del-sarte",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-sherrington"
+      }
+    ]
+  },
+  {
+    "team": "mirage-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "9",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "romeo-leurs",
+        "isPrimary": true
+      },
+      {
+        "driver": "hugo-conde"
+      }
+    ]
+  },
+  {
+    "team": "borusan-otomotiv-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "11",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "bati-ege-yildirim",
+        "isPrimary": true
+      },
+      {
+        "driver": "yagiz-gedik"
+      }
+    ]
+  },
+  {
+    "team": "borusan-otomotiv-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "12",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "gabriele-piana",
+        "isPrimary": true
+      },
+      {
+        "driver": "thomas-rackl"
+      }
+    ]
+  },
+  {
+    "team": "nm-racing-team",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "15",
+    "chassis": "Mercedes-AMG GT4",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "lluc-ibanez",
+        "isPrimary": true
+      },
+      {
+        "driver": "alexandre-papadopulos"
+      }
+    ]
+  },
+  {
+    "team": "nm-racing-team",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "16",
+    "chassis": "Mercedes-AMG GT4",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "max-huber",
+        "isPrimary": true
+      },
+      {
+        "driver": "maximus-mayer"
+      }
+    ]
+  },
+  {
+    "team": "nm-racing-team",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "17",
+    "chassis": "Mercedes-AMG GT4",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "diesel-thomas",
+        "isPrimary": true
+      },
+      {
+        "driver": "joshua-thomas"
+      }
+    ]
+  },
+  {
+    "team": "full-send-racing-limited",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "23",
+    "chassis": "Aston Martin Vantage AMR GT4 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "daniel-lavery",
+        "isPrimary": true
+      },
+      {
+        "driver": "darren-turner"
+      }
+    ]
+  },
+  {
+    "team": "jsb-competition",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "24",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "julien-briche",
+        "isPrimary": true
+      },
+      {
+        "driver": "nicco-ferrarin"
+      }
+    ]
+  },
+  {
+    "team": "lotus-pb-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "26",
+    "chassis": "Lotus Emira GT4",
+    "manufacturer": "Lotus",
+    "drivers": [
+      {
+        "driver": "massimo-abbati",
+        "isPrimary": true
+      },
+      {
+        "driver": "stefano-d-aste"
+      }
+    ]
+  },
+  {
+    "team": "lotus-pb-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "56",
+    "chassis": "Lotus Emira GT4",
+    "manufacturer": "Lotus",
+    "drivers": [
+      {
+        "driver": "maurizio-copetti",
+        "isPrimary": true
+      },
+      {
+        "driver": "massimiliano-schiavone"
+      }
+    ]
+  },
+  {
+    "team": "nova-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "27",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "edvin-hellsten",
+        "isPrimary": true
+      },
+      {
+        "driver": "daniel-nilsson"
+      }
+    ]
+  },
+  {
+    "team": "w-s-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "30",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "daniel-blickle",
+        "isPrimary": true
+      },
+      {
+        "driver": "max-kronberg"
+      }
+    ]
+  },
+  {
+    "team": "w-s-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "31",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alon-gabbay",
+        "isPrimary": true
+      },
+      {
+        "driver": "tim-horrell"
+      }
+    ]
+  },
+  {
+    "team": "w-s-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "32",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "joachim-bolting",
+        "isPrimary": true
+      },
+      {
+        "driver": "hendrik-still"
+      }
+    ]
+  },
+  {
+    "team": "toyota-gazoo-racing-sweden",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "29",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "maximilian-bostrom",
+        "isPrimary": true
+      },
+      {
+        "driver": "henry-joslyn"
+      }
+    ]
+  },
+  {
+    "team": "toyota-gazoo-racing-sweden",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "55",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "christoffer-brunnhagen",
+        "isPrimary": true
+      },
+      {
+        "driver": "mikael-brunnhagen"
+      }
+    ]
+  },
+  {
+    "team": "cmr",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "51",
+    "chassis": "Ginetta G56 GT4 Evo",
+    "manufacturer": "Ginetta",
+    "drivers": [
+      {
+        "driver": "hugo-mogica",
+        "isPrimary": true
+      },
+      {
+        "driver": "thibaut-mogica"
+      }
+    ]
+  },
+  {
+    "team": "cmr",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "65",
+    "chassis": "Ginetta G56 GT4 Evo",
+    "manufacturer": "Ginetta",
+    "drivers": [
+      {
+        "driver": "georgi-dimitrov",
+        "isPrimary": true
+      },
+      {
+        "driver": "jack-mitchell"
+      }
+    ]
+  },
+  {
+    "team": "w-d-racing-team",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "53",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "davide-meloni",
+        "isPrimary": true
+      },
+      {
+        "driver": "paolo-meloni"
+      }
+    ]
+  },
+  {
+    "team": "razoon-more-than-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "60",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "onder-erdem",
+        "isPrimary": true
+      },
+      {
+        "driver": "gustavo-xavier"
+      }
+    ]
+  },
+  {
+    "team": "razoon-more-than-racing",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "70",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "daniel-drexel",
+        "isPrimary": true
+      },
+      {
+        "driver": "chris-salkeld"
+      }
+    ]
+  },
+  {
+    "team": "academy-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "61",
+    "chassis": "Ford Mustang GT4 (S650)",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "erik-evans",
+        "isPrimary": true
+      },
+      {
+        "driver": "nathan-vanspringel"
+      }
+    ]
+  },
+  {
+    "team": "academy-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "62",
+    "chassis": "Ford Mustang GT4 (S650)",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "marco-signoretti",
+        "isPrimary": true
+      },
+      {
+        "driver": "jenson-altzman"
+      }
+    ]
+  },
+  {
+    "team": "me-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "66",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "linus-hahne",
+        "isPrimary": true
+      },
+      {
+        "driver": "philip-wiskirchen"
+      }
+    ]
+  },
+  {
+    "team": "teamfloral",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "68",
+    "chassis": "Ford Mustang GT4 (S650)",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "michiel-haverans",
+        "isPrimary": true
+      },
+      {
+        "driver": "sam-paley"
+      }
+    ]
+  },
+  {
+    "team": "elite-motorsport-with-entire-race-engineering",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "71",
+    "chassis": "McLaren Artura GT4",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "ravi-ramyead",
+        "isPrimary": true
+      },
+      {
+        "driver": "charlie-robertson"
+      }
+    ]
+  },
+  {
+    "team": "elite-motorsport-with-entire-race-engineering",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "77",
+    "chassis": "McLaren Artura GT4",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "harri-reynolds",
+        "isPrimary": true
+      },
+      {
+        "driver": "yani-stevenheydens"
+      }
+    ]
+  },
+  {
+    "team": "elite-motorsport-with-entire-race-engineering",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "78",
+    "chassis": "McLaren Artura GT4",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "mckenzy-cresswell",
+        "isPrimary": true
+      },
+      {
+        "driver": "charlie-hart"
+      }
+    ]
+  },
+  {
+    "team": "racing-spirit-of-leman",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "72",
+    "chassis": "Aston Martin Vantage AMR GT4 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "florent-grizaud",
+        "isPrimary": true
+      },
+      {
+        "driver": "david-kullmann"
+      }
+    ]
+  },
+  {
+    "team": "racing-spirit-of-leman",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "74",
+    "chassis": "Aston Martin Vantage AMR GT4 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "pedro-garcia",
+        "isPrimary": true
+      },
+      {
+        "driver": "clement-seyler"
+      }
+    ]
+  },
+  {
+    "team": "race-lab",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "75",
+    "chassis": "McLaren Artura GT4",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "colin-cronin",
+        "isPrimary": true
+      },
+      {
+        "driver": "robert-cronin"
+      }
+    ]
+  },
+  {
+    "team": "srs-team-sorg-rennsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "85",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "calvin-de-groot",
+        "isPrimary": true
+      },
+      {
+        "driver": "ross-poole"
+      }
+    ]
+  },
+  {
+    "team": "crt-sport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "87",
+    "chassis": "Toyota GR Supra GT4 Evo2",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "lucas-cartelle",
+        "isPrimary": true
+      },
+      {
+        "driver": "hudson-schwartz"
+      }
+    ]
+  },
+  {
+    "team": "chazel-technologie-course",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "93",
+    "chassis": "Alpine A110 GT4+",
+    "manufacturer": "Alpine",
+    "drivers": [
+      {
+        "driver": "laurent-hurgon",
+        "isPrimary": true
+      },
+      {
+        "driver": "lazare-lartigau"
+      }
+    ]
+  },
+  {
+    "team": "lestrup-racing-team",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "97",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "stefan-nilsson",
+        "isPrimary": true
+      },
+      {
+        "driver": "daniel-varverud"
+      }
+    ]
+  },
+  {
+    "team": "schubert-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "98",
+    "chassis": "BMW M4 GT4 Evo (G82)",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "victor-bouveng",
+        "isPrimary": true
+      },
+      {
+        "driver": "joakim-walde"
+      }
+    ]
+  },
+  {
+    "team": "sr-motorsport-by-schnitzelalm",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "110",
+    "chassis": "Mercedes-AMG GT4",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "julien-apotheloz",
+        "isPrimary": true
+      },
+      {
+        "driver": "marcel-marchewicz"
+      }
+    ]
+  },
+  {
+    "team": "sr-motorsport-by-schnitzelalm",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "111",
+    "chassis": "Mercedes-AMG GT4",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "enrico-forderer",
+        "isPrimary": true
+      },
+      {
+        "driver": "cedric-fuchs"
+      }
+    ]
+  },
+  {
+    "team": "willi-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "127",
+    "chassis": "Audi R8 LMS GT4 Evo",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "eric-bodgan-ciorioanu",
+        "isPrimary": true
+      },
+      {
+        "driver": "adrian-zelca"
+      }
+    ]
+  },
+  {
+    "team": "willi-motorsport",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "S",
+    "carNumber": "310",
+    "chassis": "Audi R8 LMS GT4 Evo",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "sergiu-nicolae",
+        "isPrimary": true
+      },
+      {
+        "driver": "tudor-tudurachi"
+      }
+    ]
+  },
+  {
+    "team": "ebimotors",
+    "series": "gt4-europe",
+    "season": 2026,
+    "category": "PA",
+    "carNumber": "151",
+    "chassis": "Porsche 718 Cayman GT4 RS Clubsport",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "paolo-gnemmi",
+        "isPrimary": true
+      },
+      {
+        "driver": "riccardo-pera"
+      }
+    ]
+  }
+]
