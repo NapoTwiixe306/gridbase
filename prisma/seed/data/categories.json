@@ -30,5 +30,8 @@
   { "series": "bathurst-12h", "fullName": "Silver", "abbreviation": "S", "hierarchy": 3 },
   { "series": "bathurst-12h", "fullName": "Bronze", "abbreviation": "B", "hierarchy": 4 },
   { "series": "bathurst-12h", "fullName": "GT4", "abbreviation": "GT4", "hierarchy": 5 },
-  { "series": "bathurst-12h", "fullName": "Invitational", "abbreviation": "INV", "hierarchy": 6 }
+  { "series": "bathurst-12h", "fullName": "Invitational", "abbreviation": "INV", "hierarchy": 6 },
+  { "series": "nurburgring-24h", "fullName": "SP9 Pro", "abbreviation": "SP9PRO", "hierarchy": 1 },
+  { "series": "nurburgring-24h", "fullName": "SP9 Pro-Am", "abbreviation": "SP9PA", "hierarchy": 2 },
+  { "series": "nurburgring-24h", "fullName": "SP9 Am", "abbreviation": "SP9AM", "hierarchy": 3 }
 ]

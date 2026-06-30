@@ -150,5 +150,15 @@
     "country": "AU",
     "dataSource": "COMMUNITY",
     "dataCoverage": "partial"
+  },
+  {
+    "slug": "nurburgring-24h",
+    "fullName": "24 Hours of Nürburgring",
+    "shortName": "Nürburgring 24h",
+    "organiser": "ADAC",
+    "category": "GT",
+    "country": "DE",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "minimal"
   }
 ]

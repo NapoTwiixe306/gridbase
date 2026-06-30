@@ -24,5 +24,6 @@
   { "series": "super-formula", "year": 2026, "status": "ONGOING" },
   { "series": "elms", "year": 2026, "status": "ONGOING" },
   { "series": "spa-24h", "year": 2026, "status": "ONGOING" },
-  { "series": "bathurst-12h", "year": 2026, "status": "FINISHED" }
+  { "series": "bathurst-12h", "year": 2026, "status": "FINISHED" },
+  { "series": "nurburgring-24h", "year": 2026, "status": "FINISHED" }
 ]

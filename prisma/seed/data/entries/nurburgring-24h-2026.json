@@ -1,0 +1,926 @@
+[
+  {
+    "team": "rowe-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "1",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "augusto-farfus",
+        "isPrimary": true
+      },
+      {
+        "driver": "raffaele-marciello"
+      },
+      {
+        "driver": "jordan-pepper"
+      },
+      {
+        "driver": "kelvin-van-der-linde"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-verstappen-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "3",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "lucas-auer",
+        "isPrimary": true
+      },
+      {
+        "driver": "jules-gounon"
+      },
+      {
+        "driver": "daniel-juncadella"
+      },
+      {
+        "driver": "max-verstappen"
+      }
+    ]
+  },
+  {
+    "team": "goroyan-rt-by-car-collection",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "4",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "nathanael-berthon",
+        "isPrimary": true
+      },
+      {
+        "driver": "alex-fontana"
+      },
+      {
+        "driver": "artur-goroyan"
+      },
+      {
+        "driver": "oleg-kvitka"
+      }
+    ]
+  },
+  {
+    "team": "black-falcon-team-eae",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9AM",
+    "carNumber": "5",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "thomas-kiefer",
+        "isPrimary": true
+      },
+      {
+        "driver": "mustafa-mehmet-kaya"
+      },
+      {
+        "driver": "gabriele-piana"
+      },
+      {
+        "driver": "mike-stursberg"
+      }
+    ]
+  },
+  {
+    "team": "konrad-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "7",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "christian-engelhart",
+        "isPrimary": true
+      },
+      {
+        "driver": "pavel-lefterov"
+      },
+      {
+        "driver": "maximilian-paul"
+      },
+      {
+        "driver": "patricija-stalidzane"
+      }
+    ]
+  },
+  {
+    "team": "juta-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9AM",
+    "carNumber": "8",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "elia-erhart",
+        "isPrimary": true
+      },
+      {
+        "driver": "alexey-veremenko"
+      }
+    ]
+  },
+  {
+    "team": "sr-motorsport-by-schnitzelalm",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "11",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "philip-ellis",
+        "isPrimary": true
+      },
+      {
+        "driver": "jannes-fittje"
+      },
+      {
+        "driver": "jay-mo-hartling"
+      },
+      {
+        "driver": "kenneth-heyer"
+      }
+    ]
+  },
+  {
+    "team": "scherer-sport-phx",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "16",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "ben-green",
+        "isPrimary": true
+      },
+      {
+        "driver": "christopher-haase"
+      },
+      {
+        "driver": "alexander-sims"
+      }
+    ]
+  },
+  {
+    "team": "dunlop-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "17",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "julien-andlauer",
+        "isPrimary": true
+      },
+      {
+        "driver": "dorian-boccolacci"
+      },
+      {
+        "driver": "nico-menzel"
+      },
+      {
+        "driver": "alessio-picariello"
+      }
+    ]
+  },
+  {
+    "team": "lionspeed-gp",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "18",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "jake-hill",
+        "isPrimary": true
+      },
+      {
+        "driver": "max-hofer"
+      },
+      {
+        "driver": "patrick-kolb"
+      },
+      {
+        "driver": "kyle-tilley"
+      }
+    ]
+  },
+  {
+    "team": "lionspeed-gp",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "24",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "ricardo-feller",
+        "isPrimary": true
+      },
+      {
+        "driver": "laurin-heinrich"
+      },
+      {
+        "driver": "laurens-vanthoor"
+      }
+    ]
+  },
+  {
+    "team": "prosport-racing-team-bilstein",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "26",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "marek-bockmann",
+        "isPrimary": true
+      },
+      {
+        "driver": "adam-christodoulou"
+      },
+      {
+        "driver": "mikael-grenier"
+      },
+      {
+        "driver": "chris-lulham"
+      }
+    ]
+  },
+  {
+    "team": "hankook-competition",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "30",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "roelof-bruins",
+        "isPrimary": true
+      },
+      {
+        "driver": "steven-cho"
+      },
+      {
+        "driver": "jongkyum-kim"
+      },
+      {
+        "driver": "marco-seefried"
+      }
+    ]
+  },
+  {
+    "team": "toyo-tires-with-ring-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "32",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "andreas-gulden",
+        "isPrimary": true
+      },
+      {
+        "driver": "yuichi-nakayama"
+      },
+      {
+        "driver": "tim-sandtler"
+      }
+    ]
+  },
+  {
+    "team": "kkramer-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "33",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "christopher-bruck",
+        "isPrimary": true
+      },
+      {
+        "driver": "michele-di-martino"
+      },
+      {
+        "driver": "fidel-leib"
+      },
+      {
+        "driver": "tobias-vazquez-garcia"
+      }
+    ]
+  },
+  {
+    "team": "natural-elements-by-walkenhorst-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "34",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "mattia-drudi",
+        "isPrimary": true
+      },
+      {
+        "driver": "felipe-fernandez-laser"
+      },
+      {
+        "driver": "christian-krognes"
+      },
+      {
+        "driver": "nicki-thiim"
+      }
+    ]
+  },
+  {
+    "team": "walkenhorst-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "35",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "stefan-aust",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-fetzer"
+      },
+      {
+        "driver": "mateo-villagomez"
+      }
+    ]
+  },
+  {
+    "team": "saugmotoren-motorsport-3m",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "36",
+    "chassis": "BMW Z4 GT3",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "valentin-lachenmayer",
+        "isPrimary": true
+      },
+      {
+        "driver": "julian-reeh"
+      },
+      {
+        "driver": "christian-scherer"
+      },
+      {
+        "driver": "henry-walkenhorst"
+      }
+    ]
+  },
+  {
+    "team": "prosport-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9AM",
+    "carNumber": "37",
+    "chassis": "Aston Martin Vantage AMR GT3",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "guido-dumarey",
+        "isPrimary": true
+      },
+      {
+        "driver": "christian-konnerth"
+      },
+      {
+        "driver": "markus-lonnroth"
+      },
+      {
+        "driver": "tobias-wahl"
+      }
+    ]
+  },
+  {
+    "team": "walkenhorst-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "39",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "anders-buchardt",
+        "isPrimary": true
+      },
+      {
+        "driver": "nico-hantke"
+      },
+      {
+        "driver": "mex-jansen"
+      }
+    ]
+  },
+  {
+    "team": "w-i-s-racing-team-powered-by-koopman-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9AM",
+    "carNumber": "40",
+    "chassis": "BMW Z4 GT3",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "juan-carlos-carmona",
+        "isPrimary": true
+      },
+      {
+        "driver": "michael-funke"
+      },
+      {
+        "driver": "peter-posavac"
+      },
+      {
+        "driver": "volker-strycek"
+      }
+    ]
+  },
+  {
+    "team": "falken-motorsports",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "44",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "klaus-bachler",
+        "isPrimary": true
+      },
+      {
+        "driver": "tim-heinemann"
+      },
+      {
+        "driver": "sven-muller"
+      },
+      {
+        "driver": "morris-schuring"
+      }
+    ]
+  },
+  {
+    "team": "realize-kondo-racing-with-rinaldi",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "45",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "dennis-marschall",
+        "isPrimary": true
+      },
+      {
+        "driver": "thomas-neubauer"
+      },
+      {
+        "driver": "david-perel"
+      },
+      {
+        "driver": "thierry-vermeulen"
+      }
+    ]
+  },
+  {
+    "team": "kcmg",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "47",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "nirei-fukuzumi",
+        "isPrimary": true
+      },
+      {
+        "driver": "naoya-gamou"
+      },
+      {
+        "driver": "jesse-krohn"
+      },
+      {
+        "driver": "david-pittard"
+      }
+    ]
+  },
+  {
+    "team": "48losch-motorsport-by-black-falcon",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "48",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "daan-arrow",
+        "isPrimary": true
+      },
+      {
+        "driver": "patrick-assenheimer"
+      },
+      {
+        "driver": "tobias-muller"
+      },
+      {
+        "driver": "dylan-pereira"
+      }
+    ]
+  },
+  {
+    "team": "dinamic-gt",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "54",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "bastian-buus",
+        "isPrimary": true
+      },
+      {
+        "driver": "michael-christensen"
+      },
+      {
+        "driver": "loek-hartog"
+      },
+      {
+        "driver": "joel-sturm"
+      }
+    ]
+  },
+  {
+    "team": "dinamic-gt",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "55",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "michele-beretta",
+        "isPrimary": true
+      },
+      {
+        "driver": "alessandro-ghiretti"
+      },
+      {
+        "driver": "marco-holzer"
+      },
+      {
+        "driver": "philipp-sager"
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "64",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "arjun-maini",
+        "isPrimary": true
+      },
+      {
+        "driver": "fabio-scherer"
+      },
+      {
+        "driver": "david-schumacher"
+      },
+      {
+        "driver": "frank-stippler"
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "65",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "colin-caresani",
+        "isPrimary": true
+      },
+      {
+        "driver": "hubert-haupt"
+      },
+      {
+        "driver": "vincent-kolb"
+      }
+    ]
+  },
+  {
+    "team": "hrt-ford-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "67",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "christopher-mies",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-olsen"
+      },
+      {
+        "driver": "frederic-vervisch"
+      }
+    ]
+  },
+  {
+    "team": "dorr-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "69",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "ben-dorr",
+        "isPrimary": true
+      },
+      {
+        "driver": "timo-glock"
+      },
+      {
+        "driver": "marvin-kirchhofer"
+      },
+      {
+        "driver": "timo-scheider"
+      }
+    ]
+  },
+  {
+    "team": "juta-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "71",
+    "chassis": "Audi R8 LMS Evo II",
+    "manufacturer": "Audi",
+    "drivers": [
+      {
+        "driver": "otto-blank",
+        "isPrimary": true
+      },
+      {
+        "driver": "bjorn-grossmann"
+      },
+      {
+        "driver": "christer-jons"
+      },
+      {
+        "driver": "pierre-kaffer"
+      }
+    ]
+  },
+  {
+    "team": "schubert-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "77",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "philipp-eng",
+        "isPrimary": true
+      },
+      {
+        "driver": "robin-frijns"
+      },
+      {
+        "driver": "charles-weerts"
+      },
+      {
+        "driver": "marco-wittmann"
+      }
+    ]
+  },
+  {
+    "team": "mercedes-amg-team-ravenol",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "80",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "maro-engel",
+        "isPrimary": true
+      },
+      {
+        "driver": "maxime-martin"
+      },
+      {
+        "driver": "fabian-schiller"
+      },
+      {
+        "driver": "luca-stolz"
+      }
+    ]
+  },
+  {
+    "team": "red-bull-team-abt",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "84",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "mirko-bortolotti",
+        "isPrimary": true
+      },
+      {
+        "driver": "luca-engstler"
+      },
+      {
+        "driver": "patric-niederhauser"
+      }
+    ]
+  },
+  {
+    "team": "high-class-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "86",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "anders-fjordbach",
+        "isPrimary": true
+      },
+      {
+        "driver": "harry-king"
+      },
+      {
+        "driver": "kerong-li"
+      },
+      {
+        "driver": "leo-ye-hongli"
+      }
+    ]
+  },
+  {
+    "team": "rowe-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "99",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "dan-harper",
+        "isPrimary": true
+      },
+      {
+        "driver": "max-hesse"
+      },
+      {
+        "driver": "sheldon-van-der-linde"
+      },
+      {
+        "driver": "dries-vanthoor"
+      }
+    ]
+  },
+  {
+    "team": "muhlner-motorsport",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PA",
+    "carNumber": "123",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "alex-brundle",
+        "isPrimary": true
+      },
+      {
+        "driver": "ben-bunnagel"
+      },
+      {
+        "driver": "martin-rump"
+      }
+    ]
+  },
+  {
+    "team": "schaeffler-team-abt",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "130",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "nicky-catsburg",
+        "isPrimary": true
+      },
+      {
+        "driver": "marco-mapelli"
+      },
+      {
+        "driver": "nick-yelloly"
+      }
+    ]
+  },
+  {
+    "team": "manthey-racing",
+    "series": "nurburgring-24h",
+    "season": 2026,
+    "category": "SP9PRO",
+    "carNumber": "911",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "matt-campbell",
+        "isPrimary": true
+      },
+      {
+        "driver": "kevin-estre"
+      },
+      {
+        "driver": "ayhancan-guven"
+      },
+      {
+        "driver": "thomas-preining"
+      }
+    ]
+  }
+]
