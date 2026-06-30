@@ -97,5 +97,27 @@
     "country": "US",
     "dataSource": "COMMUNITY",
     "dataCoverage": "partial"
+  },
+  {
+    "slug": "formula-e",
+    "fullName": "ABB FIA Formula E World Championship",
+    "shortName": "Formula E",
+    "organiser": "FIA",
+    "category": "SINGLE_SEATER",
+    "website": "https://www.fiaformulae.com",
+    "country": "GB",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "super-formula",
+    "fullName": "Super Formula Championship",
+    "shortName": "Super Formula",
+    "organiser": "JRP",
+    "category": "SINGLE_SEATER",
+    "website": "https://superformula.net",
+    "country": "JP",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
   }
 ]

@@ -1,0 +1,302 @@
+[
+  {
+    "team": "nissan-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "1",
+    "chassis": "Nissan e-4ORCE 05",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "oliver-rowland",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "nissan-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "23",
+    "chassis": "Nissan e-4ORCE 05",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "norman-nato",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "cupra-kiro",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "3",
+    "chassis": "Porsche 99X Electric",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "pepe-marti",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "cupra-kiro",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "33",
+    "chassis": "Porsche 99X Electric",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "dan-ticktum",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "ds-penske",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "7",
+    "chassis": "DS E-Tense FE25",
+    "manufacturer": "DS",
+    "drivers": [
+      {
+        "driver": "maximilian-gunther",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "ds-penske",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "77",
+    "chassis": "DS E-Tense FE25",
+    "manufacturer": "DS",
+    "drivers": [
+      {
+        "driver": "taylor-barnard",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "jaguar-tcs-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "9",
+    "chassis": "Jaguar I-Type 7",
+    "manufacturer": "Jaguar",
+    "drivers": [
+      {
+        "driver": "mitch-evans",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "jaguar-tcs-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "13",
+    "chassis": "Jaguar I-Type 7",
+    "manufacturer": "Jaguar",
+    "drivers": [
+      {
+        "driver": "antonio-felix-da-costa",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "lola-yamaha-abt-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "11",
+    "chassis": "Lola-Yamaha T001",
+    "manufacturer": "Yamaha",
+    "drivers": [
+      {
+        "driver": "lucas-di-grassi",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "lola-yamaha-abt-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "22",
+    "chassis": "Lola-Yamaha T001",
+    "manufacturer": "Yamaha",
+    "drivers": [
+      {
+        "driver": "zane-maloney",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "envision-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "14",
+    "chassis": "Jaguar I-Type 7",
+    "manufacturer": "Jaguar",
+    "drivers": [
+      {
+        "driver": "joel-eriksson",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "envision-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "16",
+    "chassis": "Jaguar I-Type 7",
+    "manufacturer": "Jaguar",
+    "drivers": [
+      {
+        "driver": "sebastien-buemi",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mahindra-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "21",
+    "chassis": "Mahindra M12Electro",
+    "manufacturer": "Mahindra",
+    "drivers": [
+      {
+        "driver": "nyck-de-vries",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "mahindra-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "48",
+    "chassis": "Mahindra M12Electro",
+    "manufacturer": "Mahindra",
+    "drivers": [
+      {
+        "driver": "edoardo-mortara",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "citroen-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "25",
+    "chassis": "Citroën ë-CX",
+    "manufacturer": "Citroën",
+    "drivers": [
+      {
+        "driver": "jean-eric-vergne",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "citroen-racing",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "37",
+    "chassis": "Citroën ë-CX",
+    "manufacturer": "Citroën",
+    "drivers": [
+      {
+        "driver": "nick-cassidy",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "andretti-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "27",
+    "chassis": "Porsche 99X Electric",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "jake-dennis",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "andretti-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "28",
+    "chassis": "Porsche 99X Electric",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "felipe-drugovich",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "porsche-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "51",
+    "chassis": "Porsche 99X Electric",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "nico-muller",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "porsche-formula-e-team",
+    "series": "formula-e",
+    "season": 2026,
+    "category": "FE",
+    "carNumber": "94",
+    "chassis": "Porsche 99X Electric",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "pascal-wehrlein",
+        "isPrimary": true
+      }
+    ]
+  }
+]

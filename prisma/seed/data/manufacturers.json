@@ -17,5 +17,11 @@
   { "name": "Chevrolet", "type": "CHASSIS_CONSTRUCTOR", "country": "US" },
   { "name": "Ford", "type": "CHASSIS_CONSTRUCTOR", "country": "US" },
   { "name": "Lexus", "type": "CHASSIS_CONSTRUCTOR", "country": "JP" },
-  { "name": "Honda", "type": "ENGINE_SUPPLIER", "country": "JP" }
+  { "name": "Honda", "type": "ENGINE_SUPPLIER", "country": "JP" },
+  { "name": "Nissan", "type": "BOTH", "country": "JP" },
+  { "name": "Jaguar", "type": "BOTH", "country": "GB" },
+  { "name": "DS", "type": "BOTH", "country": "FR" },
+  { "name": "Citroën", "type": "BOTH", "country": "FR" },
+  { "name": "Mahindra", "type": "BOTH", "country": "IN" },
+  { "name": "Yamaha", "type": "ENGINE_SUPPLIER", "country": "JP" }
 ]

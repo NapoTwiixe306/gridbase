@@ -1,0 +1,158 @@
+[
+  {
+    "fullName": "Nissan Formula E Team",
+    "shortName": "Nissan",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Cupra Kiro",
+    "shortName": "Cupra Kiro",
+    "country": "ES",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "DS Penske",
+    "shortName": "DS Penske",
+    "country": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Jaguar TCS Racing",
+    "shortName": "Jaguar",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Lola Yamaha ABT Formula E Team",
+    "shortName": "Lola Yamaha ABT",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Envision Racing",
+    "shortName": "Envision",
+    "country": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Mahindra Racing",
+    "shortName": "Mahindra",
+    "country": "IN",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Citroën Racing",
+    "shortName": "Citroën",
+    "country": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Andretti Formula E Team",
+    "shortName": "Andretti FE",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Porsche Formula E Team",
+    "shortName": "Porsche FE",
+    "country": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team Mugen Autobacs",
+    "shortName": "Mugen",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Realize Kondo Racing",
+    "shortName": "Kondo",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Navikuru Buzz MK Racing",
+    "shortName": "MK Racing",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Docomo Team Dandelion Racing",
+    "shortName": "Dandelion",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "KDDI TGMGP TGR-DC",
+    "shortName": "TGM Grand Prix",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team Goh",
+    "shortName": "Team Goh",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "KCMG",
+    "shortName": "KCMG",
+    "country": "HK",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Hazama Ando Triple Tree Racing",
+    "shortName": "Triple Tree",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "ThreeBond Racing",
+    "shortName": "ThreeBond",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "NTT Docomo Business Rookie",
+    "shortName": "Docomo Rookie",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team Impul",
+    "shortName": "Impul",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Delightworks Racing",
+    "shortName": "Delightworks",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Vantelin Team TOM'S",
+    "shortName": "TOM'S",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Sanki Vertex Partners Cerumo・Inging",
+    "shortName": "Cerumo Inging",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "San-Ei Gen with B-Max",
+    "shortName": "B-Max",
+    "country": "JP",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Ponos Nakajima Racing",
+    "shortName": "Nakajima",
+    "country": "JP",
+    "status": "ACTIVE"
+  }
+]

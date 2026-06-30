@@ -19,5 +19,7 @@
   { "series": "indycar", "year": 2025, "status": "FINISHED" },
   { "series": "indycar", "year": 2026, "status": "ONGOING" },
   { "series": "nascar-cup", "year": 2025, "status": "FINISHED" },
-  { "series": "nascar-cup", "year": 2026, "status": "ONGOING" }
+  { "series": "nascar-cup", "year": 2026, "status": "ONGOING" },
+  { "series": "formula-e", "year": 2026, "status": "ONGOING" },
+  { "series": "super-formula", "year": 2026, "status": "ONGOING" }
 ]
