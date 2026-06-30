@@ -25,5 +25,7 @@
   { "series": "elms", "year": 2026, "status": "ONGOING" },
   { "series": "spa-24h", "year": 2026, "status": "ONGOING" },
   { "series": "bathurst-12h", "year": 2026, "status": "FINISHED" },
-  { "series": "nurburgring-24h", "year": 2026, "status": "FINISHED" }
+  { "series": "nurburgring-24h", "year": 2026, "status": "FINISHED" },
+  { "series": "super-gt", "year": 2026, "status": "ONGOING" },
+  { "series": "gtwc-america", "year": 2026, "status": "ONGOING" }
 ]

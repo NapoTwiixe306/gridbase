@@ -23,5 +23,6 @@
   { "name": "DS", "type": "BOTH", "country": "FR" },
   { "name": "Citroën", "type": "BOTH", "country": "FR" },
   { "name": "Mahindra", "type": "BOTH", "country": "IN" },
-  { "name": "Yamaha", "type": "ENGINE_SUPPLIER", "country": "JP" }
+  { "name": "Yamaha", "type": "ENGINE_SUPPLIER", "country": "JP" },
+  { "name": "Subaru", "type": "BOTH", "country": "JP" }
 ]

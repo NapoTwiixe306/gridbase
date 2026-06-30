@@ -33,5 +33,10 @@
   { "series": "bathurst-12h", "fullName": "Invitational", "abbreviation": "INV", "hierarchy": 6 },
   { "series": "nurburgring-24h", "fullName": "SP9 Pro", "abbreviation": "SP9PRO", "hierarchy": 1 },
   { "series": "nurburgring-24h", "fullName": "SP9 Pro-Am", "abbreviation": "SP9PA", "hierarchy": 2 },
-  { "series": "nurburgring-24h", "fullName": "SP9 Am", "abbreviation": "SP9AM", "hierarchy": 3 }
+  { "series": "nurburgring-24h", "fullName": "SP9 Am", "abbreviation": "SP9AM", "hierarchy": 3 },
+  { "series": "super-gt", "fullName": "GT500", "abbreviation": "GT500", "hierarchy": 1 },
+  { "series": "super-gt", "fullName": "GT300", "abbreviation": "GT300", "hierarchy": 2 },
+  { "series": "gtwc-america", "fullName": "Pro", "abbreviation": "PRO", "hierarchy": 1 },
+  { "series": "gtwc-america", "fullName": "Pro-Am", "abbreviation": "PROAM", "hierarchy": 2 },
+  { "series": "gtwc-america", "fullName": "Am", "abbreviation": "AM", "hierarchy": 3 }
 ]

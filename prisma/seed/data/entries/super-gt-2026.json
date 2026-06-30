@@ -1,0 +1,806 @@
+[
+  {
+    "team": "team-hrc-arta-mugen",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "8",
+    "chassis": "Honda HRC Prelude-GT",
+    "manufacturer": "Honda",
+    "drivers": [
+      {
+        "driver": "kakunoshin-ohta",
+        "isPrimary": true
+      },
+      {
+        "driver": "hiroki-otsu"
+      }
+    ]
+  },
+  {
+    "team": "team-impul",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "12",
+    "chassis": "Nissan Z NISMO GT500",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "kazuki-hiramine",
+        "isPrimary": true
+      },
+      {
+        "driver": "bertrand-baguette"
+      }
+    ]
+  },
+  {
+    "team": "tgr-team-eneos-rookie",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "14",
+    "chassis": "Toyota GR Supra GT500",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "nirei-fukuzumi",
+        "isPrimary": true
+      },
+      {
+        "driver": "kazuya-oshima"
+      }
+    ]
+  },
+  {
+    "team": "arta-mugen",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "16",
+    "chassis": "Honda HRC Prelude-GT",
+    "manufacturer": "Honda",
+    "drivers": [
+      {
+        "driver": "tomoki-nojiri",
+        "isPrimary": true
+      },
+      {
+        "driver": "ren-sato"
+      }
+    ]
+  },
+  {
+    "team": "astemo-real-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "17",
+    "chassis": "Honda HRC Prelude-GT",
+    "manufacturer": "Honda",
+    "drivers": [
+      {
+        "driver": "koudai-tsukakoshi",
+        "isPrimary": true
+      },
+      {
+        "driver": "yuto-nomura"
+      }
+    ]
+  },
+  {
+    "team": "tgr-team-wedssport-bandoh",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "19",
+    "chassis": "Toyota GR Supra GT500",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "yuji-kunimoto",
+        "isPrimary": true
+      },
+      {
+        "driver": "sena-sakaguchi"
+      }
+    ]
+  },
+  {
+    "team": "nismo",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "23",
+    "chassis": "Nissan Z NISMO GT500",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "katsumasa-chiyo",
+        "isPrimary": true
+      },
+      {
+        "driver": "mitsunori-takaboshi"
+      }
+    ]
+  },
+  {
+    "team": "kondo-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "24",
+    "chassis": "Nissan Z NISMO GT500",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "teppei-natori",
+        "isPrimary": true
+      },
+      {
+        "driver": "atsushi-miyake"
+      }
+    ]
+  },
+  {
+    "team": "tgr-team-au-tom-s",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "36",
+    "chassis": "Toyota GR Supra GT500",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "sho-tsuboi",
+        "isPrimary": true
+      },
+      {
+        "driver": "kenta-yamashita"
+      }
+    ]
+  },
+  {
+    "team": "tgr-team-deloitte-tom-s",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "37",
+    "chassis": "Toyota GR Supra GT500",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "ukyo-sasahara",
+        "isPrimary": true
+      },
+      {
+        "driver": "giuliano-alesi"
+      }
+    ]
+  },
+  {
+    "team": "tgr-team-keeper-cerumo",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "38",
+    "chassis": "Toyota GR Supra GT500",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "toshiki-oyu",
+        "isPrimary": true
+      },
+      {
+        "driver": "rikuto-kobayashi"
+      }
+    ]
+  },
+  {
+    "team": "tgr-team-sard",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "39",
+    "chassis": "Toyota GR Supra GT500",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "yuhi-sekiguchi",
+        "isPrimary": true
+      },
+      {
+        "driver": "sacha-fenestraz"
+      }
+    ]
+  },
+  {
+    "team": "modulo-nakajima-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "64",
+    "chassis": "Honda HRC Prelude-GT",
+    "manufacturer": "Honda",
+    "drivers": [
+      {
+        "driver": "riki-okusa",
+        "isPrimary": true
+      },
+      {
+        "driver": "igor-omura-fraga"
+      }
+    ]
+  },
+  {
+    "team": "stanley-team-kunimitsu",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT500",
+    "carNumber": "100",
+    "chassis": "Honda HRC Prelude-GT",
+    "manufacturer": "Honda",
+    "drivers": [
+      {
+        "driver": "naoki-yamamoto",
+        "isPrimary": true
+      },
+      {
+        "driver": "tadasuke-makino"
+      }
+    ]
+  },
+  {
+    "team": "hyper-water-racing-inging",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "2",
+    "chassis": "Toyota GR86 GT300",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "yuui-tsutsumi",
+        "isPrimary": true
+      },
+      {
+        "driver": "kazuhisa-urabe"
+      }
+    ]
+  },
+  {
+    "team": "goodsmile-racing-teamukyo",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "4",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "nobuteru-taniguchi",
+        "isPrimary": true
+      },
+      {
+        "driver": "tatsuya-kataoka"
+      }
+    ]
+  },
+  {
+    "team": "team-mach",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "5",
+    "chassis": "Toyota 86 MC GT300",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "yusuke-shiotsu",
+        "isPrimary": true
+      },
+      {
+        "driver": "souta-arao"
+      }
+    ]
+  },
+  {
+    "team": "velorex",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "6",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "yoshiaki-katayama",
+        "isPrimary": true
+      },
+      {
+        "driver": "niklas-krutten"
+      }
+    ]
+  },
+  {
+    "team": "carguy-mks-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "7",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "zak-o-sullivan",
+        "isPrimary": true
+      },
+      {
+        "driver": "reimei-ito"
+      }
+    ]
+  },
+  {
+    "team": "pacific-racing-team",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "9",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "yusuke-tomibayashi",
+        "isPrimary": true
+      },
+      {
+        "driver": "yuta-fujiwara"
+      },
+      {
+        "driver": "rintaro-kubo"
+      }
+    ]
+  },
+  {
+    "team": "gainer",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "11",
+    "chassis": "Nissan Fairlady Z GT300",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "ryuichiro-tomita",
+        "isPrimary": true
+      },
+      {
+        "driver": "kazuki-oki"
+      }
+    ]
+  },
+  {
+    "team": "team-upgarage",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "18",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "takashi-kobayashi",
+        "isPrimary": true
+      },
+      {
+        "driver": "kotaro-shimbara"
+      }
+    ]
+  },
+  {
+    "team": "shade-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "20",
+    "chassis": "Lexus RC F GT3",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "katsuyuki-hiranaka",
+        "isPrimary": true
+      },
+      {
+        "driver": "eijiro-shimizu"
+      }
+    ]
+  },
+  {
+    "team": "r-qs-motor-sports",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "22",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "masaki-kano",
+        "isPrimary": true
+      },
+      {
+        "driver": "hisashi-wada"
+      }
+    ]
+  },
+  {
+    "team": "hoppy-team-tsuchiya",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "25",
+    "chassis": "Toyota GR Supra GT300",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "takamitsu-matsui",
+        "isPrimary": true
+      },
+      {
+        "driver": "ryota-horachi"
+      }
+    ]
+  },
+  {
+    "team": "anest-iwata-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "26",
+    "chassis": "Nissan Fairlady Z GT300",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "hironobu-yasuda",
+        "isPrimary": true
+      },
+      {
+        "driver": "lee-jungwoo"
+      }
+    ]
+  },
+  {
+    "team": "apr",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "30",
+    "chassis": "Toyota GR86 GT300",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "hibiki-taira",
+        "isPrimary": true
+      },
+      {
+        "driver": "manabu-orido"
+      }
+    ]
+  },
+  {
+    "team": "apr",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "31",
+    "chassis": "Lexus LC 500h GT",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "kazuto-kotaka",
+        "isPrimary": true
+      },
+      {
+        "driver": "miki-koyama"
+      },
+      {
+        "driver": "charlie-wurz"
+      }
+    ]
+  },
+  {
+    "team": "team-eneos-rookie",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "32",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "hiroaki-ishiura",
+        "isPrimary": true
+      },
+      {
+        "driver": "tokiya-suzuki"
+      },
+      {
+        "driver": "kamui-kobayashi"
+      }
+    ]
+  },
+  {
+    "team": "ponos-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "45",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "takuro-shinohara",
+        "isPrimary": true
+      },
+      {
+        "driver": "kei-cozzolino"
+      },
+      {
+        "driver": "shintaro-kawabata"
+      }
+    ]
+  },
+  {
+    "team": "nilzz-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "48",
+    "chassis": "Nissan GT-R Nismo GT3",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "taiyo-ida",
+        "isPrimary": true
+      },
+      {
+        "driver": "james-pull"
+      },
+      {
+        "driver": "daiki-fujiwara"
+      }
+    ]
+  },
+  {
+    "team": "saitama-green-brave",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "52",
+    "chassis": "Toyota GR Supra GT300",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "hiroki-yoshida",
+        "isPrimary": true
+      },
+      {
+        "driver": "seita-nonaka"
+      }
+    ]
+  },
+  {
+    "team": "kondo-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "56",
+    "chassis": "Nissan GT-R Nismo GT3",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "joao-paulo-de-oliveira",
+        "isPrimary": true
+      },
+      {
+        "driver": "iori-kimura"
+      }
+    ]
+  },
+  {
+    "team": "lm-corsa",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "60",
+    "chassis": "Lexus LC 500 GT",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "hiroki-yoshimoto",
+        "isPrimary": true
+      },
+      {
+        "driver": "shunsuke-kohno"
+      }
+    ]
+  },
+  {
+    "team": "r-d-sport",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "61",
+    "chassis": "Subaru BRZ GT300",
+    "manufacturer": "Subaru",
+    "drivers": [
+      {
+        "driver": "takuto-iguchi",
+        "isPrimary": true
+      },
+      {
+        "driver": "hideki-yamauchi"
+      }
+    ]
+  },
+  {
+    "team": "helm-motorsports",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "62",
+    "chassis": "Nissan GT-R Nismo GT3",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "yuya-hiraki",
+        "isPrimary": true
+      },
+      {
+        "driver": "reiji-hiraki"
+      }
+    ]
+  },
+  {
+    "team": "k2-r-d-leon-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "65",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "naoya-gamou",
+        "isPrimary": true
+      },
+      {
+        "driver": "togo-suganami"
+      },
+      {
+        "driver": "haruki-kurosawa"
+      }
+    ]
+  },
+  {
+    "team": "jloc",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "87",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "yuya-motojima",
+        "isPrimary": true
+      },
+      {
+        "driver": "kosuke-matsuura"
+      },
+      {
+        "driver": "kohta-kawaai"
+      }
+    ]
+  },
+  {
+    "team": "jloc",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "88",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "takashi-kogure",
+        "isPrimary": true
+      },
+      {
+        "driver": "daniil-kvyat"
+      },
+      {
+        "driver": "natsu-sakaguchi"
+      }
+    ]
+  },
+  {
+    "team": "tomei-sports",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "360",
+    "chassis": "Nissan GT-R Nismo GT3",
+    "manufacturer": "Nissan",
+    "drivers": [
+      {
+        "driver": "rin-arakawa",
+        "isPrimary": true
+      },
+      {
+        "driver": "yu-kanamaru"
+      },
+      {
+        "driver": "atsushi-tanaka"
+      }
+    ]
+  },
+  {
+    "team": "seven-x-seven-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "666",
+    "chassis": "Porsche 911 GT3 R",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "sven-muller",
+        "isPrimary": true
+      },
+      {
+        "driver": "kiyoto-fujinami"
+      },
+      {
+        "driver": "taichi-watarai"
+      }
+    ]
+  },
+  {
+    "team": "d-station-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "777",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "tomonobu-fujii",
+        "isPrimary": true
+      },
+      {
+        "driver": "charlie-fagg"
+      }
+    ]
+  },
+  {
+    "team": "k-tunes-racing",
+    "series": "super-gt",
+    "season": 2026,
+    "category": "GT300",
+    "carNumber": "96",
+    "chassis": "Lexus RC F GT3",
+    "manufacturer": "Lexus",
+    "drivers": [
+      {
+        "driver": "morio-nitta",
+        "isPrimary": true
+      },
+      {
+        "driver": "shinichi-takagi"
+      }
+    ]
+  }
+]

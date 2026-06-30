@@ -160,5 +160,25 @@
     "country": "DE",
     "dataSource": "COMMUNITY",
     "dataCoverage": "minimal"
+  },
+  {
+    "slug": "super-gt",
+    "fullName": "Super GT",
+    "shortName": "Super GT",
+    "organiser": "GTA",
+    "category": "GT",
+    "country": "JP",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "gtwc-america",
+    "fullName": "GT World Challenge America",
+    "shortName": "GTWC America",
+    "organiser": "SRO",
+    "category": "GT",
+    "country": "US",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
   }
 ]

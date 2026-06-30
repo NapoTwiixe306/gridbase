@@ -1,0 +1,380 @@
+[
+  {
+    "team": "kellymoss",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "017",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "colin-braun",
+        "isPrimary": true
+      },
+      {
+        "driver": "michael-clark"
+      },
+      {
+        "driver": "riley-dickinson"
+      },
+      {
+        "driver": "todd-parriott"
+      },
+      {
+        "driver": "john-gilliland"
+      },
+      {
+        "driver": "loek-hartog"
+      }
+    ]
+  },
+  {
+    "team": "dollahite-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "6",
+    "chassis": "Ford Mustang GT3 Evo",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "cameron-lawrence",
+        "isPrimary": true
+      },
+      {
+        "driver": "alex-sedgwick"
+      }
+    ]
+  },
+  {
+    "team": "mccann-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "8",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "michael-mccann-jr",
+        "isPrimary": true
+      },
+      {
+        "driver": "zachary-vanier"
+      }
+    ]
+  },
+  {
+    "team": "tr3-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "9",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "brayton-williams",
+        "isPrimary": true
+      },
+      {
+        "driver": "daniel-morad"
+      },
+      {
+        "driver": "will-bamber"
+      }
+    ]
+  },
+  {
+    "team": "mad-joker-by-lone-star-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "AM",
+    "carNumber": "11",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "marc-austin",
+        "isPrimary": true
+      },
+      {
+        "driver": "jason-golan"
+      }
+    ]
+  },
+  {
+    "team": "af-corse-usa",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "12",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "matias-perez-companc",
+        "isPrimary": true
+      },
+      {
+        "driver": "frederik-schandorff"
+      },
+      {
+        "driver": "jay-schreibman"
+      },
+      {
+        "driver": "oswaldo-negri-jr"
+      },
+      {
+        "driver": "benny-simonsen"
+      }
+    ]
+  },
+  {
+    "team": "riley-technologies",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "14",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "andy-lee",
+        "isPrimary": true
+      },
+      {
+        "driver": "slade-stewart"
+      }
+    ]
+  },
+  {
+    "team": "triarsi-competizione",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "18",
+    "chassis": "Ferrari 296 GT3",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "riccardo-agostini",
+        "isPrimary": true
+      },
+      {
+        "driver": "sebastian-mascaro"
+      }
+    ]
+  },
+  {
+    "team": "jmf-motorsports",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "27",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "jason-daskalos",
+        "isPrimary": true
+      },
+      {
+        "driver": "lorcan-hanafin"
+      },
+      {
+        "driver": "philip-ellis"
+      },
+      {
+        "driver": "mikael-grenier"
+      },
+      {
+        "driver": "michai-stephens"
+      }
+    ]
+  },
+  {
+    "team": "rs1",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "28",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "jan-heylen",
+        "isPrimary": true
+      },
+      {
+        "driver": "jp-martinez"
+      }
+    ]
+  },
+  {
+    "team": "turner-motorsport",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PRO",
+    "carNumber": "29",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "robby-foley",
+        "isPrimary": true
+      },
+      {
+        "driver": "justin-rothberg"
+      }
+    ]
+  },
+  {
+    "team": "wright-motorsports",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "31",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "dave-musial-jr",
+        "isPrimary": true
+      },
+      {
+        "driver": "ryan-yardley"
+      }
+    ]
+  },
+  {
+    "team": "gmg-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "32",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "tom-sargent",
+        "isPrimary": true
+      },
+      {
+        "driver": "kyle-washington"
+      }
+    ]
+  },
+  {
+    "team": "chouest-povoledo-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "50",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "ross-chouest",
+        "isPrimary": true
+      },
+      {
+        "driver": "aaron-povoledo"
+      }
+    ]
+  },
+  {
+    "team": "chicago-performance-and-tuning-co",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "64",
+    "chassis": "Lamborghini Huracán GT3 Evo 2",
+    "manufacturer": "Lamborghini",
+    "drivers": [
+      {
+        "driver": "nicolai-elghanayan",
+        "isPrimary": true
+      },
+      {
+        "driver": "mads-siljehaug"
+      }
+    ]
+  },
+  {
+    "team": "archangel-motorsports",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "69",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "todd-coleman",
+        "isPrimary": true
+      },
+      {
+        "driver": "aaron-telitz"
+      }
+    ]
+  },
+  {
+    "team": "rebel-rock-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "71",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "frank-depew",
+        "isPrimary": true
+      },
+      {
+        "driver": "robin-liddell"
+      }
+    ]
+  },
+  {
+    "team": "random-vandals-racing",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "99",
+    "chassis": "BMW M4 GT3 Evo",
+    "manufacturer": "BMW",
+    "drivers": [
+      {
+        "driver": "derek-deboer",
+        "isPrimary": true
+      },
+      {
+        "driver": "hampus-ericsson"
+      },
+      {
+        "driver": "marcus-ericsson"
+      }
+    ]
+  },
+  {
+    "team": "wright-motorsports",
+    "series": "gtwc-america",
+    "season": 2026,
+    "category": "PROAM",
+    "carNumber": "163",
+    "chassis": "Porsche 911 GT3 R (992)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "therese-lahlouh",
+        "isPrimary": true
+      },
+      {
+        "driver": "thomas-merrill"
+      }
+    ]
+  }
+]
