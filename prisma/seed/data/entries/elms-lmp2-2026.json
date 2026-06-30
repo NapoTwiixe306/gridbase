@@ -1,0 +1,468 @@
+[
+  {
+    "team": "dkr-engineering",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "3",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "sebastian-alvarez",
+        "isPrimary": true
+      },
+      {
+        "driver": "jean-glorieux"
+      },
+      {
+        "driver": "marlon-hernandez"
+      }
+    ]
+  },
+  {
+    "team": "vector-sport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "7",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "cem-bolukbas",
+        "isPrimary": true
+      },
+      {
+        "driver": "lorenzo-fluxa"
+      },
+      {
+        "driver": "jens-reno-m-ller"
+      }
+    ]
+  },
+  {
+    "team": "vector-sport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "10",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "ryan-cullen",
+        "isPrimary": true
+      },
+      {
+        "driver": "pietro-fittipaldi"
+      },
+      {
+        "driver": "vladislav-lomko"
+      }
+    ]
+  },
+  {
+    "team": "proton-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "9",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "sebastian-priaulx",
+        "isPrimary": true
+      },
+      {
+        "driver": "jonas-ried"
+      },
+      {
+        "driver": "mike-rockenfeller"
+      }
+    ]
+  },
+  {
+    "team": "proton-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "88",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "rene-binder",
+        "isPrimary": true
+      },
+      {
+        "driver": "horst-felbermayr-jr"
+      },
+      {
+        "driver": "horst-felix-felbermayr"
+      }
+    ]
+  },
+  {
+    "team": "tds-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "14",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "scott-huffaker",
+        "isPrimary": true
+      },
+      {
+        "driver": "sami-meguetounif"
+      },
+      {
+        "driver": "steven-thomas"
+      }
+    ]
+  },
+  {
+    "team": "forestier-racing-by-panis",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "29",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "oliver-gray",
+        "isPrimary": true
+      },
+      {
+        "driver": "esteban-masson"
+      },
+      {
+        "driver": "louis-rousset"
+      }
+    ]
+  },
+  {
+    "team": "idec-sport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "18",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "jamie-chadwick",
+        "isPrimary": true
+      },
+      {
+        "driver": "laurents-horr"
+      },
+      {
+        "driver": "valerio-rinicella"
+      }
+    ]
+  },
+  {
+    "team": "idec-sport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "28",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "paul-loup-chatin",
+        "isPrimary": true
+      },
+      {
+        "driver": "paul-lafargue"
+      },
+      {
+        "driver": "job-van-uitert"
+      }
+    ]
+  },
+  {
+    "team": "rossa-racing-by-virage",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "19",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "manuel-espirito-santo",
+        "isPrimary": true
+      },
+      {
+        "driver": "john-falb"
+      },
+      {
+        "driver": "rik-koen"
+      }
+    ]
+  },
+  {
+    "team": "algarve-pro-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "20",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "malthe-jakobsen",
+        "isPrimary": true
+      },
+      {
+        "driver": "michael-jensen"
+      },
+      {
+        "driver": "enzo-trulli"
+      }
+    ]
+  },
+  {
+    "team": "algarve-pro-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "25",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "jake-hughes",
+        "isPrimary": true
+      },
+      {
+        "driver": "matthias-kaiser"
+      },
+      {
+        "driver": "tristan-vautier"
+      }
+    ]
+  },
+  {
+    "team": "united-autosports",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "21",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "oliver-jarvis",
+        "isPrimary": true
+      },
+      {
+        "driver": "marino-sato"
+      },
+      {
+        "driver": "daniel-schneider"
+      }
+    ]
+  },
+  {
+    "team": "united-autosports",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "22",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "ben-hanley",
+        "isPrimary": true
+      },
+      {
+        "driver": "griffin-peebles"
+      },
+      {
+        "driver": "gregoire-saucy"
+      }
+    ]
+  },
+  {
+    "team": "nielsen-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "24",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "jack-doohan",
+        "isPrimary": true
+      },
+      {
+        "driver": "roy-nissany"
+      },
+      {
+        "driver": "edward-pearson"
+      }
+    ]
+  },
+  {
+    "team": "nielsen-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "27",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "james-allen",
+        "isPrimary": true
+      },
+      {
+        "driver": "kriton-lendoudis"
+      },
+      {
+        "driver": "alex-quinn"
+      }
+    ]
+  },
+  {
+    "team": "duqueine-team",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "30",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "doriane-pin",
+        "isPrimary": true
+      },
+      {
+        "driver": "giorgio-roda"
+      },
+      {
+        "driver": "richard-verschoor"
+      }
+    ]
+  },
+  {
+    "team": "inter-europol-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "34",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "reshad-de-gerus",
+        "isPrimary": true
+      },
+      {
+        "driver": "bijoy-garg"
+      }
+    ]
+  },
+  {
+    "team": "inter-europol-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "43",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "tom-dillmann",
+        "isPrimary": true
+      },
+      {
+        "driver": "jakub-smiechowski"
+      },
+      {
+        "driver": "nick-yelloly"
+      },
+      {
+        "driver": "luca-ghiotto"
+      }
+    ]
+  },
+  {
+    "team": "clx-motorsport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "37",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "ian-aguilera",
+        "isPrimary": true
+      },
+      {
+        "driver": "adrien-closmenil"
+      },
+      {
+        "driver": "theodor-jensen"
+      }
+    ]
+  },
+  {
+    "team": "clx-motorsport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "47",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "georgios-kolovos",
+        "isPrimary": true
+      },
+      {
+        "driver": "charles-milesi"
+      },
+      {
+        "driver": "felipe-fraga"
+      },
+      {
+        "driver": "ferdinand-habsburg"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "83",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "antonio-fuoco",
+        "isPrimary": true
+      },
+      {
+        "driver": "francois-perrodo"
+      },
+      {
+        "driver": "matthieu-vaxiviere"
+      }
+    ]
+  },
+  {
+    "team": "ao-by-tf",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP2",
+    "carNumber": "99",
+    "chassis": "Oreca 07",
+    "drivers": [
+      {
+        "driver": "dane-cameron",
+        "isPrimary": true
+      },
+      {
+        "driver": "p-j-hyett"
+      },
+      {
+        "driver": "louis-deletraz"
+      },
+      {
+        "driver": "jonny-edgar"
+      }
+    ]
+  }
+]

@@ -1,0 +1,308 @@
+[
+  {
+    "team": "united-autosports",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "23",
+    "chassis": "McLaren 720S GT3 Evo",
+    "manufacturer": "McLaren",
+    "drivers": [
+      {
+        "driver": "michael-birch",
+        "isPrimary": true
+      },
+      {
+        "driver": "wayne-boyd"
+      },
+      {
+        "driver": "garnet-patterson"
+      }
+    ]
+  },
+  {
+    "team": "tf-sport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "33",
+    "chassis": "Chevrolet Corvette Z06 GT3.R",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "charlie-eastwood",
+        "isPrimary": true
+      },
+      {
+        "driver": "blake-mcdonald"
+      },
+      {
+        "driver": "alec-udell"
+      }
+    ]
+  },
+  {
+    "team": "richard-mille-af-corse",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "50",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "riccardo-agostini",
+        "isPrimary": true
+      },
+      {
+        "driver": "custodio-toledo"
+      },
+      {
+        "driver": "francesco-castellacci"
+      },
+      {
+        "driver": "lilou-wadoux"
+      }
+    ]
+  },
+  {
+    "team": "af-corse",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "51",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "conrad-laursen",
+        "isPrimary": true
+      },
+      {
+        "driver": "davide-rigon"
+      },
+      {
+        "driver": "charles-henri-samani"
+      }
+    ]
+  },
+  {
+    "team": "spirit-of-race",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "55",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "duncan-cameron",
+        "isPrimary": true
+      },
+      {
+        "driver": "matt-griffin"
+      },
+      {
+        "driver": "david-perel"
+      }
+    ]
+  },
+  {
+    "team": "high-class-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "54",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "anders-fjordbach",
+        "isPrimary": true
+      },
+      {
+        "driver": "dennis-andersen"
+      },
+      {
+        "driver": "laurin-heinrich"
+      },
+      {
+        "driver": "thomas-preining"
+      },
+      {
+        "driver": "klaus-bachler"
+      }
+    ]
+  },
+  {
+    "team": "kessel-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "57",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "mathys-jaubert",
+        "isPrimary": true
+      },
+      {
+        "driver": "takeshi-kimura"
+      },
+      {
+        "driver": "daniel-serra"
+      }
+    ]
+  },
+  {
+    "team": "kessel-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "74",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "andrew-gilbert",
+        "isPrimary": true
+      },
+      {
+        "driver": "romain-leroux"
+      },
+      {
+        "driver": "fran-rueda"
+      }
+    ]
+  },
+  {
+    "team": "racing-spirit-of-leman",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "59",
+    "chassis": "Aston Martin Vantage AMR GT3 Evo",
+    "manufacturer": "Aston Martin",
+    "drivers": [
+      {
+        "driver": "marius-fossard",
+        "isPrimary": true
+      },
+      {
+        "driver": "valentin-hasse-clot"
+      },
+      {
+        "driver": "clement-mateu"
+      }
+    ]
+  },
+  {
+    "team": "team-qatar-by-iron-lynx",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "62",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "abdulla-al-khelaifi",
+        "isPrimary": true
+      },
+      {
+        "driver": "julian-hanses"
+      },
+      {
+        "driver": "adam-christodoulou"
+      },
+      {
+        "driver": "maxime-martin"
+      }
+    ]
+  },
+  {
+    "team": "iron-lynx",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "63",
+    "chassis": "Mercedes-AMG GT3 Evo",
+    "manufacturer": "Mercedes-AMG",
+    "drivers": [
+      {
+        "driver": "rui-andrade",
+        "isPrimary": true
+      },
+      {
+        "driver": "ameerh-naran"
+      },
+      {
+        "driver": "sergio-sette-camara"
+      }
+    ]
+  },
+  {
+    "team": "proton-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "75",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "matt-kurzejewski",
+        "isPrimary": true
+      },
+      {
+        "driver": "richard-lietz"
+      },
+      {
+        "driver": "tom-sargent"
+      }
+    ]
+  },
+  {
+    "team": "proton-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "77",
+    "chassis": "Porsche 911 GT3 R (992.2)",
+    "manufacturer": "Porsche",
+    "drivers": [
+      {
+        "driver": "huub-van-eijndhoven",
+        "isPrimary": true
+      },
+      {
+        "driver": "harry-king"
+      },
+      {
+        "driver": "joel-sturm"
+      }
+    ]
+  },
+  {
+    "team": "gr-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMGT3",
+    "carNumber": "86",
+    "chassis": "Ferrari 296 GT3 Evo",
+    "manufacturer": "Ferrari",
+    "drivers": [
+      {
+        "driver": "lorcan-hanafin",
+        "isPrimary": true
+      },
+      {
+        "driver": "mex-jansen"
+      },
+      {
+        "driver": "michael-wainwright"
+      }
+    ]
+  }
+]

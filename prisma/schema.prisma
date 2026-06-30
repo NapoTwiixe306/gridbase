@@ -107,7 +107,7 @@ model Driver {
   id                 String        @id @default(cuid())
   firstName          String
   lastName           String
-  nationality        String // ISO 3166-1 alpha-2
+  nationality        String? // ISO 3166-1 alpha-2 (optional — may be unknown)
   dateOfBirth        DateTime?
   cityOfBirth        String?
   countryOfBirth     String? // ISO 3166-1 alpha-2

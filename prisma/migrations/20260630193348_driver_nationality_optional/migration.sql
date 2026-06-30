@@ -1,0 +1,1 @@
+ALTER TABLE `Driver` MODIFY `nationality` VARCHAR(191) NULL;

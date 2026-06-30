@@ -1,0 +1,205 @@
+[
+  {
+    "team": "dkr-engineering",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "4",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "wyatt-brichacek",
+        "isPrimary": true
+      },
+      {
+        "driver": "romain-favre"
+      },
+      {
+        "driver": "antti-rammo"
+      }
+    ]
+  },
+  {
+    "team": "rinaldi-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "5",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "jose-cautela",
+        "isPrimary": true
+      },
+      {
+        "driver": "mikkel-gaarde-pedersen"
+      },
+      {
+        "driver": "alvise-rodella"
+      }
+    ]
+  },
+  {
+    "team": "team-virage",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "8",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "daniel-nogales",
+        "isPrimary": true
+      },
+      {
+        "driver": "matteo-quintarelli"
+      },
+      {
+        "driver": "louis-stern"
+      }
+    ]
+  },
+  {
+    "team": "eurointernational",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "11",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "matthew-richard-bell",
+        "isPrimary": true
+      },
+      {
+        "driver": "douwe-dedecker"
+      },
+      {
+        "driver": "max-van-der-snel"
+      }
+    ]
+  },
+  {
+    "team": "inter-europol-competition",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "13",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "alexander-bukhantsov",
+        "isPrimary": true
+      },
+      {
+        "driver": "chun-ting-chou"
+      },
+      {
+        "driver": "henry-cubides-olarte"
+      }
+    ]
+  },
+  {
+    "team": "clx-motorsport",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "17",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "paul-lanchere",
+        "isPrimary": true
+      },
+      {
+        "driver": "alexander-jacoby"
+      },
+      {
+        "driver": "bruno-ribeiro"
+      },
+      {
+        "driver": "louis-iglesias"
+      }
+    ]
+  },
+  {
+    "team": "racing-spirit-of-leman",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "31",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "ralph-meichtry",
+        "isPrimary": true
+      },
+      {
+        "driver": "lenny-ried"
+      },
+      {
+        "driver": "gregory-de-sybourg"
+      }
+    ]
+  },
+  {
+    "team": "ultimate",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "35",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "lucas-fecury",
+        "isPrimary": true
+      },
+      {
+        "driver": "sebastian-gravlund"
+      },
+      {
+        "driver": "terrence-woodward"
+      }
+    ]
+  },
+  {
+    "team": "m-racing",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "68",
+    "chassis": "Ligier JS P325",
+    "drivers": [
+      {
+        "driver": "nick-adcock",
+        "isPrimary": true
+      },
+      {
+        "driver": "thomas-imbourg"
+      },
+      {
+        "driver": "quentin-antonel"
+      }
+    ]
+  },
+  {
+    "team": "r-ace-gp",
+    "series": "elms",
+    "season": 2026,
+    "category": "LMP3",
+    "carNumber": "85",
+    "chassis": "Duqueine D09",
+    "drivers": [
+      {
+        "driver": "fabien-michal",
+        "isPrimary": true
+      },
+      {
+        "driver": "pierre-alexandre-provost"
+      },
+      {
+        "driver": "hugo-schwarze"
+      }
+    ]
+  }
+]

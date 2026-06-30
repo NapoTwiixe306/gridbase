@@ -74,7 +74,7 @@ export const driverDataSchema = z
   .object({
     firstName: z.string().min(1).max(100),
     lastName: z.string().min(1).max(100),
-    nationality: isoCountrySchema,
+    nationality: isoCountrySchema.optional(),
     dateOfBirth: z.string().optional(),
     cityOfBirth: z.string().optional(),
     countryOfBirth: isoCountrySchema.optional(),

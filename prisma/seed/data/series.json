@@ -119,5 +119,16 @@
     "country": "JP",
     "dataSource": "COMMUNITY",
     "dataCoverage": "partial"
+  },
+  {
+    "slug": "elms",
+    "fullName": "European Le Mans Series",
+    "shortName": "ELMS",
+    "organiser": "ACO",
+    "category": "ENDURANCE",
+    "website": "https://www.europeanlemansseries.com",
+    "country": "FR",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
   }
 ]

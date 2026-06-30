@@ -16,5 +16,8 @@
   { "series": "indycar", "fullName": "IndyCar", "abbreviation": "INDY", "hierarchy": 1 },
   { "series": "nascar-cup", "fullName": "Cup Series", "abbreviation": "CUP", "hierarchy": 1 },
   { "series": "formula-e", "fullName": "Formula E", "abbreviation": "FE", "hierarchy": 1 },
-  { "series": "super-formula", "fullName": "Super Formula", "abbreviation": "SF", "hierarchy": 1 }
+  { "series": "super-formula", "fullName": "Super Formula", "abbreviation": "SF", "hierarchy": 1 },
+  { "series": "elms", "fullName": "Le Mans Prototype 2", "abbreviation": "LMP2", "hierarchy": 1 },
+  { "series": "elms", "fullName": "Le Mans Prototype 3", "abbreviation": "LMP3", "hierarchy": 2 },
+  { "series": "elms", "fullName": "LMGT3", "abbreviation": "LMGT3", "hierarchy": 3 }
 ]

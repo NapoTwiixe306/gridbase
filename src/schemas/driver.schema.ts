@@ -14,7 +14,7 @@ export const driverInputSchema = z
   .object({
     firstName: z.string().min(1).max(100),
     lastName: z.string().min(1).max(100),
-    nationality: isoCountrySchema,
+    nationality: isoCountrySchema.optional(),
     dateOfBirth: z.coerce.date().optional(),
     cityOfBirth: z.string().max(120).optional(),
     countryOfBirth: isoCountrySchema.optional(),
