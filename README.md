@@ -144,6 +144,38 @@ Codes: `NOT_FOUND` (404), `VALIDATION_ERROR` (422), `RATE_LIMITED` (429), `INTER
 
 ## API reference
 
+All endpoints are `GET` (the API is read-only for now). Base URL: `http://localhost:3000`.
+
+### All endpoints (localhost)
+
+| Endpoint | Description |
+| --- | --- |
+| `http://localhost:3000/health` | Health check |
+| `http://localhost:3000/api/v1/stats` | Global totals (drivers, teams, circuits…) |
+| `http://localhost:3000/api/v1/drivers` | List drivers — `?series=&nationality=&status=&page=&limit=` |
+| `http://localhost:3000/api/v1/drivers/search?q=` | Search drivers (min 2 chars) |
+| `http://localhost:3000/api/v1/drivers/:id` | Driver profile (+ `titles`, computed fields) |
+| `http://localhost:3000/api/v1/drivers/:id/entries` | Driver entries — `?series=&season=` |
+| `http://localhost:3000/api/v1/drivers/:id/titles` | Driver palmarès (championship titles) |
+| `http://localhost:3000/api/v1/teams` | List teams — `?series=&country=&status=` |
+| `http://localhost:3000/api/v1/teams/:id` | Team profile (+ current drivers) |
+| `http://localhost:3000/api/v1/teams/:id/drivers` | Team current-season drivers |
+| `http://localhost:3000/api/v1/teams/:id/transfers` | Team transfers — `?season=` |
+| `http://localhost:3000/api/v1/series` | List series |
+| `http://localhost:3000/api/v1/series/:slug` | Series detail (+ current season) |
+| `http://localhost:3000/api/v1/seasons` | List seasons — `?series=&year=` |
+| `http://localhost:3000/api/v1/seasons/:id` | Season detail |
+| `http://localhost:3000/api/v1/categories` | List categories — `?series=` |
+| `http://localhost:3000/api/v1/circuits` | List circuits (alphabetical) — `?country=&type=` |
+| `http://localhost:3000/api/v1/circuits/:id` | Circuit detail (cuid or slug) |
+| `http://localhost:3000/api/v1/manufacturers` | List manufacturers |
+| `http://localhost:3000/api/v1/entries` | List entries — `?series=&season=&team=&driver=&category=` |
+| `http://localhost:3000/api/v1/transfers` | List transfers — `?series=&season=&status=&team=&driver=` |
+| `http://localhost:3000/api/v1/transfers/latest` | 20 most recent transfers |
+| `http://localhost:3000/api/v1/search?q=` | Combined search (drivers, teams, series) |
+
+> `:id` accepts a **cuid or a slug** (e.g. `max-verstappen`, `circuit-de-spa-francorchamps`); `:slug` is the series slug (e.g. `wec`).
+
 ### Health
 
 #### `GET /health`

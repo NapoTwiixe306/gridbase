@@ -144,6 +144,38 @@ Codes : `NOT_FOUND` (404), `VALIDATION_ERROR` (422), `RATE_LIMITED` (429), `INTE
 
 ## Référence de l'API
 
+Toutes les routes sont en `GET` (l'API est en lecture seule pour l'instant). URL de base : `http://localhost:3000`.
+
+### Toutes les routes (localhost)
+
+| Route | Description |
+| --- | --- |
+| `http://localhost:3000/health` | Vérification de santé |
+| `http://localhost:3000/api/v1/stats` | Totaux globaux (pilotes, écuries, circuits…) |
+| `http://localhost:3000/api/v1/drivers` | Liste pilotes — `?series=&nationality=&status=&page=&limit=` |
+| `http://localhost:3000/api/v1/drivers/search?q=` | Recherche pilotes (2 car. min) |
+| `http://localhost:3000/api/v1/drivers/:id` | Profil pilote (+ `titles`, champs calculés) |
+| `http://localhost:3000/api/v1/drivers/:id/entries` | Engagements du pilote — `?series=&season=` |
+| `http://localhost:3000/api/v1/drivers/:id/titles` | Palmarès du pilote (titres de champion) |
+| `http://localhost:3000/api/v1/teams` | Liste écuries — `?series=&country=&status=` |
+| `http://localhost:3000/api/v1/teams/:id` | Profil écurie (+ pilotes actuels) |
+| `http://localhost:3000/api/v1/teams/:id/drivers` | Pilotes de l'écurie (saison en cours) |
+| `http://localhost:3000/api/v1/teams/:id/transfers` | Transferts de l'écurie — `?season=` |
+| `http://localhost:3000/api/v1/series` | Liste championnats |
+| `http://localhost:3000/api/v1/series/:slug` | Détail championnat (+ saison en cours) |
+| `http://localhost:3000/api/v1/seasons` | Liste saisons — `?series=&year=` |
+| `http://localhost:3000/api/v1/seasons/:id` | Détail saison |
+| `http://localhost:3000/api/v1/categories` | Liste catégories — `?series=` |
+| `http://localhost:3000/api/v1/circuits` | Liste circuits (alphabétique) — `?country=&type=` |
+| `http://localhost:3000/api/v1/circuits/:id` | Détail circuit (cuid ou slug) |
+| `http://localhost:3000/api/v1/manufacturers` | Liste constructeurs |
+| `http://localhost:3000/api/v1/entries` | Liste engagements — `?series=&season=&team=&driver=&category=` |
+| `http://localhost:3000/api/v1/transfers` | Liste transferts — `?series=&season=&status=&team=&driver=` |
+| `http://localhost:3000/api/v1/transfers/latest` | Les 20 transferts les plus récents |
+| `http://localhost:3000/api/v1/search?q=` | Recherche combinée (pilotes, écuries, championnats) |
+
+> `:id` accepte un **cuid ou un slug** (ex. `max-verstappen`, `circuit-de-spa-francorchamps`) ; `:slug` est le slug du championnat (ex. `wec`).
+
 ### Santé
 
 #### `GET /health`
