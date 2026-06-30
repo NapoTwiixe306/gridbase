@@ -12,5 +12,7 @@
   { "series": "f1", "fullName": "Formula One", "abbreviation": "F1", "hierarchy": 1 },
   { "series": "f2", "fullName": "Formula 2", "abbreviation": "F2", "hierarchy": 1 },
   { "series": "f3", "fullName": "Formula 3", "abbreviation": "F3", "hierarchy": 1 },
-  { "series": "dtm", "fullName": "DTM", "abbreviation": "DTM", "hierarchy": 1 }
+  { "series": "dtm", "fullName": "DTM", "abbreviation": "DTM", "hierarchy": 1 },
+  { "series": "indycar", "fullName": "IndyCar", "abbreviation": "INDY", "hierarchy": 1 },
+  { "series": "nascar-cup", "fullName": "Cup Series", "abbreviation": "CUP", "hierarchy": 1 }
 ]

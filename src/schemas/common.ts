@@ -63,6 +63,7 @@ export const ISO_3166_ALPHA2 = [
   'HR',
   'IL',
   'IS',
+  'KY',
   'LK',
   'LT',
   'LV',

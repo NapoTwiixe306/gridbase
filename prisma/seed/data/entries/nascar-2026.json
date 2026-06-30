@@ -1,0 +1,506 @@
+[
+  {
+    "team": "hendrick-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "5",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "kyle-larson",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hendrick-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "9",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "chase-elliott",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hendrick-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "24",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "william-byron",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hendrick-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "48",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "alex-bowman",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "haas-factory-team",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "41",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "cole-custer",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "hyak-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "47",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "ricky-stenhouse-jr",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "kaulig-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "10",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "ty-dillon",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "kaulig-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "16",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "a-j-allmendinger",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "richard-childress-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "3",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "austin-dillon",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "richard-childress-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "8",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "kyle-busch",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rick-ware-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "51",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "cody-ware",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "spire-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "7",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "daniel-suarez",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "spire-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "71",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "michael-mcdowell",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "spire-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "77",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "carson-hocevar",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "trackhouse-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "1",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "ross-chastain",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "trackhouse-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "88",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "connor-zilisch",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "trackhouse-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "97",
+    "manufacturer": "Chevrolet",
+    "drivers": [
+      {
+        "driver": "shane-van-gisbergen",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "front-row-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "4",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "noah-gragson",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "front-row-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "34",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "todd-gilliland",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "front-row-motorsports",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "38",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "zane-smith",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rfk-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "6",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "brad-keselowski",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rfk-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "17",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "chris-buescher",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rfk-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "60",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "ryan-preece",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "team-penske",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "2",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "austin-cindric",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "team-penske",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "12",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "ryan-blaney",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "team-penske",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "22",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "joey-logano",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "wood-brothers-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "21",
+    "manufacturer": "Ford",
+    "drivers": [
+      {
+        "driver": "josh-berry",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "23xi-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "23",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "bubba-wallace",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "23xi-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "35",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "riley-herbst",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "23xi-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "45",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "tyler-reddick",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "joe-gibbs-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "11",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "denny-hamlin",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "joe-gibbs-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "19",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "chase-briscoe",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "joe-gibbs-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "20",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "christopher-bell",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "joe-gibbs-racing",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "54",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "ty-gibbs",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "legacy-motor-club",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "42",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "john-hunter-nemechek",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "legacy-motor-club",
+    "series": "nascar-cup",
+    "season": 2026,
+    "category": "CUP",
+    "carNumber": "43",
+    "manufacturer": "Toyota",
+    "drivers": [
+      {
+        "driver": "erik-jones",
+        "isPrimary": true
+      }
+    ]
+  }
+]

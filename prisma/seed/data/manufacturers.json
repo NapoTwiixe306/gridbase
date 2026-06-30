@@ -16,5 +16,6 @@
   { "name": "Peugeot", "type": "BOTH", "country": "FR" },
   { "name": "Chevrolet", "type": "CHASSIS_CONSTRUCTOR", "country": "US" },
   { "name": "Ford", "type": "CHASSIS_CONSTRUCTOR", "country": "US" },
-  { "name": "Lexus", "type": "CHASSIS_CONSTRUCTOR", "country": "JP" }
+  { "name": "Lexus", "type": "CHASSIS_CONSTRUCTOR", "country": "JP" },
+  { "name": "Honda", "type": "ENGINE_SUPPLIER", "country": "JP" }
 ]

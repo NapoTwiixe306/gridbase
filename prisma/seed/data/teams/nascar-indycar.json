@@ -1,0 +1,146 @@
+[
+  {
+    "fullName": "Hendrick Motorsports",
+    "shortName": "Hendrick",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Haas Factory Team",
+    "shortName": "Haas",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Hyak Motorsports",
+    "shortName": "Hyak",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Kaulig Racing",
+    "shortName": "Kaulig",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Richard Childress Racing",
+    "shortName": "RCR",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Rick Ware Racing",
+    "shortName": "Rick Ware",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Spire Motorsports",
+    "shortName": "Spire",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Trackhouse Racing",
+    "shortName": "Trackhouse",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Front Row Motorsports",
+    "shortName": "Front Row",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "RFK Racing",
+    "shortName": "RFK",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Team Penske",
+    "shortName": "Penske",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Wood Brothers Racing",
+    "shortName": "Wood Brothers",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "23XI Racing",
+    "shortName": "23XI",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Joe Gibbs Racing",
+    "shortName": "Joe Gibbs",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Legacy Motor Club",
+    "shortName": "Legacy",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "A. J. Foyt Enterprises",
+    "shortName": "Foyt",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Andretti Global",
+    "shortName": "Andretti",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Arrow McLaren",
+    "shortName": "Arrow McLaren",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Chip Ganassi Racing",
+    "shortName": "Ganassi",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Dale Coyne Racing",
+    "shortName": "Dale Coyne",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "ECR",
+    "shortName": "ECR",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Juncos Hollinger Racing",
+    "shortName": "Juncos Hollinger",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Meyer Shank Racing",
+    "shortName": "Meyer Shank",
+    "country": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "fullName": "Rahal Letterman Lanigan Racing",
+    "shortName": "RLL",
+    "country": "US",
+    "status": "ACTIVE"
+  }
+]

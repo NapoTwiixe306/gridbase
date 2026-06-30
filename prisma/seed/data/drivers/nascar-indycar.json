@@ -1,0 +1,368 @@
+[
+  {
+    "firstName": "Kyle",
+    "lastName": "Larson",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Chase",
+    "lastName": "Elliott",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "William",
+    "lastName": "Byron",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Alex",
+    "lastName": "Bowman",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Cole",
+    "lastName": "Custer",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Ricky",
+    "lastName": "Stenhouse Jr.",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Ty",
+    "lastName": "Dillon",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "A.",
+    "lastName": "J. Allmendinger",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Dillon",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Busch",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Cody",
+    "lastName": "Ware",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Daniel",
+    "lastName": "Suárez",
+    "nationality": "MX",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Michael",
+    "lastName": "McDowell",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Carson",
+    "lastName": "Hocevar",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Ross",
+    "lastName": "Chastain",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Connor",
+    "lastName": "Zilisch",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Shane",
+    "lastName": "van Gisbergen",
+    "nationality": "NZ",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Noah",
+    "lastName": "Gragson",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Todd",
+    "lastName": "Gilliland",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Zane",
+    "lastName": "Smith",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Brad",
+    "lastName": "Keselowski",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Chris",
+    "lastName": "Buescher",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Preece",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Austin",
+    "lastName": "Cindric",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Ryan",
+    "lastName": "Blaney",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Joey",
+    "lastName": "Logano",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Josh",
+    "lastName": "Berry",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Bubba",
+    "lastName": "Wallace",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Riley",
+    "lastName": "Herbst",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Tyler",
+    "lastName": "Reddick",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Denny",
+    "lastName": "Hamlin",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Chase",
+    "lastName": "Briscoe",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Christopher",
+    "lastName": "Bell",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Ty",
+    "lastName": "Gibbs",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "John",
+    "lastName": "Hunter Nemechek",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Erik",
+    "lastName": "Jones",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Caio",
+    "lastName": "Collet",
+    "nationality": "BR",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Santino",
+    "lastName": "Ferrucci",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Will",
+    "lastName": "Power",
+    "nationality": "AU",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Kyle",
+    "lastName": "Kirkwood",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Ericsson",
+    "nationality": "SE",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Pato",
+    "lastName": "O’Ward",
+    "nationality": "MX",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Nolan",
+    "lastName": "Siegel",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Lundgaard",
+    "nationality": "DK",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Kyffin",
+    "lastName": "Simpson",
+    "nationality": "KY",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "Dixon",
+    "nationality": "NZ",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Álex",
+    "lastName": "Palou",
+    "nationality": "ES",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Romain",
+    "lastName": "Grosjean",
+    "nationality": "FR",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Dennis",
+    "lastName": "Hauger",
+    "nationality": "NO",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Alexander",
+    "lastName": "Rossi",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Christian",
+    "lastName": "Rasmussen",
+    "nationality": "DK",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Rinus",
+    "lastName": "VeeKay",
+    "nationality": "NL",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Sting",
+    "lastName": "Ray Robb",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Felix",
+    "lastName": "Rosenqvist",
+    "nationality": "SE",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Marcus",
+    "lastName": "Armstrong",
+    "nationality": "NZ",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Graham",
+    "lastName": "Rahal",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Louis",
+    "lastName": "Foster",
+    "nationality": "GB",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Mick",
+    "lastName": "Schumacher",
+    "nationality": "DE",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Josef",
+    "lastName": "Newgarden",
+    "nationality": "US",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "Scott",
+    "lastName": "McLaughlin",
+    "nationality": "NZ",
+    "status": "ACTIVE"
+  },
+  {
+    "firstName": "David",
+    "lastName": "Malukas",
+    "nationality": "US",
+    "status": "ACTIVE"
+  }
+]

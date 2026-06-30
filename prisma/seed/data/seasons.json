@@ -15,5 +15,9 @@
   { "series": "dtm", "year": 2025, "status": "FINISHED" },
   { "series": "dtm", "year": 2026, "status": "ONGOING" },
   { "series": "imsa", "year": 2025, "status": "FINISHED" },
-  { "series": "imsa", "year": 2026, "status": "ONGOING" }
+  { "series": "imsa", "year": 2026, "status": "ONGOING" },
+  { "series": "indycar", "year": 2025, "status": "FINISHED" },
+  { "series": "indycar", "year": 2026, "status": "ONGOING" },
+  { "series": "nascar-cup", "year": 2025, "status": "FINISHED" },
+  { "series": "nascar-cup", "year": 2026, "status": "ONGOING" }
 ]

@@ -1,0 +1,377 @@
+[
+  {
+    "team": "a-j-foyt-enterprises",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "4",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "caio-collet",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "a-j-foyt-enterprises",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "14",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "santino-ferrucci",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "andretti-global",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "26",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "will-power",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "andretti-global",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "27",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "kyle-kirkwood",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "andretti-global",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "28",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "marcus-ericsson",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "arrow-mclaren",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "5",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "pato-o-ward",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "arrow-mclaren",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "6",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "nolan-siegel",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "arrow-mclaren",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "7",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "christian-lundgaard",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "chip-ganassi-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "8",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "kyffin-simpson",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "chip-ganassi-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "9",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "scott-dixon",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "chip-ganassi-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "10",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "alex-palou",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dale-coyne-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "18",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "romain-grosjean",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "dale-coyne-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "19",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "dennis-hauger",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "ecr",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "20",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "alexander-rossi",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "ecr",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "21",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "christian-rasmussen",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "juncos-hollinger-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "76",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "rinus-veekay",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "juncos-hollinger-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "77",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "sting-ray-robb",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "meyer-shank-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "60",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "felix-rosenqvist",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "meyer-shank-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "66",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "marcus-armstrong",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rahal-letterman-lanigan-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "15",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "graham-rahal",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rahal-letterman-lanigan-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "45",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "louis-foster",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "rahal-letterman-lanigan-racing",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "47",
+    "manufacturer": "Honda",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "mick-schumacher",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "team-penske",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "2",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "josef-newgarden",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "team-penske",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "3",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "scott-mclaughlin",
+        "isPrimary": true
+      }
+    ]
+  },
+  {
+    "team": "team-penske",
+    "series": "indycar",
+    "season": 2026,
+    "category": "INDY",
+    "carNumber": "12",
+    "manufacturer": "Chevrolet",
+    "chassis": "Dallara IR-18",
+    "drivers": [
+      {
+        "driver": "david-malukas",
+        "isPrimary": true
+      }
+    ]
+  }
+]

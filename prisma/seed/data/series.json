@@ -75,5 +75,27 @@
     "country": "US",
     "dataSource": "COMMUNITY",
     "dataCoverage": "partial"
+  },
+  {
+    "slug": "indycar",
+    "fullName": "NTT IndyCar Series",
+    "shortName": "IndyCar",
+    "organiser": "IndyCar",
+    "category": "SINGLE_SEATER",
+    "website": "https://www.indycar.com",
+    "country": "US",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
+  },
+  {
+    "slug": "nascar-cup",
+    "fullName": "NASCAR Cup Series",
+    "shortName": "NASCAR",
+    "organiser": "NASCAR",
+    "category": "OTHER",
+    "website": "https://www.nascar.com",
+    "country": "US",
+    "dataSource": "COMMUNITY",
+    "dataCoverage": "partial"
   }
 ]
