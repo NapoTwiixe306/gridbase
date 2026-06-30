@@ -30,4 +30,9 @@ export async function driverRoutes(app: FastifyInstance): Promise<void> {
     const filter = driverEntriesQuerySchema.parse(request.query);
     return { data: await service.listEntries(id, filter) };
   });
+
+  app.get('/:id/titles', async (request) => {
+    const { id } = request.params as { id: string };
+    return { data: await service.listTitles(id) };
+  });
 }

@@ -192,6 +192,10 @@ Each driver includes a computed `current_entries` array (current-year entries).
 
 All entries for a driver across all seasons and series. Optional filters: `?series=wec&season=2026`.
 
+#### `GET /api/v1/drivers/:id/titles`
+
+The driver's **championship titles** (palmarès), most recent first. The full driver profile (`GET /api/v1/drivers/:id`) also embeds `titles` and `titles_count`.
+
 #### `GET /api/v1/drivers/search?q=`
 
 Free-text search (min 2 chars) over `firstName`, `lastName` and `nickname`.
@@ -314,6 +318,7 @@ There are two ways data gets in:
 | A **driver** | `prisma/seed/data/drivers/<any-name>.json` | `npm run db:seed` |
 | An **entry** (driver ↔ team for a season) | `prisma/seed/data/entries/<any-name>.json` | `npm run db:seed` |
 | A **transfer** | `prisma/seed/data/transfers/<any-name>.json` | `npm run db:seed` |
+| A **driver title** (palmarès) | `prisma/seed/data/titles/<any-name>.json` | `npm run db:seed` |
 | **All F1 drivers & teams** | _auto-generated files_ | `npm run ingest:single-seaters` then `npm run db:seed` |
 
 Every file is a **JSON array** of objects. You can name the files anything and nest folders freely (`teams/wec.json`, `drivers/f1/2026.json`) — every `.json` inside a folder is loaded.

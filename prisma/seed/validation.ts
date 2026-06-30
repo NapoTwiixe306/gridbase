@@ -129,6 +129,15 @@ export const entryDataSchema = z.object({
 });
 export type EntryData = z.infer<typeof entryDataSchema>;
 
+export const titleDataSchema = z.object({
+  driver: z.string().min(1), // driver slug
+  year: z.number().int().min(1900).max(2100),
+  series: z.string().min(1), // championship name
+  category: z.string().optional(),
+  sourceUrl: z.string().url().optional(),
+});
+export type TitleData = z.infer<typeof titleDataSchema>;
+
 export const circuitDataSchema = z.object({
   name: z.string().min(1).max(150),
   country: isoCountrySchema,

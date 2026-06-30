@@ -128,6 +128,7 @@ model Driver {
 
   entryDrivers  EntryDriver[]
   transfersFrom Transfer[]    @relation("TransferDriver")
+  titles        DriverTitle[]
 
   @@index([slug])
   @@index([lastName])
@@ -326,4 +327,20 @@ model Circuit {
   @@index([slug])
   @@index([country])
   @@index([name])
+}
+
+model DriverTitle {
+  id        String   @id @default(cuid())
+  driverId  String
+  year      Int
+  series    String // championship name, e.g. "FIA Formula One World Championship"
+  category  String? // class/sub-category if any
+  sourceUrl String?  @db.Text
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  driver Driver @relation(fields: [driverId], references: [id])
+
+  @@index([driverId])
+  @@index([year])
 }

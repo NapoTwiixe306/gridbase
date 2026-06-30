@@ -22,6 +22,7 @@ import {
   seasonDataSchema,
   seriesDataSchema,
   teamDataSchema,
+  titleDataSchema,
   transferDataSchema,
 } from '../prisma/seed/validation';
 
@@ -31,7 +32,16 @@ function fail(message: string): never {
 }
 
 // --- Phase 1: shape validation (precise location on first offender) ----------
-let series, seasons, categories, manufacturers, circuits, teams, drivers, entries, transfers;
+let series,
+  seasons,
+  categories,
+  manufacturers,
+  circuits,
+  teams,
+  drivers,
+  entries,
+  transfers,
+  titles;
 try {
   series = loadAndValidate(join(DATA_DIR, 'series.json'), seriesDataSchema);
   seasons = loadAndValidate(join(DATA_DIR, 'seasons.json'), seasonDataSchema);
@@ -42,6 +52,7 @@ try {
   drivers = loadAndValidate(join(DATA_DIR, 'drivers'), driverDataSchema);
   entries = loadAndValidate(join(DATA_DIR, 'entries'), entryDataSchema);
   transfers = loadAndValidate(join(DATA_DIR, 'transfers'), transferDataSchema);
+  titles = loadAndValidate(join(DATA_DIR, 'titles'), titleDataSchema);
 } catch (error) {
   fail((error as Error).message);
 }
@@ -107,6 +118,11 @@ for (const d of drivers) {
     err(`ACTIVE driver "${d.firstName} ${d.lastName}" (${slug}) has no entry`);
 }
 
+titles.forEach((t, i) => {
+  if (!driverSlugs.has(t.driver))
+    err(`title #${i} (${t.year} ${t.series}): unknown driver "${t.driver}"`);
+});
+
 transfers.forEach((t, i) => {
   if (!driverSlugs.has(t.driver)) err(`transfer #${i}: unknown driver "${t.driver}"`);
   if (t.fromTeam && !teamSlugs.has(t.fromTeam))
@@ -129,5 +145,5 @@ console.log(
   `   ${series.length} series · ${seasons.length} seasons · ${categories.length} categories · ${manufacturerNames.size} manufacturers · ${circuitSlugs.size} circuits`,
 );
 console.log(
-  `   ${teamSlugs.size} teams · ${driverSlugs.size} drivers · ${entries.length} entries · ${transfers.length} transfers`,
+  `   ${teamSlugs.size} teams · ${driverSlugs.size} drivers · ${entries.length} entries · ${transfers.length} transfers · ${titles.length} titles`,
 );

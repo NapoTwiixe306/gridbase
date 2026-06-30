@@ -191,6 +191,10 @@ Chaque pilote inclut un champ calculé `current_entries` (engagements de l'anné
 
 Tous les engagements d'un pilote, toutes saisons et championnats confondus. Filtres optionnels : `?series=wec&season=2026`.
 
+#### `GET /api/v1/drivers/:id/titles`
+
+Le **palmarès** du pilote (titres de champion), du plus récent au plus ancien. Le profil complet (`GET /api/v1/drivers/:id`) embarque aussi `titles` et `titles_count`.
+
 #### `GET /api/v1/drivers/search?q=`
 
 Recherche texte (2 caractères min) sur `firstName`, `lastName` et `nickname`.
@@ -313,6 +317,7 @@ Il y a deux façons d'alimenter la base :
 | Un **pilote** | `prisma/seed/data/drivers/<nom-libre>.json` | `npm run db:seed` |
 | Un **engagement** (pilote ↔ écurie pour une saison) | `prisma/seed/data/entries/<nom-libre>.json` | `npm run db:seed` |
 | Un **transfert** | `prisma/seed/data/transfers/<nom-libre>.json` | `npm run db:seed` |
+| Un **titre de pilote** (palmarès) | `prisma/seed/data/titles/<nom-libre>.json` | `npm run db:seed` |
 | **Tous les pilotes & écuries F1** | _fichiers auto-générés_ | `npm run ingest:single-seaters` puis `npm run db:seed` |
 
 Chaque fichier est un **tableau JSON** d'objets. Tu peux nommer les fichiers comme tu veux et imbriquer des dossiers librement (`teams/wec.json`, `drivers/f1/2026.json`) — chaque `.json` d'un dossier est chargé.

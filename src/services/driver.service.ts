@@ -67,6 +67,7 @@ export class DriverService {
           where: { entry: { season: { year: currentYear() } } },
           include: { entry: { include: entryInclude } },
         },
+        titles: { orderBy: [{ year: 'desc' }] },
       },
     });
 
@@ -84,7 +85,7 @@ export class DriverService {
 
     const primaryEntryDriver = entryDrivers.find((ed) => ed.role === 'TITULAR') ?? entryDrivers[0];
 
-    const { entryDrivers: _drivers, ...base } = driver;
+    const { entryDrivers: _drivers, titles, ...base } = driver;
 
     return {
       ...base,
@@ -93,7 +94,25 @@ export class DriverService {
       current_series: [...seriesMap.values()].map(toSeriesSummary),
       is_multi_series: seriesMap.size > 1,
       primary_team: primaryEntryDriver ? toTeamSummary(primaryEntryDriver.entry.team) : null,
+      titles: titles.map((t) => ({ year: t.year, series: t.series, category: t.category })),
+      titles_count: titles.length,
     };
+  }
+
+  /** A driver's championship titles (palmarès), most recent first. */
+  async listTitles(idOrSlug: string): Promise<unknown[]> {
+    const driver = await this.prisma.driver.findFirst({
+      where: looksLikeCuid(idOrSlug) ? { id: idOrSlug } : { slug: idOrSlug },
+      select: { id: true },
+    });
+    if (!driver) throw AppError.notFound('Driver not found');
+
+    const titles = await this.prisma.driverTitle.findMany({
+      where: { driverId: driver.id },
+      orderBy: [{ year: 'desc' }],
+      select: { year: true, series: true, category: true, sourceUrl: true },
+    });
+    return titles;
   }
 
   /** All entries for a driver across all seasons; optional series/season filter. */
