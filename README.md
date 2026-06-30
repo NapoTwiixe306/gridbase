@@ -244,6 +244,16 @@ Global totals. `drivers` is the count of **unique** drivers across all series an
 { "data": { "drivers": 34, "teams": 18, "series": 7, "categories": 13, "entries": 69, "transfers": 1 } }
 ```
 
+### Circuits
+
+#### `GET /api/v1/circuits`
+
+All circuits, **alphabetical**, paginated. Filters: `country` (ISO alpha-2), `type` (`PERMANENT` / `STREET` / `OVAL` / `ROAD`).
+
+#### `GET /api/v1/circuits/:id`
+
+`:id` accepts a cuid or a slug, e.g. `circuit-de-spa-francorchamps`.
+
 ### Manufacturers
 
 #### `GET /api/v1/manufacturers`
@@ -299,6 +309,7 @@ There are two ways data gets in:
 | A **season** (one year of a series) | `prisma/seed/data/seasons.json` | `npm run db:seed` |
 | A **class / category** | `prisma/seed/data/categories.json` | `npm run db:seed` |
 | A **manufacturer** | `prisma/seed/data/manufacturers.json` | `npm run db:seed` |
+| A **circuit** | `prisma/seed/data/circuits.json` | `npm run db:seed` |
 | A **team** | `prisma/seed/data/teams/<any-name>.json` | `npm run db:seed` |
 | A **driver** | `prisma/seed/data/drivers/<any-name>.json` | `npm run db:seed` |
 | An **entry** (driver ↔ team for a season) | `prisma/seed/data/entries/<any-name>.json` | `npm run db:seed` |

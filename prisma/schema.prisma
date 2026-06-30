@@ -31,6 +31,13 @@ enum ManufacturerType {
   BOTH
 }
 
+enum CircuitType {
+  PERMANENT
+  STREET
+  OVAL
+  ROAD
+}
+
 enum SeriesCategory {
   SINGLE_SEATER
   ENDURANCE
@@ -300,4 +307,23 @@ model Transfer {
 
   @@index([driverId])
   @@index([status])
+}
+
+model Circuit {
+  id         String      @id @default(cuid())
+  name       String
+  slug       String      @unique
+  country    String // ISO 3166-1 alpha-2
+  city       String?
+  type       CircuitType @default(PERMANENT)
+  lengthKm   Float?
+  turns      Int?
+  openedYear Int?
+  website    String?
+  createdAt  DateTime    @default(now())
+  updatedAt  DateTime    @updatedAt
+
+  @@index([slug])
+  @@index([country])
+  @@index([name])
 }

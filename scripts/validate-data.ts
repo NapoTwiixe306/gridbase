@@ -15,6 +15,7 @@ import { join } from 'node:path';
 import { DATA_DIR, loadAndValidate, slugify } from '../prisma/seed/helpers';
 import {
   categoryDataSchema,
+  circuitDataSchema,
   driverDataSchema,
   entryDataSchema,
   manufacturerDataSchema,
@@ -30,12 +31,13 @@ function fail(message: string): never {
 }
 
 // --- Phase 1: shape validation (precise location on first offender) ----------
-let series, seasons, categories, manufacturers, teams, drivers, entries, transfers;
+let series, seasons, categories, manufacturers, circuits, teams, drivers, entries, transfers;
 try {
   series = loadAndValidate(join(DATA_DIR, 'series.json'), seriesDataSchema);
   seasons = loadAndValidate(join(DATA_DIR, 'seasons.json'), seasonDataSchema);
   categories = loadAndValidate(join(DATA_DIR, 'categories.json'), categoryDataSchema);
   manufacturers = loadAndValidate(join(DATA_DIR, 'manufacturers.json'), manufacturerDataSchema);
+  circuits = loadAndValidate(join(DATA_DIR, 'circuits.json'), circuitDataSchema);
   teams = loadAndValidate(join(DATA_DIR, 'teams'), teamDataSchema);
   drivers = loadAndValidate(join(DATA_DIR, 'drivers'), driverDataSchema);
   entries = loadAndValidate(join(DATA_DIR, 'entries'), entryDataSchema);
@@ -54,6 +56,14 @@ const categoryKeys = new Set(categories.map((c) => `${c.series}:${c.abbreviation
 const manufacturerNames = new Set(manufacturers.map((m) => m.name));
 const teamSlugs = new Set(teams.map((t) => slugify(t.fullName)));
 const driverSlugs = new Set(drivers.map((d) => slugify(d.firstName, d.lastName)));
+
+// circuits: unique name/slug
+const circuitSlugs = new Set<string>();
+for (const c of circuits) {
+  const slug = slugify(c.name);
+  if (circuitSlugs.has(slug)) err(`duplicate circuit "${c.name}" (slug ${slug})`);
+  circuitSlugs.add(slug);
+}
 
 // referenced data must exist in the reference files
 for (const s of seasons) {
@@ -116,7 +126,7 @@ if (errors.length > 0) {
 
 console.log('✅ Data valid:');
 console.log(
-  `   ${series.length} series · ${seasons.length} seasons · ${categories.length} categories · ${manufacturerNames.size} manufacturers`,
+  `   ${series.length} series · ${seasons.length} seasons · ${categories.length} categories · ${manufacturerNames.size} manufacturers · ${circuitSlugs.size} circuits`,
 );
 console.log(
   `   ${teamSlugs.size} teams · ${driverSlugs.size} drivers · ${entries.length} entries · ${transfers.length} transfers`,

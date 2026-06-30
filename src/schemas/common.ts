@@ -54,9 +54,10 @@ export const ISO_3166_ALPHA2 = [
   'UA',
   'US',
   'ZA',
-  // additional motorsport nationalities
+  // additional motorsport nationalities + circuit countries
   'AO',
   'BG',
+  'BH',
   'CR',
   'HR',
   'IL',

@@ -243,6 +243,16 @@ Totaux globaux. `drivers` est le nombre de pilotes **uniques**, toutes séries e
 { "data": { "drivers": 34, "teams": 18, "series": 7, "categories": 13, "entries": 69, "transfers": 1 } }
 ```
 
+### Circuits
+
+#### `GET /api/v1/circuits`
+
+Tous les circuits, **par ordre alphabétique**, paginé. Filtres : `country` (ISO alpha-2), `type` (`PERMANENT` / `STREET` / `OVAL` / `ROAD`).
+
+#### `GET /api/v1/circuits/:id`
+
+`:id` accepte un cuid ou un slug, ex. `circuit-de-spa-francorchamps`.
+
 ### Constructeurs
 
 #### `GET /api/v1/manufacturers`
@@ -298,6 +308,7 @@ Il y a deux façons d'alimenter la base :
 | Une **saison** (une année d'une série) | `prisma/seed/data/seasons.json` | `npm run db:seed` |
 | Une **classe / catégorie** | `prisma/seed/data/categories.json` | `npm run db:seed` |
 | Un **constructeur** | `prisma/seed/data/manufacturers.json` | `npm run db:seed` |
+| Un **circuit** | `prisma/seed/data/circuits.json` | `npm run db:seed` |
 | Une **écurie** | `prisma/seed/data/teams/<nom-libre>.json` | `npm run db:seed` |
 | Un **pilote** | `prisma/seed/data/drivers/<nom-libre>.json` | `npm run db:seed` |
 | Un **engagement** (pilote ↔ écurie pour une saison) | `prisma/seed/data/entries/<nom-libre>.json` | `npm run db:seed` |

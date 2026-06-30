@@ -2,6 +2,7 @@ import { PrismaClient } from '@prisma/client';
 import { createContext, SeedContext } from './context';
 import {
   seedCategories,
+  seedCircuits,
   seedManufacturers,
   seedSeasons,
   seedSeries,
@@ -28,6 +29,7 @@ export async function runSeed(prisma: PrismaClient): Promise<void> {
   const seasons = await seedSeasons(ctx);
   const categories = await seedCategories(ctx);
   const manufacturers = await seedManufacturers(ctx);
+  const circuits = await seedCircuits(ctx);
   const teams = await seedTeams(ctx);
   const drivers = await seedDrivers(ctx);
   const { entries, entryDrivers } = await seedEntries(ctx);
@@ -40,6 +42,7 @@ export async function runSeed(prisma: PrismaClient): Promise<void> {
   console.log(`  - ${seasons} seasons`);
   console.log(`  - ${categories} categories`);
   console.log(`  - ${manufacturers} manufacturers`);
+  console.log(`  - ${circuits} circuits`);
   console.log(`  - ${teams} teams`);
   console.log(`  - ${drivers} drivers`);
   console.log(`  - ${entries} entries (${entryDrivers} driver assignments)`);

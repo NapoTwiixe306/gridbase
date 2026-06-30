@@ -129,6 +129,18 @@ export const entryDataSchema = z.object({
 });
 export type EntryData = z.infer<typeof entryDataSchema>;
 
+export const circuitDataSchema = z.object({
+  name: z.string().min(1).max(150),
+  country: isoCountrySchema,
+  city: z.string().optional(),
+  type: z.enum(['PERMANENT', 'STREET', 'OVAL', 'ROAD']).default('PERMANENT'),
+  lengthKm: z.number().positive().optional(),
+  turns: z.number().int().positive().optional(),
+  openedYear: z.number().int().min(1800).max(2100).optional(),
+  website: z.string().url().optional(),
+});
+export type CircuitData = z.infer<typeof circuitDataSchema>;
+
 export const transferDataSchema = z.object({
   driver: z.string().min(1),
   fromTeam: z.string().optional(),
