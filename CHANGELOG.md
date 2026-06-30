@@ -10,6 +10,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 - Driver palmarès beyond championship titles (major race wins).
 - Public hosted instance.
 
+## [0.1.2] - 2026-06-30
+
+### Added
+- **NASCAR Cup Series** and **NTT IndyCar Series** 2026 grids — 9 series total.
+  IndyCar (25 cars, Honda/Chevrolet) and NASCAR Cup (36 cars). Multi-series
+  drivers link up automatically (e.g. Álex Palou: IMSA + IndyCar).
+- **Dated race calendars**: the `Round` model now carries real race dates.
+  - **F1 auto-updates** from Jolpica (`npm run ingest:f1-calendar`); a weekly
+    GitHub Action (`refresh-f1-calendar.yml`) refreshes and commits them.
+  - **WEC** and **IMSA** 2026 dates added by hand (official schedules).
+- **`GET /api/v1/calendar/upcoming`** — next races across all series, dated.
+- `+Honda` manufacturer; `+KY` (Cayman Islands) nationality.
+
+### Totals
+9 series · 16 categories · 180 circuits · 82 dated rounds · 485 drivers ·
+149 teams · 338 entries · 46 titles.
+
 ## [0.1.1] - 2026-06-30
 
 Big data + features release: every category is now populated, plus circuits,
@@ -69,6 +86,7 @@ First public release.
 - GTWC Europe, DTM, F2 and F3 — series, seasons and categories exist, but
   entries are pending. Contributions welcome (see `CONTRIBUTING.md`).
 
-[Unreleased]: https://github.com/NapoTwiixe306/gridbase/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/NapoTwiixe306/gridbase/compare/v0.1.2...HEAD
+[0.1.2]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.2
 [0.1.1]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.1
 [0.1.0]: https://github.com/NapoTwiixe306/gridbase/releases/tag/v0.1.0
