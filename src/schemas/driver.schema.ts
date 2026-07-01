@@ -50,6 +50,8 @@ export const driverInputSchema = z
 export type DriverInput = z.infer<typeof driverInputSchema>;
 
 export const driverListQuerySchema = paginationSchema.extend({
+  // Free-text search over name (first/last/nickname) and racing number.
+  q: z.string().trim().min(1).optional(),
   series: z.string().min(1).optional(),
   nationality: isoCountrySchema.optional(),
   status: driverStatusSchema.optional(),

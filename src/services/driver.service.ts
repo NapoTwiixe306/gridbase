@@ -19,7 +19,7 @@ export class DriverService {
   constructor(private readonly prisma: PrismaClient) {}
 
   async list(query: DriverListQuery): Promise<PaginatedResult<unknown>> {
-    const { page, limit, series, nationality, status } = query;
+    const { page, limit, q, series, nationality, status } = query;
 
     const where: Prisma.DriverWhereInput = {};
     if (nationality) where.nationality = nationality;
@@ -29,6 +29,7 @@ export class DriverService {
         some: { entry: { series: { slug: series } } },
       };
     }
+    if (q) where.OR = nameOrNumberFilter(q);
 
     const [drivers, total] = await Promise.all([
       this.prisma.driver.findMany({
@@ -138,20 +139,48 @@ export class DriverService {
     return entries.map(toEntrySummary);
   }
 
+  /** Typeahead search: fast, capped, with avatar + current team for suggestions. */
   async search(q: string): Promise<unknown[]> {
     const drivers = await this.prisma.driver.findMany({
-      where: {
-        OR: [
-          { firstName: { contains: q } },
-          { lastName: { contains: q } },
-          { nickname: { contains: q } },
-        ],
-      },
-      orderBy: [{ lastName: 'asc' }],
+      where: { OR: nameOrNumberFilter(q) },
+      orderBy: [{ lastName: 'asc' }, { firstName: 'asc' }],
       take: 25,
+      select: {
+        id: true,
+        firstName: true,
+        lastName: true,
+        slug: true,
+        nationality: true,
+        racingNumber: true,
+        status: true,
+        photoUrl: true,
+        entryDrivers: {
+          where: { entry: { season: { year: currentYear() } } },
+          take: 1,
+          select: { entry: { select: { team: true } } },
+        },
+      },
     });
-    return drivers;
+
+    return drivers.map(({ entryDrivers, ...base }) => ({
+      ...base,
+      current_team: entryDrivers[0] ? toTeamSummary(entryDrivers[0].entry.team) : null,
+    }));
   }
+}
+
+/** Match a query against driver name (first/last/nickname) and, if numeric, racing number. */
+function nameOrNumberFilter(q: string): Prisma.DriverWhereInput[] {
+  const conditions: Prisma.DriverWhereInput[] = [
+    { firstName: { contains: q } },
+    { lastName: { contains: q } },
+    { nickname: { contains: q } },
+  ];
+  const asNumber = Number(q);
+  if (Number.isInteger(asNumber) && q.trim() !== '') {
+    conditions.push({ racingNumber: asNumber });
+  }
+  return conditions;
 }
 
 export function toEntrySummary(entry: EntryWithRelations) {

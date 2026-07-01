@@ -152,8 +152,8 @@ All endpoints are `GET` (the API is read-only for now). Base URL: `http://localh
 | --- | --- | --- |
 | `/health` | `http://localhost:4000/health` | Health check |
 | `/api/v1/stats` | `http://localhost:4000/api/v1/stats` | Global totals |
-| `/api/v1/drivers` | `http://localhost:4000/api/v1/drivers?series=f1` | List drivers — `?series=&nationality=&status=&page=&limit=` |
-| `/api/v1/drivers/search` | `http://localhost:4000/api/v1/drivers/search?q=verstappen` | Search drivers (min 2 chars) |
+| `/api/v1/drivers` | `http://localhost:4000/api/v1/drivers?q=verstappen` | List/search drivers — `?q=` (name or racing number) `&series=&nationality=&status=&page=&limit=` |
+| `/api/v1/drivers/search` | `http://localhost:4000/api/v1/drivers/search?q=verstappen` | Typeahead (name/number, min 2 chars) — returns photo + current team |
 | `/api/v1/drivers/:id` | `http://localhost:4000/api/v1/drivers/max-verstappen` | Driver profile (+ `titles`) |
 | `/api/v1/drivers/:id/entries` | `http://localhost:4000/api/v1/drivers/jules-gounon/entries` | Driver entries — `?series=&season=` |
 | `/api/v1/drivers/:id/titles` | `http://localhost:4000/api/v1/drivers/lewis-hamilton/titles` | Driver palmarès |

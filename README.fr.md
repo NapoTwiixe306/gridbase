@@ -152,8 +152,8 @@ Toutes les routes sont en `GET` (l'API est en lecture seule pour l'instant). URL
 | --- | --- | --- |
 | `/health` | `http://localhost:4000/health` | Vérification de santé |
 | `/api/v1/stats` | `http://localhost:4000/api/v1/stats` | Totaux globaux |
-| `/api/v1/drivers` | `http://localhost:4000/api/v1/drivers?series=f1` | Liste pilotes — `?series=&nationality=&status=&page=&limit=` |
-| `/api/v1/drivers/search` | `http://localhost:4000/api/v1/drivers/search?q=verstappen` | Recherche pilotes (2 car. min) |
+| `/api/v1/drivers` | `http://localhost:4000/api/v1/drivers?q=verstappen` | Liste/recherche pilotes — `?q=` (nom ou numéro) `&series=&nationality=&status=&page=&limit=` |
+| `/api/v1/drivers/search` | `http://localhost:4000/api/v1/drivers/search?q=verstappen` | Typeahead (nom/numéro, 2 car. min) — renvoie photo + écurie actuelle |
 | `/api/v1/drivers/:id` | `http://localhost:4000/api/v1/drivers/max-verstappen` | Profil pilote (+ `titles`) |
 | `/api/v1/drivers/:id/entries` | `http://localhost:4000/api/v1/drivers/jules-gounon/entries` | Engagements du pilote — `?series=&season=` |
 | `/api/v1/drivers/:id/titles` | `http://localhost:4000/api/v1/drivers/lewis-hamilton/titles` | Palmarès du pilote |
