@@ -70,7 +70,7 @@ The default `.env` points at the Docker database on host port **3307** (3306 is 
 
 ```
 DATABASE_URL="mysql://gridbase-api:gridbase_dev@127.0.0.1:3307/gridbase-api"
-PORT=3000
+PORT=4000
 ```
 
 ### 3. Start the database
@@ -97,7 +97,7 @@ npm run dev            # ts-node-dev with hot reload
 Verify:
 
 ```bash
-curl http://localhost:3000/health
+curl http://localhost:4000/health
 # { "status": "ok", "timestamp": "...", "version": "0.1.0" }
 ```
 
@@ -118,7 +118,7 @@ curl http://localhost:3000/health
 
 ## API overview
 
-- **Base URL:** `http://localhost:3000`
+- **Base URL:** `http://localhost:4000`
 - **Versioning:** all data routes live under `/api/v1`
 - **Response format:** successful responses are JSON. Single resources and computed lists are wrapped as `{ "data": ... }`. Paginated collections return `{ "data": [...], "meta": {...} }`.
 - **Pagination:** `?page` (default `1`) and `?limit` (default `20`, max `100`).
@@ -144,38 +144,38 @@ Codes: `NOT_FOUND` (404), `VALIDATION_ERROR` (422), `RATE_LIMITED` (429), `INTER
 
 ## API reference
 
-All endpoints are `GET` (the API is read-only for now). Base URL: `http://localhost:3000`.
+All endpoints are `GET` (the API is read-only for now). Base URL: `http://localhost:4000`.
 
 ### All endpoints (localhost)
 
 | Route | Live example (copy-paste) | Description |
 | --- | --- | --- |
-| `/health` | `http://localhost:3000/health` | Health check |
-| `/api/v1/stats` | `http://localhost:3000/api/v1/stats` | Global totals |
-| `/api/v1/drivers` | `http://localhost:3000/api/v1/drivers?series=f1` | List drivers — `?series=&nationality=&status=&page=&limit=` |
-| `/api/v1/drivers/search` | `http://localhost:3000/api/v1/drivers/search?q=verstappen` | Search drivers (min 2 chars) |
-| `/api/v1/drivers/:id` | `http://localhost:3000/api/v1/drivers/max-verstappen` | Driver profile (+ `titles`) |
-| `/api/v1/drivers/:id/entries` | `http://localhost:3000/api/v1/drivers/jules-gounon/entries` | Driver entries — `?series=&season=` |
-| `/api/v1/drivers/:id/titles` | `http://localhost:3000/api/v1/drivers/lewis-hamilton/titles` | Driver palmarès |
-| `/api/v1/teams` | `http://localhost:3000/api/v1/teams?series=wec` | List teams — `?series=&country=&status=` |
-| `/api/v1/teams/:id` | `http://localhost:3000/api/v1/teams/scuderia-ferrari` | Team profile |
-| `/api/v1/teams/:id/drivers` | `http://localhost:3000/api/v1/teams/alpine-endurance-team/drivers` | Team current drivers |
-| `/api/v1/teams/:id/transfers` | `http://localhost:3000/api/v1/teams/genesis-magma-racing/transfers` | Team transfers — `?season=` |
-| `/api/v1/series` | `http://localhost:3000/api/v1/series` | List series |
-| `/api/v1/series/:slug` | `http://localhost:3000/api/v1/series/wec` | Series detail |
-| `/api/v1/series/:slug/calendar` | `http://localhost:3000/api/v1/series/f1/calendar?season=2026` | Series calendar (rounds + circuit) |
-| `/api/v1/series/:slug/circuits` | `http://localhost:3000/api/v1/series/imsa/circuits?season=2026` | Circuits a series races at |
-| `/api/v1/calendar/upcoming` | `http://localhost:3000/api/v1/calendar/upcoming?limit=10` | **Next races** across all series (dated) — `?series=&limit=` |
-| `/api/v1/seasons` | `http://localhost:3000/api/v1/seasons?series=f1` | List seasons — `?series=&year=` |
-| `/api/v1/seasons/:id` | `http://localhost:3000/api/v1/seasons/<cuid>` | Season detail |
-| `/api/v1/categories` | `http://localhost:3000/api/v1/categories?series=imsa` | List categories — `?series=` |
-| `/api/v1/circuits` | `http://localhost:3000/api/v1/circuits?country=GB` | List circuits — `?country=&type=` |
-| `/api/v1/circuits/:id` | `http://localhost:3000/api/v1/circuits/circuit-de-spa-francorchamps` | Circuit detail |
-| `/api/v1/manufacturers` | `http://localhost:3000/api/v1/manufacturers` | List manufacturers |
-| `/api/v1/entries` | `http://localhost:3000/api/v1/entries?series=wec&season=2026` | List entries — `?series=&season=&team=&driver=&category=` |
-| `/api/v1/transfers` | `http://localhost:3000/api/v1/transfers?status=OFFICIAL` | List transfers — `?series=&season=&status=&team=&driver=` |
-| `/api/v1/transfers/latest` | `http://localhost:3000/api/v1/transfers/latest` | 20 most recent transfers |
-| `/api/v1/search` | `http://localhost:3000/api/v1/search?q=ferrari` | Combined search (drivers, teams, series) |
+| `/health` | `http://localhost:4000/health` | Health check |
+| `/api/v1/stats` | `http://localhost:4000/api/v1/stats` | Global totals |
+| `/api/v1/drivers` | `http://localhost:4000/api/v1/drivers?series=f1` | List drivers — `?series=&nationality=&status=&page=&limit=` |
+| `/api/v1/drivers/search` | `http://localhost:4000/api/v1/drivers/search?q=verstappen` | Search drivers (min 2 chars) |
+| `/api/v1/drivers/:id` | `http://localhost:4000/api/v1/drivers/max-verstappen` | Driver profile (+ `titles`) |
+| `/api/v1/drivers/:id/entries` | `http://localhost:4000/api/v1/drivers/jules-gounon/entries` | Driver entries — `?series=&season=` |
+| `/api/v1/drivers/:id/titles` | `http://localhost:4000/api/v1/drivers/lewis-hamilton/titles` | Driver palmarès |
+| `/api/v1/teams` | `http://localhost:4000/api/v1/teams?series=wec` | List teams — `?series=&country=&status=` |
+| `/api/v1/teams/:id` | `http://localhost:4000/api/v1/teams/scuderia-ferrari` | Team profile |
+| `/api/v1/teams/:id/drivers` | `http://localhost:4000/api/v1/teams/alpine-endurance-team/drivers` | Team current drivers |
+| `/api/v1/teams/:id/transfers` | `http://localhost:4000/api/v1/teams/genesis-magma-racing/transfers` | Team transfers — `?season=` |
+| `/api/v1/series` | `http://localhost:4000/api/v1/series` | List series |
+| `/api/v1/series/:slug` | `http://localhost:4000/api/v1/series/wec` | Series detail |
+| `/api/v1/series/:slug/calendar` | `http://localhost:4000/api/v1/series/f1/calendar?season=2026` | Series calendar (rounds + circuit) |
+| `/api/v1/series/:slug/circuits` | `http://localhost:4000/api/v1/series/imsa/circuits?season=2026` | Circuits a series races at |
+| `/api/v1/calendar/upcoming` | `http://localhost:4000/api/v1/calendar/upcoming?limit=10` | **Next races** across all series (dated) — `?series=&limit=` |
+| `/api/v1/seasons` | `http://localhost:4000/api/v1/seasons?series=f1` | List seasons — `?series=&year=` |
+| `/api/v1/seasons/:id` | `http://localhost:4000/api/v1/seasons/<cuid>` | Season detail |
+| `/api/v1/categories` | `http://localhost:4000/api/v1/categories?series=imsa` | List categories — `?series=` |
+| `/api/v1/circuits` | `http://localhost:4000/api/v1/circuits?country=GB` | List circuits — `?country=&type=` |
+| `/api/v1/circuits/:id` | `http://localhost:4000/api/v1/circuits/circuit-de-spa-francorchamps` | Circuit detail |
+| `/api/v1/manufacturers` | `http://localhost:4000/api/v1/manufacturers` | List manufacturers |
+| `/api/v1/entries` | `http://localhost:4000/api/v1/entries?series=wec&season=2026` | List entries — `?series=&season=&team=&driver=&category=` |
+| `/api/v1/transfers` | `http://localhost:4000/api/v1/transfers?status=OFFICIAL` | List transfers — `?series=&season=&status=&team=&driver=` |
+| `/api/v1/transfers/latest` | `http://localhost:4000/api/v1/transfers/latest` | 20 most recent transfers |
+| `/api/v1/search` | `http://localhost:4000/api/v1/search?q=ferrari` | Combined search (drivers, teams, series) |
 
 > `:id` accepts a **cuid or a slug** (e.g. `max-verstappen`, `circuit-de-spa-francorchamps`); `:slug` is the series slug (e.g. `wec`).
 
@@ -306,7 +306,7 @@ Paginated list of manufacturers.
 Paginated. Filters: `series`, `season`, `team`, `driver`, `category` (abbreviation). `team` and `driver` accept cuid or slug.
 
 ```bash
-curl "http://localhost:3000/api/v1/entries?driver=jules-gounon"
+curl "http://localhost:4000/api/v1/entries?driver=jules-gounon"
 ```
 
 ### Transfers
