@@ -3,366 +3,610 @@
     "firstName": "Kyle",
     "lastName": "Larson",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kyle_larson_%2852866355736%29_%28cropped%29.jpg/500px-Kyle_larson_%2852866355736%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kyle_larson_(52866355736)_(cropped).jpg"
   },
   {
     "firstName": "Chase",
     "lastName": "Elliott",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Chase_elliott_%2852703584295%29_%28cropped%29.jpg/500px-Chase_elliott_%2852703584295%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Chase_elliott_(52703584295)_(cropped).jpg"
   },
   {
     "firstName": "William",
     "lastName": "Byron",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/William_byron_%2853643707900%29.jpg/500px-William_byron_%2853643707900%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:William_byron_(53643707900).jpg"
   },
   {
     "firstName": "Alex",
     "lastName": "Bowman",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Alex_Bowman_at_Darlington_2019.jpg/500px-Alex_Bowman_at_Darlington_2019.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Bowman_at_Darlington_2019.jpg"
   },
   {
     "firstName": "Cole",
     "lastName": "Custer",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Cole_custer_%2839335547260%29_%28cropped%29.jpg/500px-Cole_custer_%2839335547260%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Cole_custer_(39335547260)_(cropped).jpg"
   },
   {
     "firstName": "Ricky",
     "lastName": "Stenhouse Jr.",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ricky_Stenhouse_Jr._2018_NASCAR_Media_Tour_%28cropped%29.jpg/500px-Ricky_Stenhouse_Jr._2018_NASCAR_Media_Tour_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Zach Catanzareti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ricky_Stenhouse_Jr._2018_NASCAR_Media_Tour_(cropped).jpg"
   },
   {
     "firstName": "Ty",
     "lastName": "Dillon",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Ty_Dillon_Driver_Introductions_Las_Vegas_2023.jpg/500px-Ty_Dillon_Driver_Introductions_Las_Vegas_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ty_Dillon_Driver_Introductions_Las_Vegas_2023.jpg"
   },
   {
     "firstName": "A.",
     "lastName": "J. Allmendinger",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TSM_AJ_Allmendinger_-_2015_-_Stierch_2.jpg/500px-TSM_AJ_Allmendinger_-_2015_-_Stierch_2.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Sarah Stierch",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:TSM_AJ_Allmendinger_-_2015_-_Stierch_2.jpg"
   },
   {
     "firstName": "Austin",
     "lastName": "Dillon",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/TSM350_2015_-_Austin_Dillon_-_1_-_Stierch.jpg/500px-TSM350_2015_-_Austin_Dillon_-_1_-_Stierch.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Sarah Stierch",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:TSM350_2015_-_Austin_Dillon_-_1_-_Stierch.jpg"
   },
   {
     "firstName": "Kyle",
     "lastName": "Busch",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Kyle_busch_erik_jones_%2849561738018%29_%28cropped%29.jpg/500px-Kyle_busch_erik_jones_%2849561738018%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kyle_busch_erik_jones_(49561738018)_(cropped).jpg"
   },
   {
     "firstName": "Cody",
     "lastName": "Ware",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cody_Ware%2C_2026_Vegas_1_portrait_photo.jpg/500px-Cody_Ware%2C_2026_Vegas_1_portrait_photo.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Nascar9919",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Cody_Ware,_2026_Vegas_1_portrait_photo.jpg"
   },
   {
     "firstName": "Daniel",
     "lastName": "Suárez",
     "nationality": "MX",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Daniel_Suarez_Auto_Club_2022.jpg/500px-Daniel_Suarez_Auto_Club_2022.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Daniel_Suarez_Auto_Club_2022.jpg"
   },
   {
     "firstName": "Michael",
     "lastName": "McDowell",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Michael_mcdowell_%2851277305138%29_%28cropped%29.jpg/500px-Michael_mcdowell_%2851277305138%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Michael_mcdowell_(51277305138)_(cropped).jpg"
   },
   {
     "firstName": "Carson",
     "lastName": "Hocevar",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/CarsonHocevarARCA2019Madison.jpg/500px-CarsonHocevarARCA2019Madison.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Royalbroil",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:CarsonHocevarARCA2019Madison.jpg"
   },
   {
     "firstName": "Ross",
     "lastName": "Chastain",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Ross_Chastain_Sonoma_2024.jpg/500px-Ross_Chastain_Sonoma_2024.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ross_Chastain_Sonoma_2024.jpg"
   },
   {
     "firstName": "Connor",
     "lastName": "Zilisch",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Connor_Zilisch_Sonoma_2025.jpg/500px-Connor_Zilisch_Sonoma_2025.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Connor_Zilisch_Sonoma_2025.jpg"
   },
   {
     "firstName": "Shane",
     "lastName": "van Gisbergen",
     "nationality": "NZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Shane_van_Gisbergen_2020_Supercars_launch.jpg/500px-Shane_van_Gisbergen_2020_Supercars_launch.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Kytabu",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Shane_van_Gisbergen_2020_Supercars_launch.jpg"
   },
   {
     "firstName": "Noah",
     "lastName": "Gragson",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Noah_gragson_%2851276388087%29_%28cropped%29.jpg/500px-Noah_gragson_%2851276388087%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Noah_gragson_(51276388087)_(cropped).jpg"
   },
   {
     "firstName": "Todd",
     "lastName": "Gilliland",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Todd_Gilliland_at_Martinsville_Speedway_2019_%28cropped%29.jpeg/500px-Todd_Gilliland_at_Martinsville_Speedway_2019_%28cropped%29.jpeg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Dough4872",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Todd_Gilliland_at_Martinsville_Speedway_2019_(cropped).jpeg"
   },
   {
     "firstName": "Zane",
     "lastName": "Smith",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Zane_smith_%2852703589495%29_%28cropped%29.jpg/500px-Zane_smith_%2852703589495%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Zane_smith_(52703589495)_(cropped).jpg"
   },
   {
     "firstName": "Brad",
     "lastName": "Keselowski",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Brad_Keselowski_2017_NASCAR_Media_Tour.jpg/500px-Brad_Keselowski_2017_NASCAR_Media_Tour.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Zach Catanzareti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Brad_Keselowski_2017_NASCAR_Media_Tour.jpg"
   },
   {
     "firstName": "Chris",
     "lastName": "Buescher",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Chris_Buescher_Driver_Introductions_Pocono_2022.jpg/500px-Chris_Buescher_Driver_Introductions_Pocono_2022.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Chris_Buescher_Driver_Introductions_Pocono_2022.jpg"
   },
   {
     "firstName": "Ryan",
     "lastName": "Preece",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ryan_Preece_Homestead_2018.jpg/500px-Ryan_Preece_Homestead_2018.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Zach Catanzareti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ryan_Preece_Homestead_2018.jpg"
   },
   {
     "firstName": "Austin",
     "lastName": "Cindric",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Austin_Cindric_Outside_Hauler_In_Iowa.jpg/500px-Austin_Cindric_Outside_Hauler_In_Iowa.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "NSCRDVA",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Austin_Cindric_Outside_Hauler_In_Iowa.jpg"
   },
   {
     "firstName": "Ryan",
     "lastName": "Blaney",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Ryan_blaney_%2851383017698%29_%28cropped%29.jpg/500px-Ryan_blaney_%2851383017698%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ryan_blaney_(51383017698)_(cropped).jpg"
   },
   {
     "firstName": "Joey",
     "lastName": "Logano",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Joey_logano_%2853643583939%29.jpg/500px-Joey_logano_%2853643583939%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Joey_logano_(53643583939).jpg"
   },
   {
     "firstName": "Josh",
     "lastName": "Berry",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Josh_Berry_Driver_Introductions_Las_Vegas_2023_%28headshot%29.jpg/500px-Josh_Berry_Driver_Introductions_Las_Vegas_2023_%28headshot%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Josh_Berry_Driver_Introductions_Las_Vegas_2023_(headshot).jpg"
   },
   {
     "firstName": "Bubba",
     "lastName": "Wallace",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bubba_wallace_%2851308773075%29_%28cropped%29.jpg/500px-Bubba_wallace_%2851308773075%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Bubba_wallace_(51308773075)_(cropped).jpg"
   },
   {
     "firstName": "Riley",
     "lastName": "Herbst",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Riley_Herbst_2018_ARCA_Madison.jpg/500px-Riley_Herbst_2018_ARCA_Madison.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Royalbroil",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Riley_Herbst_2018_ARCA_Madison.jpg"
   },
   {
     "firstName": "Tyler",
     "lastName": "Reddick",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tyler_Reddick_Sonoma_2024.jpg/500px-Tyler_Reddick_Sonoma_2024.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tyler_Reddick_Sonoma_2024.jpg"
   },
   {
     "firstName": "Denny",
     "lastName": "Hamlin",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Denny_hamlin_%2848010188356%29_%28cropped%29.jpg/500px-Denny_hamlin_%2848010188356%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Denny_hamlin_(48010188356)_(cropped).jpg"
   },
   {
     "firstName": "Chase",
     "lastName": "Briscoe",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/5/54/Chase_briscoe.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "NSCRDVA",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Chase_briscoe.jpg"
   },
   {
     "firstName": "Christopher",
     "lastName": "Bell",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Christopher_Bell_2025_%28cropped%29.jpg/500px-Christopher_Bell_2025_%28cropped%29.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "Arlington National Cemetery",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Christopher_Bell_2025_(cropped).jpg"
   },
   {
     "firstName": "Ty",
     "lastName": "Gibbs",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Ty_Gibbs_Clash_2023.jpg/500px-Ty_Gibbs_Clash_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ty_Gibbs_Clash_2023.jpg"
   },
   {
     "firstName": "John",
     "lastName": "Hunter Nemechek",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/John_hunter_nemechek_%2845277725104%29.jpg/500px-John_hunter_nemechek_%2845277725104%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Zach Catanzareti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:John_hunter_nemechek_(45277725104).jpg"
   },
   {
     "firstName": "Erik",
     "lastName": "Jones",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Erik_Jones_Talking_Slinger_2016.jpg/500px-Erik_Jones_Talking_Slinger_2016.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Royalbroil",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Erik_Jones_Talking_Slinger_2016.jpg"
   },
   {
     "firstName": "Caio",
     "lastName": "Collet",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Caio_Collet%2C_interview.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Lito Cavalcanti on YouTube",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Caio_Collet,_interview.jpg"
   },
   {
     "firstName": "Santino",
     "lastName": "Ferrucci",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2017_United_States_Grand_Prix_Ferrucci_%2837949009352%29.jpg/500px-2017_United_States_Grand_Prix_Ferrucci_%2837949009352%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "https://www.flickr.com/photos/mrlaugh/",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2017_United_States_Grand_Prix_Ferrucci_(37949009352).jpg"
   },
   {
     "firstName": "Will",
     "lastName": "Power",
     "nationality": "AU",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Will_Power_at_Carb_Day_2015_-_Stierch.jpg/500px-Will_Power_at_Carb_Day_2015_-_Stierch.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Sarah Stierch",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Will_Power_at_Carb_Day_2015_-_Stierch.jpg"
   },
   {
     "firstName": "Kyle",
     "lastName": "Kirkwood",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Kyle_kirkwood_%2852261679565%29_%28cropped%29.jpg/500px-Kyle_kirkwood_%2852261679565%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kyle_kirkwood_(52261679565)_(cropped).jpg"
   },
   {
     "firstName": "Marcus",
     "lastName": "Ericsson",
     "nationality": "SE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Marcus_Ericsson_in_2023.jpg/500px-Marcus_Ericsson_in_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Frankie Fouganthin",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Marcus_Ericsson_in_2023.jpg"
   },
   {
     "firstName": "Pato",
     "lastName": "O’Ward",
     "nationality": "MX",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pato_O%27Ward_%282021%29.jpg/500px-Pato_O%27Ward_%282021%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Wolkenjaeger",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Pato_O%27Ward_(2021).jpg"
   },
   {
     "firstName": "Nolan",
     "lastName": "Siegel",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Nolan_Siegel_at_the_Hy-Vee_Homefront_250_at_Iowa_Speedway_%28cropped%29.jpg/500px-Nolan_Siegel_at_the_Hy-Vee_Homefront_250_at_Iowa_Speedway_%28cropped%29.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "Jason Everett",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Nolan_Siegel_at_the_Hy-Vee_Homefront_250_at_Iowa_Speedway_(cropped).jpg"
   },
   {
     "firstName": "Christian",
     "lastName": "Lundgaard",
     "nationality": "DK",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Christian_lundgaard_IndyCar_2021.jpg/500px-Christian_lundgaard_IndyCar_2021.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Christian_lundgaard_IndyCar_2021.jpg"
   },
   {
     "firstName": "Kyffin",
     "lastName": "Simpson",
     "nationality": "KY",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/DSC3486_%2852680972329%29.jpg/500px-DSC3486_%2852680972329%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Osajus Photography from Asheville, NC, United States",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:DSC3486_(52680972329).jpg"
   },
   {
     "firstName": "Scott",
     "lastName": "Dixon",
     "nationality": "NZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Scott_Dixon_at_Road_America_in_2021.png/500px-Scott_Dixon_at_Road_America_in_2021.png",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Nick Jacuby Photography",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Scott_Dixon_at_Road_America_in_2021.png"
   },
   {
     "firstName": "Álex",
     "lastName": "Palou",
     "nationality": "ES",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Alex_Palou_at_2023_Indianapolis_500_%28cropped%29.jpg/500px-Alex_Palou_at_2023_Indianapolis_500_%28cropped%29.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "Governor Eric Holcomb",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Palou_at_2023_Indianapolis_500_(cropped).jpg"
   },
   {
     "firstName": "Romain",
     "lastName": "Grosjean",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Romain_Grosjean_at_Road_America_in_2021.png/500px-Romain_Grosjean_at_Road_America_in_2021.png",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Nick Jacuby Photography",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Romain_Grosjean_at_Road_America_in_2021.png"
   },
   {
     "firstName": "Dennis",
     "lastName": "Hauger",
     "nationality": "NO",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Dennis_Hauger_Austria_2022.jpg/500px-Dennis_Hauger_Austria_2022.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Dennis_Hauger_Austria_2022.jpg"
   },
   {
     "firstName": "Alexander",
     "lastName": "Rossi",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Andretti_Autosport_Visit_180405-F-KS667-0012_%28cropped%29.jpg/500px-Andretti_Autosport_Visit_180405-F-KS667-0012_%28cropped%29.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "Senior Airman Ridge Shan",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Andretti_Autosport_Visit_180405-F-KS667-0012_(cropped).jpg"
   },
   {
     "firstName": "Christian",
     "lastName": "Rasmussen",
     "nationality": "DK",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Era_LMP2_WGI23_03.jpg/500px-Era_LMP2_WGI23_03.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "SmackJam",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Era_LMP2_WGI23_03.jpg"
   },
   {
     "firstName": "Rinus",
     "lastName": "VeeKay",
     "nationality": "NL",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rinus_veekay_%2851222252767%29_%28cropped%29.jpg/500px-Rinus_veekay_%2851222252767%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Rinus_veekay_(51222252767)_(cropped).jpg"
   },
   {
     "firstName": "Sting",
     "lastName": "Ray Robb",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Sting_Ray_Robb_%2853760682533%29_%28cropped%29.jpg/500px-Sting_Ray_Robb_%2853760682533%29_%28cropped%29.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "City of Detroit",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Sting_Ray_Robb_(53760682533)_(cropped).jpg"
   },
   {
     "firstName": "Felix",
     "lastName": "Rosenqvist",
     "nationality": "SE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Felix_Rosenqvist_%282021%29.jpg/500px-Felix_Rosenqvist_%282021%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Wolkenjaeger",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Felix_Rosenqvist_(2021).jpg"
   },
   {
     "firstName": "Marcus",
     "lastName": "Armstrong",
     "nationality": "NZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Marcus_Armstrong_Austria_2022.jpg/500px-Marcus_Armstrong_Austria_2022.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Marcus_Armstrong_Austria_2022.jpg"
   },
   {
     "firstName": "Graham",
     "lastName": "Rahal",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Graham_Rahal_2010_Indy_500_Practice_Day_7.JPG/500px-Graham_Rahal_2010_Indy_500_Practice_Day_7.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Manningmbd",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Graham_Rahal_2010_Indy_500_Practice_Day_7.JPG"
   },
   {
     "firstName": "Louis",
     "lastName": "Foster",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Foster-0011.jpg/500px-Foster-0011.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Tomoz1123",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Foster-0011.jpg"
   },
   {
     "firstName": "Mick",
     "lastName": "Schumacher",
     "nationality": "DE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mick_Schumacher_in_2022.JPG/500px-Mick_Schumacher_in_2022.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Sven Mandel",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Mick_Schumacher_in_2022.JPG"
   },
   {
     "firstName": "Josef",
     "lastName": "Newgarden",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Josef_Newgarden_Iowa_2022_%28cropped%29.png/500px-Josef_Newgarden_Iowa_2022_%28cropped%29.png",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Nick Jacuby Photography",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Josef_Newgarden_Iowa_2022_(cropped).png"
   },
   {
     "firstName": "Scott",
     "lastName": "McLaughlin",
     "nationality": "NZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Scott_McLaughlin_at_Road_America_in_2021.png/500px-Scott_McLaughlin_at_Road_America_in_2021.png",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Nick Jacuby Photography",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Scott_McLaughlin_at_Road_America_in_2021.png"
   },
   {
     "firstName": "David",
     "lastName": "Malukas",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/David_Malukas_2025.png/500px-David_Malukas_2025.png",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "FanAmp Inc.",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:David_Malukas_2025.png"
   }
 ]

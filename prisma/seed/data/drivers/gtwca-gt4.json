@@ -2,7 +2,11 @@
   {
     "firstName": "Alessio",
     "lastName": "Picariello",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Alessio_Picariello.JPG/500px-Alessio_Picariello.JPG",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Lutz H",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Alessio_Picariello.JPG"
   },
   {
     "firstName": "Lu",
@@ -12,7 +16,11 @@
   {
     "firstName": "Laurin",
     "lastName": "Heinrich",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/FIA_Porsche_Supercup_Austria_2022_Podium_Race_%287%29.jpg/500px-FIA_Porsche_Supercup_Austria_2022_Podium_Race_%287%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:FIA_Porsche_Supercup_Austria_2022_Podium_Race_(7).jpg"
   },
   {
     "firstName": "Liu",
@@ -27,7 +35,11 @@
   {
     "firstName": "Seiji",
     "lastName": "Ara",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Seiji_Ara_2010_Motorsport_Japan.jpg/500px-Seiji_Ara_2010_Motorsport_Japan.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Seiji_Ara_2010_Motorsport_Japan.jpg"
   },
   {
     "firstName": "Tomohide",
@@ -77,7 +89,11 @@
   {
     "firstName": "Jesse",
     "lastName": "Krohn",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Jesse_Krohn_at_the_2025_Masaryk_Racing_Days_in_Brno_%286_September_2025%29.jpg/500px-Jesse_Krohn_at_the_2025_Masaryk_Racing_Days_in_Brno_%286_September_2025%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "CrashmasterSOAD",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Jesse_Krohn_at_the_2025_Masaryk_Racing_Days_in_Brno_(6_September_2025).jpg"
   },
   {
     "firstName": "Max",
@@ -87,7 +103,11 @@
   {
     "firstName": "Adderly",
     "lastName": "Fong",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/Add_s.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Kang326",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Add_s.jpg"
   },
   {
     "firstName": "Sun",
@@ -97,7 +117,11 @@
   {
     "firstName": "Brendon",
     "lastName": "Leitch",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/24H_Series_2023_Spa_Nr._10_%282%29.jpg/500px-24H_Series_2023_Spa_Nr._10_%282%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:24H_Series_2023_Spa_Nr._10_(2).jpg"
   },
   {
     "firstName": "Song",
@@ -117,7 +141,11 @@
   {
     "firstName": "Jaxon",
     "lastName": "Evans",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/FIA_Porsche_Supercup_Austria_2022_Nr._13.jpg/500px-FIA_Porsche_Supercup_Austria_2022_Nr._13.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:FIA_Porsche_Supercup_Austria_2022_Nr._13.jpg"
   },
   {
     "firstName": "Andrew",
@@ -147,7 +175,11 @@
   {
     "firstName": "Yuichi",
     "lastName": "Nakayama",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Yuichi_Nakayama_SP25.jpg/500px-Yuichi_Nakayama_SP25.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "Mitchea99",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Yuichi_Nakayama_SP25.jpg"
   },
   {
     "firstName": "Tsubasa",
@@ -192,7 +224,11 @@
   {
     "firstName": "Dorian",
     "lastName": "Boccolacci",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Dorian_Boccolacci_Abu_Dhabi_Test_2017.jpg/500px-Dorian_Boccolacci_Abu_Dhabi_Test_2017.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Kristin Greenwood",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Dorian_Boccolacci_Abu_Dhabi_Test_2017.jpg"
   },
   {
     "firstName": "Loek",
@@ -212,7 +248,11 @@
   {
     "firstName": "Sean",
     "lastName": "Gelael",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sean_Gelael_2023_Monza.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Sean_Gelael_2023_Monza.jpg"
   },
   {
     "firstName": "Ryo",
@@ -257,12 +297,20 @@
   {
     "firstName": "Thierry",
     "lastName": "Vermeulen",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vermeulen_2023.jpg/500px-Vermeulen_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Vermeulen_2023.jpg"
   },
   {
     "firstName": "Takayuki",
     "lastName": "Aoki",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Takayuki_Aoki.jpg/500px-Takayuki_Aoki.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Ngchikit",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Takayuki_Aoki.jpg"
   },
   {
     "firstName": "Atsushi",
@@ -272,12 +320,20 @@
   {
     "firstName": "Kimiya",
     "lastName": "Sato",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Kimiya_Sat%C5%8D_F3-2011.jpg/500px-Kimiya_Sat%C5%8D_F3-2011.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Oliver Pohlmann",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kimiya_Sat%C5%8D_F3-2011.jpg"
   },
   {
     "firstName": "Alessandro",
     "lastName": "Ghiretti",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/2024-08-25_Motorsport%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024%2C_Porsche_Mobil_1_Supercup_STP_3705_by_Stepro.jpg/500px-2024-08-25_Motorsport%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024%2C_Porsche_Mobil_1_Supercup_STP_3705_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Gro%C3%9Fer_Preis_der_Niederlande_2024,_Porsche_Mobil_1_Supercup_STP_3705_by_Stepro.jpg"
   },
   {
     "firstName": "Huang",
@@ -292,12 +348,20 @@
   {
     "firstName": "Bastian",
     "lastName": "Buus",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Carrera_Cup_Germany_2021_Austria_Nr._99_Buus.jpg/500px-Carrera_Cup_Germany_2021_Austria_Nr._99_Buus.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Carrera_Cup_Germany_2021_Austria_Nr._99_Buus.jpg"
   },
   {
     "firstName": "Klaus",
     "lastName": "Bachler",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Klaus_Bachler_%40_24h_Le_Mans_2014_%2816045669383%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Neuwieser from Germany",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Klaus_Bachler_@_24h_Le_Mans_2014_(16045669383)_(cropped).jpg"
   },
   {
     "firstName": "Robert",
@@ -312,7 +376,11 @@
   {
     "firstName": "Viny",
     "lastName": "Beltramelli",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Portrait_Viny_Beltramelli.jpg/500px-Portrait_Viny_Beltramelli.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Crocabulia753",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Portrait_Viny_Beltramelli.jpg"
   },
   {
     "firstName": "Sacha",
@@ -362,7 +430,11 @@
   {
     "firstName": "Pedro",
     "lastName": "Perino",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/F4_Italy_2022_Nr._11_%282%29.jpg/500px-F4_Italy_2022_Nr._11_%282%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:F4_Italy_2022_Nr._11_(2).jpg"
   },
   {
     "firstName": "Ruben",
@@ -442,7 +514,11 @@
   {
     "firstName": "Darren",
     "lastName": "Turner",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/DarrenTurner.jpg/500px-DarrenTurner.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "David Merrett",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:DarrenTurner.jpg"
   },
   {
     "firstName": "Julien",
@@ -462,7 +538,11 @@
   {
     "firstName": "Stefano",
     "lastName": "d'Aste",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Stefano_D%27Aste_2009_WTCC_Race_of_Japan.jpg/500px-Stefano_D%27Aste_2009_WTCC_Race_of_Japan.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Stefano_D%27Aste_2009_WTCC_Race_of_Japan.jpg"
   },
   {
     "firstName": "Maurizio",
@@ -647,7 +727,11 @@
   {
     "firstName": "McKenzy",
     "lastName": "Cresswell",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/FIA_F3_Austria_2023_Nr._31_Cresswell_%281%29.jpg/500px-FIA_F3_Austria_2023_Nr._31_Cresswell_%281%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:FIA_F3_Austria_2023_Nr._31_Cresswell_(1).jpg"
   },
   {
     "firstName": "Charlie",

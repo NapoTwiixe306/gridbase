@@ -1,10 +1,16 @@
 import Fastify, { FastifyInstance } from 'fastify';
 import { readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import cors from '@fastify/cors';
+import swagger from '@fastify/swagger';
+import swaggerUi from '@fastify/swagger-ui';
 import prismaPlugin from './plugins/prisma';
 import rateLimitPlugin from './plugins/rateLimit';
+import realtimePlugin from './plugins/realtime';
+import schedulerPlugin from './plugins/scheduler';
 import { registerErrorHandler } from './middleware/errorHandler';
 import { registerRoutes } from './routes';
+import { config } from './config';
 
 interface PackageJson {
   version: string;
@@ -32,10 +38,31 @@ export async function buildApp(): Promise<FastifyInstance> {
 
   registerErrorHandler(app);
 
-  await app.register(prismaPlugin);
-  await app.register(rateLimitPlugin);
+  // Allow the PitWall front-end (and any other browser client) to call the API.
+  // Unset CORS_ORIGIN reflects the request origin (any); set it to lock down.
+  await app.register(cors, {
+    origin: config.CORS_ORIGIN ? config.CORS_ORIGIN.split(',').map((o) => o.trim()) : true,
+  });
 
   const version = readVersion();
+
+  // Interactive API docs at /docs (OpenAPI spec at /docs/json).
+  await app.register(swagger, {
+    openapi: {
+      info: {
+        title: 'GridBase API',
+        description: 'Open-source motorsport data REST API — drivers, teams, series, transfers.',
+        version,
+      },
+    },
+  });
+  await app.register(swaggerUi, { routePrefix: '/docs' });
+
+  await app.register(prismaPlugin);
+  await app.register(rateLimitPlugin);
+  await app.register(realtimePlugin);
+  await app.register(schedulerPlugin);
+
   app.get('/health', async () => ({
     status: 'ok',
     timestamp: new Date().toISOString(),

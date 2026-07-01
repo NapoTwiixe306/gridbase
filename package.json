@@ -1,7 +1,7 @@
 {
   "name": "gridbase-api",
   "version": "0.1.3",
-  "description": "GridBase — an open-source motorsport data REST API",
+  "description": "GridBase API — an open-source motorsport data REST API",
   "license": "AGPL-3.0-only",
   "type": "commonjs",
   "main": "dist/server.js",
@@ -16,6 +16,8 @@
     "db:reset": "prisma migrate reset --force && npm run db:seed",
     "ingest:single-seaters": "ts-node scripts/ingest-single-seaters.ts",
     "ingest:f1-calendar": "ts-node scripts/ingest-f1-calendar.ts",
+    "ingest:driver-photos": "ts-node scripts/ingest-driver-photos.ts",
+    "sync:transfers": "ts-node scripts/sync-transfers.ts",
     "validate:data": "ts-node scripts/validate-data.ts",
     "lint": "eslint src --ext .ts --max-warnings=0",
     "typecheck": "tsc --noEmit",
@@ -27,15 +29,20 @@
     "seed": "ts-node prisma/seed.ts"
   },
   "dependencies": {
+    "@fastify/cors": "^8.5.0",
     "@fastify/rate-limit": "^9.1.0",
+    "@fastify/swagger": "^8.15.0",
+    "@fastify/swagger-ui": "^2.1.0",
     "@prisma/client": "^5.22.0",
     "dotenv": "^16.4.5",
     "fastify": "^4.28.1",
     "fastify-plugin": "^4.5.1",
+    "node-cron": "^3.0.3",
     "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",
+    "@types/node-cron": "^3.0.11",
     "@typescript-eslint/eslint-plugin": "^7.16.0",
     "@typescript-eslint/parser": "^7.16.0",
     "eslint": "^8.57.0",

@@ -3,13 +3,21 @@
     "firstName": "Oliver",
     "lastName": "Rowland",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2024-05-11_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_2978_by_Stepro_%28Oliver_Rowland%29.jpg/500px-2024-05-11_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_2978_by_Stepro_%28Oliver_Rowland%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2024-05-11_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2024_STP_2978_by_Stepro_(Oliver_Rowland).jpg"
   },
   {
     "firstName": "Norman",
     "lastName": "Nato",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Norman_Nato_2019_Monza_4_Hours_podium.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "United Autosports",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Norman_Nato_2019_Monza_4_Hours_podium.jpg"
   },
   {
     "firstName": "Pepe",
@@ -21,169 +29,281 @@
     "firstName": "Dan",
     "lastName": "Ticktum",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Dan_Ticktum_em_Macau_2018.jpg/500px-Dan_Ticktum_em_Macau_2018.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Brunapickler",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Dan_Ticktum_em_Macau_2018.jpg"
   },
   {
     "firstName": "Maximilian",
     "lastName": "Günther",
     "nationality": "DE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Maximilian_G%C3%BCnther_Nissan_e.dams_FIA_Formula_E_World_Championship_2021_Valencia_Testing.jpg/500px-Maximilian_G%C3%BCnther_Nissan_e.dams_FIA_Formula_E_World_Championship_2021_Valencia_Testing.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KAgamemnon",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Maximilian_G%C3%BCnther_Nissan_e.dams_FIA_Formula_E_World_Championship_2021_Valencia_Testing.jpg"
   },
   {
     "firstName": "Taylor",
     "lastName": "Barnard",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/2024-05-12_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_3190_by_Stepro.jpg/500px-2024-05-12_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_3190_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2024-05-12_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2024_STP_3190_by_Stepro.jpg"
   },
   {
     "firstName": "Mitch",
     "lastName": "Evans",
     "nationality": "NZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dallara_F307_of_Mitch_Evans.jpg/500px-Dallara_F307_of_Mitch_Evans.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "GTHO",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Dallara_F307_of_Mitch_Evans.jpg"
   },
   {
     "firstName": "António",
     "lastName": "Félix da Costa",
     "nationality": "PT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/2024-05-11_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_2794_by_Stepro_%28Ant%C3%B3nio_F%C3%A9lix_da_Costa%29.jpg/500px-2024-05-11_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2024_STP_2794_by_Stepro_%28Ant%C3%B3nio_F%C3%A9lix_da_Costa%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2024-05-11_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2024_STP_2794_by_Stepro_(Ant%C3%B3nio_F%C3%A9lix_da_Costa).jpg"
   },
   {
     "firstName": "Lucas",
     "lastName": "di Grassi",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/TechCrunch_Disrupt_Berlin_2018_%28Day_1%29_08_%28cropped%29.jpg/500px-TechCrunch_Disrupt_Berlin_2018_%28Day_1%29_08_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "TechCrunch",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_Berlin_2018_(Day_1)_08_(cropped).jpg"
   },
   {
     "firstName": "Zane",
     "lastName": "Maloney",
     "nationality": "BB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zane_Maloney_Austria_2022.jpg/500px-Zane_Maloney_Austria_2022.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Zane_Maloney_Austria_2022.jpg"
   },
   {
     "firstName": "Joel",
     "lastName": "Eriksson",
     "nationality": "SE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Joel_Eriksson_em_Macau_2018.jpg/500px-Joel_Eriksson_em_Macau_2018.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Brunapickler",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Joel_Eriksson_em_Macau_2018.jpg"
   },
   {
     "firstName": "Sébastien",
     "lastName": "Buemi",
     "nationality": "CH",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/%C3%96AMTC_Welt_des_Motorsports_2016-78_%28cropped%29.jpg/500px-%C3%96AMTC_Welt_des_Motorsports_2016-78_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "MacKrys",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:%C3%96AMTC_Welt_des_Motorsports_2016-78_(cropped).jpg"
   },
   {
     "firstName": "Nyck",
     "lastName": "de Vries",
     "nationality": "NL",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nyck_de_Vries_2024_WEC_Fuji.jpg/500px-Nyck_de_Vries_2024_WEC_Fuji.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Nyck_de_Vries_2024_WEC_Fuji.jpg"
   },
   {
     "firstName": "Edoardo",
     "lastName": "Mortara",
     "nationality": "CH",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2014_DTM_HockenheimringII_Edoardo_Mortara_by_2eight_8SC3371_%28cropped%29.jpg/500px-2014_DTM_HockenheimringII_Edoardo_Mortara_by_2eight_8SC3371_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Stefan Brending ( 2eight )",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2014_DTM_HockenheimringII_Edoardo_Mortara_by_2eight_8SC3371_(cropped).jpg"
   },
   {
     "firstName": "Jean-Éric",
     "lastName": "Vergne",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Festival_automobile_international_2012_-_Photocall_-_Jean-%C3%89ric_Vergne_-_004.jpg/500px-Festival_automobile_international_2012_-_Photocall_-_Jean-%C3%89ric_Vergne_-_004.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Thesupermat",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Festival_automobile_international_2012_-_Photocall_-_Jean-%C3%89ric_Vergne_-_004.jpg"
   },
   {
     "firstName": "Nick",
     "lastName": "Cassidy",
     "nationality": "NZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1749_by_Stepro.jpg/500px-2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1749_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023-04-23_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2023_1DX_1749_by_Stepro.jpg"
   },
   {
     "firstName": "Jake",
     "lastName": "Dennis",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1754_by_Stepro.jpg/500px-2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1754_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023-04-23_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2023_1DX_1754_by_Stepro.jpg"
   },
   {
     "firstName": "Felipe",
     "lastName": "Drugovich",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/2023_Fala%2C_Drugovich_%28interview%29_01.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Lito Cavalcanti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023_Fala,_Drugovich_(interview)_01.jpg"
   },
   {
     "firstName": "Nico",
     "lastName": "Müller",
     "nationality": "CH",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1777_by_Stepro.jpg/500px-2023-04-23_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1777_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023-04-23_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2023_1DX_1777_by_Stepro.jpg"
   },
   {
     "firstName": "Pascal",
     "lastName": "Wehrlein",
     "nationality": "DE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/2023-04-21_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_0600_by_Stepro.jpg/500px-2023-04-21_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_0600_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023-04-21_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2023_1DX_0600_by_Stepro.jpg"
   },
   {
     "firstName": "Ayumu",
     "lastName": "Iwasa",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Ayumu_Iwasa_Austria_2022.jpg/500px-Ayumu_Iwasa_Austria_2022.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ayumu_Iwasa_Austria_2022.jpg"
   },
   {
     "firstName": "Tomoki",
     "lastName": "Nojiri",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tomoki_Nojiri_2024_SF_Motegi.jpg/500px-Tomoki_Nojiri_2024_SF_Motegi.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tomoki_Nojiri_2024_SF_Motegi.jpg"
   },
   {
     "firstName": "Luke",
     "lastName": "Browning",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Luke_Browning.jpg/500px-Luke_Browning.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Tom Evans Photography",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Luke_Browning.jpg"
   },
   {
     "firstName": "Ukyo",
     "lastName": "Sasahara",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Sasahara_Uky%C5%8D.JPG/500px-Sasahara_Uky%C5%8D.JPG",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Lutz H",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Sasahara_Uky%C5%8D.JPG"
   },
   {
     "firstName": "Roman",
     "lastName": "Staněk",
     "nationality": "CZ",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/R.Stan%C4%9Bk_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "P.paroubkova",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:R.Stan%C4%9Bk_(cropped).jpg"
   },
   {
     "firstName": "Tadasuke",
     "lastName": "Makino",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tadasuke_Makino_2024_SF_Motegi.jpg/500px-Tadasuke_Makino_2024_SF_Motegi.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tadasuke_Makino_2024_SF_Motegi.jpg"
   },
   {
     "firstName": "Kakunoshin",
     "lastName": "Ohta",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Kakunoshin_Ohta_2024_SF_Suzuka_%28Nov%29.jpg/500px-Kakunoshin_Ohta_2024_SF_Suzuka_%28Nov%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kakunoshin_Ohta_2024_SF_Suzuka_(Nov).jpg"
   },
   {
     "firstName": "Kamui",
     "lastName": "Kobayashi",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kamui_Kobayashi_2024_WEC_Fuji_1.jpg/500px-Kamui_Kobayashi_2024_WEC_Fuji_1.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kamui_Kobayashi_2024_WEC_Fuji_1.jpg"
   },
   {
     "firstName": "Rikuto",
     "lastName": "Kobayashi",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Rikuto_Kobayashi.jpg/500px-Rikuto_Kobayashi.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Thfeeder",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Rikuto_Kobayashi.jpg"
   },
   {
     "firstName": "Charlie",
     "lastName": "Wurz",
     "nationality": "AT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Charlie_Wurz_2022.JPG/500px-Charlie_Wurz_2022.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Wurz_2022.JPG"
   },
   {
     "firstName": "Kenta",
     "lastName": "Yamashita",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Kenta_Yamashita_2024_SF_Motegi.jpg/500px-Kenta_Yamashita_2024_SF_Motegi.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kenta_Yamashita_2024_SF_Motegi.jpg"
   },
   {
     "firstName": "Seita",
@@ -195,7 +315,11 @@
     "firstName": "Juju",
     "lastName": "Noda",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Juju_Noda_2024_SF_Motegi_1.jpg/500px-Juju_Noda_2024_SF_Motegi_1.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Juju_Noda_2024_SF_Motegi_1.jpg"
   },
   {
     "firstName": "Syun",
@@ -207,31 +331,51 @@
     "firstName": "Nirei",
     "lastName": "Fukuzumi",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/2018_FIA_Formula_2_Championship%2C_Autodromo_Nazionale_Monza_%2844035861405%29.jpg/500px-2018_FIA_Formula_2_Championship%2C_Autodromo_Nazionale_Monza_%2844035861405%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "https://www.flickr.com/photos/78475089@N02/",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2018_FIA_Formula_2_Championship,_Autodromo_Nazionale_Monza_(44035861405).jpg"
   },
   {
     "firstName": "Zak",
     "lastName": "O'Sullivan",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/FIA_F3_Austria_2022_Nr._26_O%27Sullivan.jpg/500px-FIA_F3_Austria_2022_Nr._26_O%27Sullivan.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Lukas Raich",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:FIA_F3_Austria_2022_Nr._26_O%27Sullivan.jpg"
   },
   {
     "firstName": "Nobuharu",
     "lastName": "Matsushita",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Nobuharu_Matsushita_2015.jpg/500px-Nobuharu_Matsushita_2015.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Hpdexrr",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Nobuharu_Matsushita_2015.jpg"
   },
   {
     "firstName": "Sho",
     "lastName": "Tsuboi",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sho_Tsuboi_2024_SF_Suzuka_%28Nov%29.jpg/500px-Sho_Tsuboi_2024_SF_Suzuka_%28Nov%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Sho_Tsuboi_2024_SF_Suzuka_(Nov).jpg"
   },
   {
     "firstName": "Sacha",
     "lastName": "Fenestraz",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/2023-04-22_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1024_by_Stepro.jpg/500px-2023-04-22_Motorsport%2C_ABB_FIA_Formula_E_World_Championship%2C_Berlin_E-Prix_2023_1DX_1024_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023-04-22_Motorsport,_ABB_FIA_Formula_E_World_Championship,_Berlin_E-Prix_2023_1DX_1024_by_Stepro.jpg"
   },
   {
     "firstName": "Sena",
@@ -249,18 +393,30 @@
     "firstName": "Yuto",
     "lastName": "Nomura",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Yuto_Nomura_2025.png",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Thfeeder",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Yuto_Nomura_2025.png"
   },
   {
     "firstName": "Ren",
     "lastName": "Sato",
     "nationality": "JP",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ren_Sato_2024_SF_Suzuka_%28Nov%29.jpg/500px-Ren_Sato_2024_SF_Suzuka_%28Nov%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ren_Sato_2024_SF_Suzuka_(Nov).jpg"
   },
   {
     "firstName": "Igor",
     "lastName": "Omura Fraga",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Igor_Omura_Fraga_2024.png/500px-Igor_Omura_Fraga_2024.png",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "テリー土屋のくるまの話【公式】",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Igor_Omura_Fraga_2024.png"
   }
 ]

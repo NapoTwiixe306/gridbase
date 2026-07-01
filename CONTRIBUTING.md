@@ -1,6 +1,6 @@
-# Contributing to GridBase
+# Contributing to GridBase API
 
-Thanks for helping build GridBase — an open, structured database of motorsport
+Thanks for helping build GridBase API — an open, structured database of motorsport
 entries. Most contributions are **data** (drivers, teams, race entries) and they
 are easy to make: you edit a JSON file and run one command. Code contributions
 are welcome too.

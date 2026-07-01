@@ -7,7 +7,7 @@ function send(reply: FastifyReply, body: ApiErrorBody): void {
 }
 
 /**
- * Global error handler producing the consistent GridBase error envelope:
+ * Global error handler producing the consistent GridBase API error envelope:
  * { error: { code, message, statusCode } }.
  */
 export function registerErrorHandler(app: FastifyInstance): void {

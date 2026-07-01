@@ -1,14 +1,14 @@
-# GridBase
+# GridBase API
 
-[![CI](https://github.com/NapoTwiixe306/gridbase/actions/workflows/ci.yml/badge.svg)](https://github.com/NapoTwiixe306/gridbase/actions/workflows/ci.yml)
+[![CI](https://github.com/NapoTwiixe306/gridbase-api/actions/workflows/ci.yml/badge.svg)](https://github.com/NapoTwiixe306/gridbase-api/actions/workflows/ci.yml)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-brightgreen.svg)](./LICENSE-DATA)
 
-**GridBase** est une API REST open source dédiée aux données du sport automobile : pilotes, écuries, constructeurs, championnats, saisons, engagements et transferts, à travers l'endurance, la monoplace et le GT.
+**GridBase API** est une API REST open source dédiée aux données du sport automobile : pilotes, écuries, constructeurs, championnats, saisons, engagements et transferts, à travers l'endurance, la monoplace et le GT.
 
 Elle s'adresse aux développeurs qui veulent des données propres, structurées et inter-championnats : applications de jeux de pronostics, tableaux de bord statistiques, bots Discord, journalistes qui suivent le mercato, ou tous ceux qui en ont assez de gratter des listes d'engagés au format PDF.
 
-L'idée centrale de GridBase, c'est l'**engagement** (*Entry*) : le lien entre un pilote, une écurie, une saison, un championnat et un numéro de voiture. Un pilote n'appartient jamais à une écurie « dans l'absolu » — il détient un ou plusieurs engagements. C'est ce qui rend naturels le multi-championnat et les équipages d'endurance (2 à 3 pilotes par voiture).
+L'idée centrale de GridBase API, c'est l'**engagement** (*Entry*) : le lien entre un pilote, une écurie, une saison, un championnat et un numéro de voiture. Un pilote n'appartient jamais à une écurie « dans l'absolu » — il détient un ou plusieurs engagements. C'est ce qui rend naturels le multi-championnat et les équipages d'endurance (2 à 3 pilotes par voiture).
 
 ---
 
@@ -69,7 +69,7 @@ cp .env.example .env
 Le `.env` par défaut pointe vers la base Docker sur le port hôte **3307** (on évite 3306 pour ne jamais entrer en conflit avec un MySQL installé nativement) :
 
 ```
-DATABASE_URL="mysql://gridbase:gridbase_dev@127.0.0.1:3307/gridbase"
+DATABASE_URL="mysql://gridbase-api:gridbase_dev@127.0.0.1:3307/gridbase-api"
 PORT=3000
 ```
 
@@ -79,7 +79,7 @@ PORT=3000
 docker-compose up -d
 ```
 
-Cette commande démarre MySQL 8.0 (port hôte `3307`) et Adminer (`http://localhost:8080`). Un script d'init dans `docker/mysql-init/` configure l'utilisateur `gridbase` avec les privilèges nécessaires à Prisma (y compris la création de la *shadow database* pour les migrations).
+Cette commande démarre MySQL 8.0 (port hôte `3307`) et Adminer (`http://localhost:8080`). Un script d'init dans `docker/mysql-init/` configure l'utilisateur `gridbase-api` avec les privilèges nécessaires à Prisma (y compris la création de la *shadow database* pour les migrations).
 
 ### 4. Migrer et alimenter
 
@@ -464,7 +464,7 @@ Une écurie est l'organisation qui engage des voitures. Ajoute un objet au table
 
 > 📁 **Fichier :** `prisma/seed/data/entries/<ton-fichier>.json` &nbsp;·&nbsp; ▶️ **Lancer :** `npm run db:seed`
 
-L'**engagement** (*Entry*) est le cœur de GridBase : il représente **une voiture** — une écurie, dans une saison, dans un championnat, avec un numéro — et le(s) pilote(s) qui lui sont affectés. C'est ce qui relie un pilote à une écurie. Comme le lien vit sur l'engagement :
+L'**engagement** (*Entry*) est le cœur de GridBase API : il représente **une voiture** — une écurie, dans une saison, dans un championnat, avec un numéro — et le(s) pilote(s) qui lui sont affectés. C'est ce qui relie un pilote à une écurie. Comme le lien vit sur l'engagement :
 - le **même pilote** peut avoir **plusieurs engagements** (championnats différents, ou années différentes), et
 - une **seule voiture** peut porter **2 ou 3 pilotes** (endurance).
 

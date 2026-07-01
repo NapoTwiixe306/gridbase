@@ -1,4 +1,4 @@
-// GridBase — motorsport data schema
+// GridBase API — motorsport data schema
 // Database: MySQL 8.0
 // All string IDs are cuid().
 

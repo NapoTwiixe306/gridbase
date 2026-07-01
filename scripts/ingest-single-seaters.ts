@@ -264,7 +264,7 @@ interface EntryFile {
 
 async function fetchJson<T>(url: string): Promise<T> {
   for (let attempt = 1; attempt <= 3; attempt += 1) {
-    const res = await fetch(url, { headers: { 'User-Agent': 'GridBase/0.1 (ingest)' } });
+    const res = await fetch(url, { headers: { 'User-Agent': 'GridBase-API/0.1 (ingest)' } });
     if (res.ok) return (await res.json()) as T;
     if (res.status === 429 && attempt < 3) {
       await new Promise((r) => setTimeout(r, 1000 * attempt));
@@ -320,7 +320,7 @@ function writeJson(relPath: string, records: unknown[]): void {
 }
 
 async function main(): Promise<void> {
-  console.log('🏁 GridBase — generating F1 seed files (Jolpica + OpenF1)\n');
+  console.log('🏁 GridBase API — generating F1 seed files (Jolpica + OpenF1)\n');
 
   const drivers = new Map<string, DriverFile>();
   const teams = new Map<string, TeamFile>();

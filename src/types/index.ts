@@ -1,4 +1,4 @@
-// Shared TypeScript types and enums for GridBase.
+// Shared TypeScript types and enums for GridBase API.
 
 export const ERROR_CODES = {
   NOT_FOUND: 'NOT_FOUND',

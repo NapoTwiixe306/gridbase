@@ -37,3 +37,20 @@ export const transferListQuerySchema = paginationSchema.extend({
 });
 
 export type TransferListQuery = z.infer<typeof transferListQuerySchema>;
+
+/** Mercato-by-team view: net arrivals/departures for one series + season. */
+export const mercatoQuerySchema = z.object({
+  series: z.string().min(1),
+  season: z.string().min(1),
+});
+
+export type MercatoQuery = z.infer<typeof mercatoQuerySchema>;
+
+/** Grid comparator: diff a series' line-up between two seasons. */
+export const gridCompareQuerySchema = z.object({
+  series: z.string().min(1),
+  seasonA: z.coerce.number().int().min(1900).max(2100),
+  seasonB: z.coerce.number().int().min(1900).max(2100),
+});
+
+export type GridCompareQuery = z.infer<typeof gridCompareQuerySchema>;

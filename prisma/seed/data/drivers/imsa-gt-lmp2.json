@@ -9,19 +9,31 @@
     "firstName": "Alex",
     "lastName": "Quinn",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Alex_Quinn_-_2017_British_F4_Knockhill_%28Sunday%2C_R4_podium%29.jpg/500px-Alex_Quinn_-_2017_British_F4_Knockhill_%28Sunday%2C_R4_podium%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Cs-wolves",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Alex_Quinn_-_2017_British_F4_Knockhill_(Sunday,_R4_podium).jpg"
   },
   {
     "firstName": "Toby",
     "lastName": "Sowery",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Toby_Sowery_N%C3%BCrburgring_2024.jpg/500px-Toby_Sowery_N%C3%BCrburgring_2024.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "DriverDatabase1",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Toby_Sowery_N%C3%BCrburgring_2024.jpg"
   },
   {
     "firstName": "Paul",
     "lastName": "di Resta",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2014_DTM_HockenheimringII_Paul_di_Resta_by_2eight_8SC5384_%28cropped2%29.jpg/500px-2014_DTM_HockenheimringII_Paul_di_Resta_by_2eight_8SC5384_%28cropped2%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Stefan Brending ( 2eight )",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2014_DTM_HockenheimringII_Paul_di_Resta_by_2eight_8SC5384_(cropped2).jpg"
   },
   {
     "firstName": "Dan",
@@ -39,25 +51,41 @@
     "firstName": "Sebastian",
     "lastName": "Alvarez",
     "nationality": "MX",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Alvarez_at_Silverstone_%2843104586610%29.jpg/500px-Alvarez_at_Silverstone_%2843104586610%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Peter Taylor",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Alvarez_at_Silverstone_(43104586610).jpg"
   },
   {
     "firstName": "John",
     "lastName": "Farano",
     "nationality": "CA",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Tower_Motorsport_LMP2_WGI22.jpg/500px-Tower_Motorsport_LMP2_WGI22.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "SmackJam",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tower_Motorsport_LMP2_WGI22.jpg"
   },
   {
     "firstName": "Tristan",
     "lastName": "Vautier",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Tristan_Vautier_at_Carb_Day_2015_-_Sarah_Stierch.jpg/500px-Tristan_Vautier_at_Carb_Day_2015_-_Sarah_Stierch.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Sarah Stierch",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tristan_Vautier_at_Carb_Day_2015_-_Sarah_Stierch.jpg"
   },
   {
     "firstName": "David",
     "lastName": "Heinemeier Hansson",
     "nationality": "DK",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/David_Heinemeier_Hansson_Driver_of_Abu_Dhabi_Proton_Racing%27s_Porsche_911_RSR_%2827225732035%29_%28cropped%29.jpg/500px-David_Heinemeier_Hansson_Driver_of_Abu_Dhabi_Proton_Racing%27s_Porsche_911_RSR_%2827225732035%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "David Merrett from Daventry, England",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:David_Heinemeier_Hansson_Driver_of_Abu_Dhabi_Proton_Racing%27s_Porsche_911_RSR_(27225732035)_(cropped).jpg"
   },
   {
     "firstName": "Tobias",
@@ -69,19 +97,31 @@
     "firstName": "Mathias",
     "lastName": "Beche",
     "nationality": "CH",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mathias_Beche_Driver_of_Rebellion_Racing%27s_Rebellion_R-One_%2828605632343%29_%282%29.jpg/500px-Mathias_Beche_Driver_of_Rebellion_Racing%27s_Rebellion_R-One_%2828605632343%29_%282%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "David Merrett from Daventry, England",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Mathias_Beche_Driver_of_Rebellion_Racing%27s_Rebellion_R-One_(28605632343)_(2).jpg"
   },
   {
     "firstName": "Jacob",
     "lastName": "Abel",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Jacob_abel_%2853167283924%29.jpg/500px-Jacob_abel_%2853167283924%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Jacob_abel_(53167283924).jpg"
   },
   {
     "firstName": "Ferdinand",
     "lastName": "Habsburg",
     "nationality": "AT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ferdinand_Habsburg_2024_WEC_Fuji.jpg/500px-Ferdinand_Habsburg_2024_WEC_Fuji.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ferdinand_Habsburg_2024_WEC_Fuji.jpg"
   },
   {
     "firstName": "Naveen",
@@ -99,13 +139,21 @@
     "firstName": "Oliver",
     "lastName": "Jarvis",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/1-0Q3A1638_%2851948145980%29.jpg/500px-1-0Q3A1638_%2851948145980%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "United Autosports",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:1-0Q3A1638_(51948145980).jpg"
   },
   {
     "firstName": "Seth",
     "lastName": "Lucas",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Seth_Lucas_Racing_Car_Driver.png/500px-Seth_Lucas_Racing_Car_Driver.png",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Linqproject",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Seth_Lucas_Racing_Car_Driver.png"
   },
   {
     "firstName": "Jeremy",
@@ -117,7 +165,11 @@
     "firstName": "Tom",
     "lastName": "Dillmann",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tom_Dillmann.JPG/500px-Tom_Dillmann.JPG",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Lutz H",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Dillmann.JPG"
   },
   {
     "firstName": "Bijoy",
@@ -135,13 +187,21 @@
     "firstName": "Parker",
     "lastName": "Thompson",
     "nationality": "CA",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Parker_Thompson_-_2024_IMSA_VSR.jpg/500px-Parker_Thompson_-_2024_IMSA_VSR.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Circumvolution",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Parker_Thompson_-_2024_IMSA_VSR.jpg"
   },
   {
     "firstName": "Harry",
     "lastName": "Tincknell",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Harry_Tincknell_-_Driver_of_Ford_Chip_Ganassi_Team_UK%27s_Ford_GT_-_2017_6_Hours_of_Silverstone.jpg/500px-Harry_Tincknell_-_Driver_of_Ford_Chip_Ganassi_Team_UK%27s_Ford_GT_-_2017_6_Hours_of_Silverstone.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "David Merrett",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Harry_Tincknell_-_Driver_of_Ford_Chip_Ganassi_Team_UK%27s_Ford_GT_-_2017_6_Hours_of_Silverstone.jpg"
   },
   {
     "firstName": "Tonis",
@@ -165,7 +225,11 @@
     "firstName": "Pietro",
     "lastName": "Fittipaldi",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Pietro_and_Enzo_Fittipaldi_%28cropped%29_%281%29.jpg/500px-Pietro_and_Enzo_Fittipaldi_%28cropped%29_%281%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Pietro_and_Enzo_Fittipaldi_(cropped)_(1).jpg"
   },
   {
     "firstName": "Riccardo",
@@ -177,13 +241,21 @@
     "firstName": "James",
     "lastName": "Calado",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/James_Calado_Monza_2023.jpg/500px-James_Calado_Monza_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:James_Calado_Monza_2023.jpg"
   },
   {
     "firstName": "Connor",
     "lastName": "De Phillippi",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/De_Phillippi_24H_Daytona_2017.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "LoupDragon42",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:De_Phillippi_24H_Daytona_2017.jpg"
   },
   {
     "firstName": "Neil",
@@ -195,31 +267,51 @@
     "firstName": "Antonio",
     "lastName": "Garcia",
     "nationality": "ES",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Antonio_Garc%C3%ADa_2009.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "David Merrett from Daventry, England",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Antonio_Garc%C3%ADa_2009.jpg"
   },
   {
     "firstName": "Alexander",
     "lastName": "Sims",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sims_Alexander.JPG/500px-Sims_Alexander.JPG",
+    "photoLicense": "CC0",
+    "photographerCredit": "Lutz H at de.wikipedia",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Sims_Alexander.JPG"
   },
   {
     "firstName": "Nicky",
     "lastName": "Catsburg",
     "nationality": "NL",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Nick_Catsburg.JPG/500px-Nick_Catsburg.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Milhouse35",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Nick_Catsburg.JPG"
   },
   {
     "firstName": "Tommy",
     "lastName": "Milner",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tom_Milner_the_younger.jpg/500px-Tom_Milner_the_younger.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Emil Kirschner from Le Mans",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_Milner_the_younger.jpg"
   },
   {
     "firstName": "Andrea",
     "lastName": "Caldarelli",
     "nationality": "IT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/47/Andrea_Caldarelli.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Petr Gabriel Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Andrea_Caldarelli.jpg"
   },
   {
     "firstName": "Sandy",
@@ -231,13 +323,21 @@
     "firstName": "Ben",
     "lastName": "Barnicoat",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Barnicoat_at_Spa-Francorchamps.JPG/500px-Barnicoat_at_Spa-Francorchamps.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Coryjc23",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Barnicoat_at_Spa-Francorchamps.JPG"
   },
   {
     "firstName": "Jack",
     "lastName": "Hawksworth",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jack_Hawksworth_-_Carb_Day_2015_-_Stierch.jpg/500px-Jack_Hawksworth_-_Carb_Day_2015_-_Stierch.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Sarah Stierch",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Jack_Hawksworth_-_Carb_Day_2015_-_Stierch.jpg"
   },
   {
     "firstName": "Jason",
@@ -255,91 +355,151 @@
     "firstName": "Luca",
     "lastName": "Stolz",
     "nationality": "DE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Luca_Stolz.jpg/500px-Luca_Stolz.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Pietro.br",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Luca_Stolz.jpg"
   },
   {
     "firstName": "Max",
     "lastName": "Esterson",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/70th_MACAU_GRAND_PRIX_%28180%29.jpg/500px-70th_MACAU_GRAND_PRIX_%28180%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Dinkun Chen",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:70th_MACAU_GRAND_PRIX_(180).jpg"
   },
   {
     "firstName": "Nikita",
     "lastName": "Johnson",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Nikita_Johnson_USF_Pro_2000_Mid_Ohio.jpg/500px-Nikita_Johnson_USF_Pro_2000_Mid_Ohio.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "YellowstoneTrinity",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Nikita_Johnson_USF_Pro_2000_Mid_Ohio.jpg"
   },
   {
     "firstName": "Davide",
     "lastName": "Rigon",
     "nationality": "IT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Guoancar_9.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Guoanww",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Guoancar_9.JPG"
   },
   {
     "firstName": "Daniel",
     "lastName": "Serra",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Daniel_Serra_em_2023.png/500px-Daniel_Serra_em_2023.png",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Stock Car",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Daniel_Serra_em_2023.png"
   },
   {
     "firstName": "Ben",
     "lastName": "Barker",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Ben_Barker_in_2023.jpg/500px-Ben_Barker_in_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "KVYTICAL",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Ben_Barker_in_2023.jpg"
   },
   {
     "firstName": "Dennis",
     "lastName": "Olsen",
     "nationality": "NO",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Campbell_Olsen_Werner_2019_Bathurst_12_Hour.jpg/500px-Campbell_Olsen_Werner_2019_Bathurst_12_Hour.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Kytabu",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Campbell_Olsen_Werner_2019_Bathurst_12_Hour.jpg"
   },
   {
     "firstName": "Christopher",
     "lastName": "Mies",
     "nationality": "DE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Christopher_Mies.JPG/500px-Christopher_Mies.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Oliver Pohlmann",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Christopher_Mies.JPG"
   },
   {
     "firstName": "Frederic",
     "lastName": "Vervisch",
     "nationality": "BE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Vervischkampioen.JPG/500px-Vervischkampioen.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Quickshift",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Vervischkampioen.JPG"
   },
   {
     "firstName": "Harry",
     "lastName": "King",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Harry_King_-_2017_Ginetta_Junior_Knockhill_%28Sunday%2C_R1_podium%29.jpg/500px-Harry_King_-_2017_Ginetta_Junior_Knockhill_%28Sunday%2C_R1_podium%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Cs-wolves",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Harry_King_-_2017_Ginetta_Junior_Knockhill_(Sunday,_R1_podium).jpg"
   },
   {
     "firstName": "Nick",
     "lastName": "Tandy",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Nick_tandy_brandshatch2014.JPG/500px-Nick_tandy_brandshatch2014.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Robk23oxf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Nick_tandy_brandshatch2014.JPG"
   },
   {
     "firstName": "Klaus",
     "lastName": "Bachler",
     "nationality": "AT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Klaus_Bachler_%40_24h_Le_Mans_2014_%2816045669383%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Neuwieser from Germany",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Klaus_Bachler_@_24h_Le_Mans_2014_(16045669383)_(cropped).jpg"
   },
   {
     "firstName": "Ricardo",
     "lastName": "Feller",
     "nationality": "CH",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/2024-04-27_Motorsport%2C_DTM%2C_Oschersleben_STP_2027_%28cropped%29.jpg/500px-2024-04-27_Motorsport%2C_DTM%2C_Oschersleben_STP_2027_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2024-04-27_Motorsport,_DTM,_Oschersleben_STP_2027_(cropped).jpg"
   },
   {
     "firstName": "Thomas",
     "lastName": "Preining",
     "nationality": "AT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2023-05-28_Motorsport%2C_DTM%2C_Oschersleben_1DX_5396_by_Stepro.jpg/500px-2023-05-28_Motorsport%2C_DTM%2C_Oschersleben_1DX_5396_by_Stepro.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Steffen Prößdorf",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2023-05-28_Motorsport,_DTM,_Oschersleben_1DX_5396_by_Stepro.jpg"
   },
   {
     "firstName": "Kenton",
     "lastName": "Koch",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Kenton_Koch_with_the_Skip_Barber_Crew-Hank%2C_John%2C_Trevor_and_Tommy_%2810148069163%29.jpg/500px-Kenton_Koch_with_the_Skip_Barber_Crew-Hank%2C_John%2C_Trevor_and_Tommy_%2810148069163%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Skip Barber",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Kenton_Koch_with_the_Skip_Barber_Crew-Hank,_John,_Trevor_and_Tommy_(10148069163).jpg"
   },
   {
     "firstName": "Robert",
@@ -357,13 +517,21 @@
     "firstName": "Benjamin",
     "lastName": "Pedersen",
     "nationality": "DK",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Benjamin_pedersen_%2852959116295%29_%28cropped%29.jpg/500px-Benjamin_pedersen_%2852959116295%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Zach Catanzareti Photo",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Benjamin_pedersen_(52959116295)_(cropped).jpg"
   },
   {
     "firstName": "Aaron",
     "lastName": "Telitz",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Aaron_Telitz_Victory_Lane_Road_America_2018.jpg/500px-Aaron_Telitz_Victory_Lane_Road_America_2018.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Willsome429",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Aaron_Telitz_Victory_Lane_Road_America_2018.jpg"
   },
   {
     "firstName": "Frankie",
@@ -393,7 +561,11 @@
     "firstName": "Felipe",
     "lastName": "Fraga",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Felipe_Fraga_em_2023.png/500px-Felipe_Fraga_em_2023.png",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Stock Car",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Felipe_Fraga_em_2023.png"
   },
   {
     "firstName": "Sheena",
@@ -417,43 +589,71 @@
     "firstName": "Valentin",
     "lastName": "Hasse-Clot",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Porsche_911_GT3_Cup_%28Valentin_Hasse_Cl%C3%B4t%29_%2842857185974%29.jpg/500px-Porsche_911_GT3_Cup_%28Valentin_Hasse_Cl%C3%B4t%29_%2842857185974%29.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "Guillaume Vachey from Chalon sur Saone, France",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_911_GT3_Cup_(Valentin_Hasse_Cl%C3%B4t)_(42857185974).jpg"
   },
   {
     "firstName": "Sebastien",
     "lastName": "Baud",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Sebastien_Baud_%28portrait%2C_2024%29.jpg/500px-Sebastien_Baud_%28portrait%2C_2024%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Wolkenjaeger",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Sebastien_Baud_(portrait,_2024).jpg"
   },
   {
     "firstName": "Antonio",
     "lastName": "Fuoco",
     "nationality": "IT",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antonio_Fuoco_2024_WEC_Fuji.jpg/500px-Antonio_Fuoco_2024_WEC_Fuji.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Morio",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Antonio_Fuoco_2024_WEC_Fuji.jpg"
   },
   {
     "firstName": "Simon",
     "lastName": "Mann",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/2024_6_Hours_of_Spa-Francorchamps_Vista_AF_Corse_Ferrari_296_GT3_No.55_%28DSC02308%29.jpg/500px-2024_6_Hours_of_Spa-Francorchamps_Vista_AF_Corse_Ferrari_296_GT3_No.55_%28DSC02308%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "MarcelX42",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:2024_6_Hours_of_Spa-Francorchamps_Vista_AF_Corse_Ferrari_296_GT3_No.55_(DSC02308).jpg"
   },
   {
     "firstName": "Lilou",
     "lastName": "Wadoux",
     "nationality": "FR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lilou_Wadoux_-_Ferrari_488_GTE_EVO_during_the_pitwalk_at_the_2023_Le_Mans_%2853468237274%29_%28cropped%29.jpg/500px-Lilou_Wadoux_-_Ferrari_488_GTE_EVO_during_the_pitwalk_at_the_2023_Le_Mans_%2853468237274%29_%28cropped%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Martin Lee from London, UK",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Lilou_Wadoux_-_Ferrari_488_GTE_EVO_during_the_pitwalk_at_the_2023_Le_Mans_(53468237274)_(cropped).jpg"
   },
   {
     "firstName": "Eduardo",
     "lastName": "Barrichello",
     "nationality": "BR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/Eduardo_Barrichello%2C_jan_2021.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "Lito Cavalcanti",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Eduardo_Barrichello,_jan_2021.jpg"
   },
   {
     "firstName": "Tom",
     "lastName": "Gamble",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Tom_gamble.jpg/500px-Tom_gamble.jpg",
+    "photoLicense": "CC0",
+    "photographerCredit": "DriverDatabase1",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Tom_gamble.jpg"
   },
   {
     "firstName": "Zacharie",
@@ -477,13 +677,21 @@
     "firstName": "Sven",
     "lastName": "Muller",
     "nationality": "DE",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Porsche_GT_Team%27s_Porsche_911_RSR_driven_by_Mathieu_Jaminet%2C_Sven_M%C3%BCller_and_Dennis_Olsen_%2848127004882%29.jpg/500px-Porsche_GT_Team%27s_Porsche_911_RSR_driven_by_Mathieu_Jaminet%2C_Sven_M%C3%BCller_and_Dennis_Olsen_%2848127004882%29.jpg",
+    "photoLicense": "CC_BY",
+    "photographerCredit": "David Merrett from Daventry, England",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Porsche_GT_Team%27s_Porsche_911_RSR_driven_by_Mathieu_Jaminet,_Sven_M%C3%BCller_and_Dennis_Olsen_(48127004882).jpg"
   },
   {
     "firstName": "Albert",
     "lastName": "Costa",
     "nationality": "ES",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Albert_Costa.JPG/500px-Albert_Costa.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Henry Mineur ( talk )",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Albert_Costa.JPG"
   },
   {
     "firstName": "Lorenzo",
@@ -495,25 +703,41 @@
     "firstName": "Manny",
     "lastName": "Franco",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Conquest_Ferrari_WGI25_01.jpg/500px-Conquest_Ferrari_WGI25_01.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "SmackJam",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Conquest_Ferrari_WGI25_01.jpg"
   },
   {
     "firstName": "Mason",
     "lastName": "Filippi",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mason_Filippi_Sonoma_2023.jpg/500px-Mason_Filippi_Sonoma_2023.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "TaurusEmerald",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Mason_Filippi_Sonoma_2023.jpg"
   },
   {
     "firstName": "Charlie",
     "lastName": "Eastwood",
     "nationality": "GB",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Charlie_Eastwood_-_2017_PCCGB_Knockhill_%28Sunday%29.jpg/500px-Charlie_Eastwood_-_2017_PCCGB_Knockhill_%28Sunday%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Cs-wolves",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Charlie_Eastwood_-_2017_PCCGB_Knockhill_(Sunday).jpg"
   },
   {
     "firstName": "Salih",
     "lastName": "Yoluc",
     "nationality": "TR",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Salih_Yolu%C3%A7_%2832173305308%29.jpg/500px-Salih_Yolu%C3%A7_%2832173305308%29.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "United Autosports",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Salih_Yolu%C3%A7_(32173305308).jpg"
   },
   {
     "firstName": "John",
@@ -525,13 +749,21 @@
     "firstName": "Spencer",
     "lastName": "Pumpelly",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GT67_Steven_Bertheau_Spencer_Pumpelly_2011_Road_America.jpg/500px-GT67_Steven_Bertheau_Spencer_Pumpelly_2011_Road_America.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Royalbroil",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:GT67_Steven_Bertheau_Spencer_Pumpelly_2011_Road_America.jpg"
   },
   {
     "firstName": "Madison",
     "lastName": "Snow",
     "nationality": "US",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Heylen_at_2014_Daytona.jpg/500px-Heylen_at_2014_Daytona.jpg",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Racerchick18",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Heylen_at_2014_Daytona.jpg"
   },
   {
     "firstName": "Danny",
@@ -567,7 +799,11 @@
     "firstName": "Indy",
     "lastName": "Dontje",
     "nationality": "NL",
-    "status": "ACTIVE"
+    "status": "ACTIVE",
+    "photoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Indy_Dontje_on_the_grid_of_the_2014_Zandvoort_Masters.JPG/500px-Indy_Dontje_on_the_grid_of_the_2014_Zandvoort_Masters.JPG",
+    "photoLicense": "CC_BY_SA",
+    "photographerCredit": "Poppo154",
+    "photoSourceUrl": "https://commons.wikimedia.org/wiki/File:Indy_Dontje_on_the_grid_of_the_2014_Zandvoort_Masters.JPG"
   },
   {
     "firstName": "Jake",

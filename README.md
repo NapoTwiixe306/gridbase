@@ -1,14 +1,14 @@
-# GridBase
+# GridBase API
 
-[![CI](https://github.com/NapoTwiixe306/gridbase/actions/workflows/ci.yml/badge.svg)](https://github.com/NapoTwiixe306/gridbase/actions/workflows/ci.yml)
+[![CI](https://github.com/NapoTwiixe306/gridbase-api/actions/workflows/ci.yml/badge.svg)](https://github.com/NapoTwiixe306/gridbase-api/actions/workflows/ci.yml)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](./LICENSE)
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-brightgreen.svg)](./LICENSE-DATA)
 
-**GridBase** is an open-source REST API for motorsport data — drivers, teams, manufacturers, series, seasons, entries and transfers across endurance, single-seater and GT championships.
+**GridBase API** is an open-source REST API for motorsport data — drivers, teams, manufacturers, series, seasons, entries and transfers across endurance, single-seater and GT championships.
 
 It is built for developers who want clean, structured, cross-series data: fantasy-league apps, statistics dashboards, Discord bots, journalists tracking the silly season, or anyone tired of scraping entry-list PDFs by hand.
 
-The central idea of GridBase is the **Entry**: the link between a driver, a team, a season, a series and a car number. A driver is never "in a team" in the abstract — they hold one or more Entries, which is what makes multi-series and endurance line-ups (2–3 drivers per car) work naturally.
+The central idea of GridBase API is the **Entry**: the link between a driver, a team, a season, a series and a car number. A driver is never "in a team" in the abstract — they hold one or more Entries, which is what makes multi-series and endurance line-ups (2–3 drivers per car) work naturally.
 
 ---
 
@@ -69,7 +69,7 @@ cp .env.example .env
 The default `.env` points at the Docker database on host port **3307** (3306 is avoided so it never clashes with a native MySQL install):
 
 ```
-DATABASE_URL="mysql://gridbase:gridbase_dev@127.0.0.1:3307/gridbase"
+DATABASE_URL="mysql://gridbase-api:gridbase_dev@127.0.0.1:3307/gridbase-api"
 PORT=3000
 ```
 
@@ -79,7 +79,7 @@ PORT=3000
 docker-compose up -d
 ```
 
-This starts MySQL 8.0 (host port `3307`) and Adminer (`http://localhost:8080`). An init script in `docker/mysql-init/` configures the `gridbase` user with the privileges Prisma needs (including shadow-database creation for migrations).
+This starts MySQL 8.0 (host port `3307`) and Adminer (`http://localhost:8080`). An init script in `docker/mysql-init/` configures the `gridbase-api` user with the privileges Prisma needs (including shadow-database creation for migrations).
 
 ### 4. Migrate and seed
 
@@ -465,7 +465,7 @@ A team is the organisation that fields cars. Add one object to the array.
 
 > 📁 **File:** `prisma/seed/data/entries/<your-file>.json` &nbsp;·&nbsp; ▶️ **Run:** `npm run db:seed`
 
-The **Entry** is the heart of GridBase: it represents **one car** — a team, in a season, in a series, with a car number — and the driver(s) assigned to it. This is what links a driver to a team. Because the link lives on the Entry:
+The **Entry** is the heart of GridBase API: it represents **one car** — a team, in a season, in a series, with a car number — and the driver(s) assigned to it. This is what links a driver to a team. Because the link lives on the Entry:
 - the **same driver** can have **several entries** (different series, or different years), and
 - a **single car** can carry **2–3 drivers** (endurance).
 

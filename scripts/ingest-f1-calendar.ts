@@ -59,7 +59,7 @@ interface ErgastResponse {
 
 async function main(): Promise<void> {
   const res = await fetch(`${JOLPICA_BASE}/${YEAR}/races/?format=json&limit=40`, {
-    headers: { 'User-Agent': 'GridBase/0.1 (calendar)' },
+    headers: { 'User-Agent': 'GridBase-API/0.1 (calendar)' },
   });
   if (!res.ok) throw new Error(`Jolpica request failed: ${res.status}`);
   const races = ((await res.json()) as ErgastResponse).MRData.RaceTable.Races;

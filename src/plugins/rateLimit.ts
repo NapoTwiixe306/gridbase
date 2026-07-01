@@ -5,7 +5,7 @@ import { config } from '../config';
 import { ERROR_CODES } from '../types';
 
 /**
- * Global rate limiting. Returns the standard GridBase error envelope with a
+ * Global rate limiting. Returns the standard GridBase API error envelope with a
  * RATE_LIMITED code when a client exceeds the window allowance.
  */
 async function rateLimitPlugin(app: FastifyInstance): Promise<void> {
